@@ -4,6 +4,7 @@ library(knitr)
 #### Read in data ############
 setwd(paste("W:/EXPERIMENTS/AUDITORY_RESTORED/REDUCTIES/SASCHA/Study_1/",
       "main experiment/Results - Compiled/nexp",sep=""))
+setwd("~/Arbeit/study 1/nexp")
 setwd("~/Study 1/nexp")
 xp2_lexdec <- read.delim("nxp2_lexdec.txt")
 xp2_voctest <- read.delim("nxp2_voctest.txt")
@@ -182,6 +183,7 @@ prop.table(table(xp2_voctest$voctest_correctness,xp2_voctest$spelling),2)
 chisq.test(table(xp2_voctest$voctest_correctness,xp2_voctest$spelling))
 
 # av_prof
+
 mean(xp2_questinf$av_prof[xp2_questinf$spelling=="-spelling"])
 mean(xp2_questinf$av_prof[xp2_questinf$spelling=="+spelling"])
 t.test(xp2_questinf$av_prof[xp2_questinf$spelling=="-spelling"], 
@@ -198,13 +200,19 @@ get_score<-function(d) {
   score<-correct.words - (2*incorrect.pseudo)
   score
 }
-score1<-sapply(split(xp2_lextale[xp2_lextale$spelling=="-spelling",],
-                     xp2_lextale[xp2_lextale$spelling=="-spelling",]
-                     $subject_oexp), get_score)
+spelling<-xp2_lextale[xp2_lextale$spelling=="+spelling",]
+nospelling<-xp2_lextale[xp2_lextale$spelling=="-spelling",]
+spelling$subject_oexp<-factor(spelling$subject_oexp)
+nospelling$subject_oexp<-factor(spelling$subject_oexp)
+score_all<-sapply(split(xp2_lextale,
+                        xp2_lextale$subject_oexp), get_score)
+mean(score_all)
+range(score_all)
+score1<-sapply(split(nospelling,
+                     nospelling$subject_oexp), get_score)
 mean(score1)
-score2<-sapply(split(xp2_lextale[xp2_lextale$spelling=="+spelling",],
-                     xp2_lextale[xp2_lextale$spelling=="+spelling",]
-                     $subject_oexp), get_score)
+score2<-sapply(split(spelling,
+                     spelling$subject_oexp), get_score)
 mean(score2)
 t.test(score1, score2)
 
