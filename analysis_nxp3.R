@@ -4,6 +4,7 @@ library(lmtest)
 #### Read in data ############
 setwd(paste("W:/EXPERIMENTS/AUDITORY_RESTORED/REDUCTIES/SASCHA/Study_1/",
       "main experiment/Results - Compiled/nexp",sep=""))
+setwd("~/Arbeit/Study 1/nexp/nexp")
 xp3_lexdec <- read.delim("../oexp/xp3/day2_part1(lex_dec)/compiled_4.txt")
 xp3_voctest <- read.delim("../oexp/xp3/day2_part2(voctest)/results_voctest_xp3.txt",head=FALSE)
 xp3_lextale <- read.delim("../oexp/xp3/day2_part4(lextale)/results_lextale_xp3_all.txt")
