@@ -18,6 +18,18 @@ xp1_lexdec$correctness<-as.factor(xp1_lexdec$correctness)
 levels(xp1_lexdec$correctness)<-c("wrong","correct")
 xp1_lexdec$red<-as.factor(xp1_lexdec$red)
 levels(xp1_lexdec$red)<-c("reduced","full")
+#only leave those subjects in questinf and voctest, and lextale that are also in the lexdec
+#and verify correct N (54)
+xp1_questinf<-xp1_questinf[xp1_questinf$subject_oexp%in%xp1_lexdec$subject_oexp,]
+xp1_questinf$subject_oexp<-factor(xp1_questinf$subject_oexp)
+length(unique(xp1_questinf$subject_oexp))
+xp1_voctest<-xp1_voctest[xp1_voctest$subject_oexp%in%xp1_lexdec$subject_oexp,]
+xp1_voctest$subject_oexp<-factor(xp1_voctest$subject_oexp)
+length(unique(xp1_voctest$subject_oexp))
+xp1_lextale<-xp1_lextale[xp1_lextale$subject_oexp%in%xp1_lexdec$subject_oexp,]
+xp1_lextale$subject_oexp<-factor(xp1_lextale$subject_oexp)
+length(unique(xp1_lextale$subject_oexp))
+unique(xp1_lexdec$subject_oexp)[which(!(unique(xp1_lexdec$subject_oexp)%in%xp1_lextale$subject_oexp))]
 ### add "set"-column
 xp1_voctest$set <- sapply(as.character(xp1_voctest$file), function(x) 
     strsplit(x, split = ("_"))[[1]][1])
@@ -178,6 +190,7 @@ rts_phontacSpelling[[1]]
 # vocabulary test
 table(xp1_voctest$voctest_correctness,xp1_voctest$spelling)
 prop.table(table(xp1_voctest$voctest_correctness,xp1_voctest$spelling),2)
+prop.table(table(xp1_voctest$voctest_correctness))
 chisq.test(table(xp1_voctest$voctest_correctness,xp1_voctest$spelling))
 # av_prof
 mean(xp1_questinf$av_prof[xp1_questinf$spelling=="-spelling"])

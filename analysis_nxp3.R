@@ -3,7 +3,7 @@ library(LMERConvenienceFunctions)
 library(lmtest)
 #### Read in data ############
 setwd(paste("W:/EXPERIMENTS/AUDITORY_RESTORED/REDUCTIES/SASCHA/Study_1/",
-      "main experiment/Results - Compiled/combined 2",sep=""))
+      "main experiment/Results - Compiled/nexp",sep=""))
 xp3_lexdec <- read.delim("../oexp/xp3/day2_part1(lex_dec)/compiled_4.txt")
 xp3_voctest <- read.delim("../oexp/xp3/day2_part2(voctest)/results_voctest_xp3.txt",head=FALSE)
 xp3_lextale <- read.delim("../oexp/xp3/day2_part4(lextale)/results_lextale_xp3_all.txt")
@@ -17,12 +17,19 @@ xp3_voctest = xp3_voctest[,-1]
 colnames(xp3_voctest) = c("file", "a1", "a2", "a3", "a4", "correct_answer", "assistant", "participant", "subject", "group", "response", "response_word", "voctest_correctness" )
 colnames(xp3_questinf)[1]<-"subject"
 colnames(xp3_lextale)[1]<-"subject"
-### rename levels of response correctness, and reduction for lexical decision task
-xp3_lexdec$correctness<-as.factor(xp3_lexdec$correctness)
-levels(xp3_lexdec$correctness)<-c("wrong","correct")
-xp3_lexdec$red<-as.factor(xp3_lexdec$red)
-levels(xp3_lexdec$red)<-c("reduced","full")
-#spelling columns
+#only leave those subjects in questinf and voctest, and lextale that are also in the lexdec
+#and verify correct N (54)
+xp3_questinf<-xp3_questinf[xp3_questinf$subject%in%xp3_lexdec$subject,]
+xp3_questinf$subject<-factor(xp3_questinf$subject)
+length(unique(xp3_questinf$subject))
+xp3_voctest<-xp3_voctest[xp3_voctest$subject%in%xp3_lexdec$subject,]
+xp3_voctest$subject<-factor(xp3_voctest$subject)
+length(unique(xp3_voctest$subject))
+xp3_lextale<-xp3_lextale[xp3_lextale$subject%in%xp3_lexdec$subject,]
+xp3_lextale$subject<-factor(xp3_lextale$subject)
+length(unique(xp3_lextale$subject))
+unique(xp3_lexdec$subject)[which(!(unique(xp3_lexdec$subject)%in%xp3_lextale$subject))]
+#add spelling columns
 xp3_lexdec$spelling<-as.factor(ifelse(xp3_lexdec$group==1,"-spelling","+spelling"))
 xp3_voctest$spelling<-ifelse(xp3_voctest$group==1,"-spelling","+spelling")
 xp3_lextale<-merge(xp3_lextale,unique(xp3_voctest[,c("subject","group")]), by.x="subject",by.y="subject",all.x=TRUE)
@@ -190,16 +197,24 @@ rts_redPhontac[[1]]
 rts_phontacSpelling<-get_rts(xp3.sub.03,xp3.sub.03$p_universally, xp3.sub.03$spelling)
 rts_phontacSpelling[[1]]
 ### stats, group comparison
+#age
+mean(sapply(split(xp3_lexdec$age,xp3_lexdec$subject),unique))
+range(sapply(split(xp3_lexdec$age,xp3_lexdec$subject),unique))
 # vocabulary test
 table(xp3_voctest$voctest_correctness,xp3_voctest$spelling)
+prop.table(table(xp3_voctest$voctest_correctness))
 prop.table(table(xp3_voctest$voctest_correctness,xp3_voctest$spelling),2)
 chisq.test(table(xp3_voctest$voctest_correctness,xp3_voctest$spelling))
 # av_prof
+mean(xp3_questinf$av_prof)
+range(xp3_questinf$av_prof)
 mean(xp3_questinf$av_prof[xp3_questinf$spelling=="-spelling"])
 mean(xp3_questinf$av_prof[xp3_questinf$spelling=="+spelling"])
 t.test(xp3_questinf$av_prof[xp3_questinf$spelling=="-spelling"], 
        xp3_questinf$av_prof[xp3_questinf$spelling=="+spelling"])
 #years French
+mean(xp3_questinf$jaar)
+range(xp3_questinf$jaar)
 mean(xp3_questinf$jaar[xp3_questinf$spelling=="-spelling"])
 mean(xp3_questinf$jaar[xp3_questinf$spelling=="+spelling"])
 t.test(xp3_questinf$jaar[xp3_questinf$spelling=="-spelling"], 
@@ -211,13 +226,27 @@ get_score<-function(d) {
   score<-correct.words - (2*incorrect.pseudo)
   score
 }
-score1<-sapply(split(xp3_lextale[xp3_lextale$spelling=="-spelling",],
-                     xp3_lextale[xp3_lextale$spelling=="-spelling",]
-                     $subject), get_score)
+spelling<-xp3_lextale[xp3_lextale$spelling=="+spelling",]
+spelling$subject<-factor(spelling$subject)
+nospelling<-xp3_lextale[xp3_lextale$spelling=="-spelling",]
+nospelling$subject<-factor(nospelling$subject)
+
+score_all<-sapply(split(xp3_lextale,
+                        xp3_lextale$subject), get_score)
+
+score_all["23"]<--1.56
+score_all["3007"]<--1.56
+str(score_all)
+mean(score_all)
+range(score_all)
+
+score1<-sapply(split(nospelling,
+                     nospelling$subject), get_score)
+score1["23"]<--1.56
+score1["3007"]<--1.56
 mean(score1)
-score2<-sapply(split(xp3_lextale[xp3_lextale$spelling=="+spelling",],
-                     xp3_lextale[xp3_lextale$spelling=="+spelling",]
-                     $subject), get_score)
+score2<-sapply(split(spelling,
+                     spelling$subject), get_score)
 mean(score2)
 t.test(score1, score2)
 
