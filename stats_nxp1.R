@@ -5,7 +5,6 @@ library(lme4)
 library(Hmisc)
 
 ### backfit 1
-
 m1 = glmer(correctness ~ (red*spelling*p_universally + trial
                          + voctest_correctness)  + (1|set) 
           + (1|subject_oexp), data = xp1.sub.03, family = binomial(logit))

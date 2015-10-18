@@ -183,7 +183,6 @@ rts_redPhontac<-get_rts(xp1.sub.04,xp1.sub.04$red, xp1.sub.04$p_universally)
 rts_redPhontac[[1]]
 draw_plot(rts_redPhontac[[1]], rts_redPhontac[[2]],c(800,2000),label=("RT (ms)"))
 
-
 rts_phontacSpelling<-get_rts(xp1.sub.04,xp1.sub.04$p_universally, xp1.sub.04$spelling)
 rts_phontacSpelling[[1]]
 ### stats, group comparison

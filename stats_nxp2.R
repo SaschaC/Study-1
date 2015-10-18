@@ -15,113 +15,54 @@ m2 = update(m1, ~. -red:spelling:p_universally)
 summary(m2)
 anova(m1, m2)
 drop1(m2)
-m3 = update(m2, ~. -voctest_correctness)
+m3 = update(m2, ~. -spelling:p_universally)
 summary(m3)
-# Random |set
-m4a = glmer(correctness ~ (spelling + red + p_universally 
-           + trial + red:p_universally + red:spelling + 
-             spelling:p_universally)
-           + (1+spelling|set) + (1|subject_oexp),family=binomial(logit),
-           data = xp1.sub.03);
-summary(m4a)
-m4b = glmer(correctness ~ (spelling + red + p_universally 
-                           + trial + red:p_universally + red:spelling
-                           + spelling:p_universally)
-            + (1+red|set) + (1|subject_oexp),family=binomial(logit),
-            data = xp1.sub.03);
-summary(m4b)
-m4c = glmer(correctness ~ (spelling + red + p_universally 
-                           + trial + red:p_universally + red:spelling
-                           + spelling:p_universally)
-            + (1+red+trial|set) + (1|subject_oexp),family=binomial(logit),
-            data = xp1.sub.03);
-summary(m4c)
-
-#forward fit 1
-m4d = glmer(correctness ~ (spelling + red + p_universally 
-                           + trial + red:p_universally + red:spelling
-                           + spelling:p_universally)
-            + (1+red|set) + (1+red|subject_oexp),family=binomial(logit),
-            data = xp1.sub.03);
-summary(m4d)
-m4e = glmer(correctness ~ (spelling + red + p_universally 
-                           + trial + red:p_universally + red:spelling
-                           + spelling:p_universally)
-            + (1+red|set) + (1+p_universally|subject_oexp),family=binomial(logit),
-            data = xp1.sub.03);
-summary(m4e)
-m4f = glmer(correctness ~ (spelling + red + p_universally 
-                           + trial + red:p_universally + red:spelling
-                           + spelling:p_universally)
-            + (1+red|set) + (1+trial|subject_oexp),family=binomial(logit),
-            data = xp1.sub.03);
-summary(m4f)
-# backfit 2
-m5<-glmer(correctness ~ (trial+red+spelling+p_universally+
-                           red:p_universally+spelling:red+
-                           spelling:p_universally
-                         )  + (1+red|set) 
-          + (1|subject_oexp), data = xp1.sub.03, family = binomial(logit))
+drop1(m3)
+m4 = update(m3, ~. -red:spelling)
+summary(m4)
+drop1(m4)
+m5 = update(m4, ~. -spelling)
 summary(m5)
 drop1(m5)
 m6 = update(m5, ~. -red:p_universally)
 summary(m6)
-#forwardfit 2
-m6a<-glmer(correctness ~ (trial+red+spelling+p_universally+
-                            +spelling:red+
-                            spelling:p_universally
-)  + (1+red+spelling|set) 
-+ (1|subject_oexp), data = xp1.sub.03, family = binomial(logit))
-summary(m6a)
-m6b<-glmer(correctness ~ (trial+red+spelling+p_universally+
-                            +spelling:red+
-                            spelling:p_universally
-)  + (1+red+trial|set) 
-+ (1|subject_oexp), data = xp1.sub.03, family = binomial(logit))
-summary(m6b)
-m6c<-glmer(correctness ~ (trial+red+spelling+p_universally+
-                            +spelling:red+
-                            spelling:p_universally
-)  + (1+red+trial|set) 
-+ (1+red|subject_oexp), data = xp1.sub.03, family = binomial(logit))
-summary(m6c)
-m6d<-glmer(correctness ~ (trial+red+spelling+p_universally+
-                            +spelling:red+
-                            spelling:p_universally
-)  + (1+red+trial|set) 
-+ (1+trial|subject_oexp), data = xp1.sub.03, family = binomial(logit))
-summary(m6d)
-m6e<-glmer(correctness ~ (trial+red+spelling+p_universally+
-                            +spelling:red+
-                            spelling:p_universally
-)  + (1+red+trial|set) 
-+ (1+p_universally|subject_oexp), data = xp1.sub.03, family = binomial(logit))
-summary(m6e)
+drop1(m6)
+m7 = glmer(correctness ~ (trial+ voctest_correctness)  + (1|set) 
+           + (1|subject_oexp), data = xp2.sub.03, family = binomial(logit))
 
-final_model<-m6
-summary(m6)
-########## check interactions
-d.red = subset(xp1.sub.03, red == "reduced")
-d.full = subset(xp1.sub.03, red == "full")
-d.legal = subset(xp1.sub.03, p_universally == "L")
-d.illegal = subset(xp1.sub.03, p_universally == "I")
+summary(m7)
+#Forward fit 1
+m7a = glmer(correctness ~ (red + trial + voctest_correctness)
+           + (1+red|set) + (1|subject_oexp),family=binomial(logit),
+           data = xp2.sub.03);
+AIC(m7a)
+m7b = glmer(correctness ~ (red + trial + voctest_correctness)
+            + (1+red+trial|set) + (1|subject_oexp),family=binomial(logit),
+            data = xp2.sub.03);
+AIC(m7b)
+m7c = glmer(correctness ~ (red + trial + voctest_correctness)
+            + (1+red+trial+voctest_correctness|set) + (1|subject_oexp),family=binomial(logit),
+            data = xp2.sub.03);
+AIC(m7c)
+m7d = glmer(correctness ~ (red + trial + voctest_correctness)
+            + (1+red+trial|set) + (1|subject_oexp),family=binomial(logit),
+            data = xp2.sub.03);
+AIC(m7d)
+m7e = glmer(correctness ~ (red + trial + voctest_correctness)
+            + (1+red+trial|set) + (1+red|subject_oexp),family=binomial(logit),
+            data = xp2.sub.03);
+AIC(m7e)
+m7f = glmer(correctness ~ (red + trial + voctest_correctness)
+            + (1+red+trial|set) + (1+red|subject_oexp),family=binomial(logit),
+            data = xp2.sub.03);
+AIC(m7f)
+m7g = glmer(correctness ~ (red + trial + voctest_correctness)
+            + (1+red+trial|set) + (1+red+trial|subject_oexp),family=binomial(logit),
+            data = xp2.sub.03);
+AIC(m7g)
 
-
-## reduced
-m1.red = glmer(correctness ~ (spelling+trial) + (1|set) + (1|subject_oexp), data = d.red, family = binomial(logit));
-summary(m1.red)
-#backfit
-m2.red = glmer(correctness ~ (spelling+trial) + (1|set) + (1|subject_oexp), data = d.red, family = binomial(logit));
-summary(m2.red)
-#forward fit
-m2a.red = glmer(correctness ~ (spelling) + (1+spelling|set) + (1|subject_oexp), data = d.red, family = binomial(logit));
-summary(m2a.red)
-final.model.red<-m2.red
-  m2.red = glmer(correctness ~ (spelling) + (1|set) + (1|subject_oexp), data = d.red, family = binomial(logit));
-##full
-m1.full = glmer(correctness ~ (spelling+trial) + (1|set) + (1|subject_oexp), data = d.full, family = binomial(logit));
-summary(m1.full)
-final.model.full<-m1.full
+final_model<-m7e
+summary(final_model)
 #######
 ################################################RTs
 m1<-lmer(log_rt ~ (red*spelling*p_universally+trial+
