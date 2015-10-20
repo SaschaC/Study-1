@@ -143,8 +143,8 @@ draw_plot<-function(d, confints, ylimits, label){
     mids<-barplot(d, col = bar.col, beside=T, ylab = label,
                            cex.axis =  1.5, cex.main = 2, cex.lab = 2, 
                            cex.names = 2, ylim = ylimits, lwd = 2,xpd=FALSE)
-    text(mids, d-0.05, labels = d, pos=1, cex = 1)
-    legend(2.75, 1.0, dimnames(d)[[1]],fill = bar.col)
+    text(mids, d-100, labels = d, pos=1, cex = 1)
+    legend(2.75, 2000, dimnames(d)[[1]],fill = bar.col)
     error.bar(mids,d,confints)
 }
 
@@ -185,6 +185,8 @@ draw_plot(rts_redPhontac[[1]], rts_redPhontac[[2]],c(800,2000),label=("RT (ms)")
 
 rts_phontacSpelling<-get_rts(xp1.sub.04,xp1.sub.04$p_universally, xp1.sub.04$spelling)
 rts_phontacSpelling[[1]]
+draw_plot(rts_phontacSpelling[[1]], rts_phontacSpelling[[2]],c(800,2000),label=("RT (ms)"))
+
 ### stats, group comparison
 # vocabulary test
 table(xp1_voctest$voctest_correctness,xp1_voctest$spelling)
