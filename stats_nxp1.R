@@ -134,3 +134,4 @@ m4<-lmer(log_rt ~ (red+trial+
                        log(duration)+previous_log_rt)+(1+red|set)
          +(1+red|subject_oexp), data = d)
 summary(m4)
+final_model<-m4
