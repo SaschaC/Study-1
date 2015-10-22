@@ -137,14 +137,14 @@ list(rts,confints_rts)
     
 }
 
-bar.col=c("grey40", "grey20")
+bar.col=c("grey40", "grey80")
 
 draw_plot<-function(d, confints, ylimits, label){
     mids<-barplot(d, col = bar.col, beside=T, ylab = label,
                            cex.axis =  1.5, cex.main = 2, cex.lab = 2, 
                            cex.names = 2, ylim = ylimits, lwd = 2,xpd=FALSE)
-    text(mids, d-100, labels = d, pos=1, cex = 1)
-    legend(2.75, 2000, dimnames(d)[[1]],fill = bar.col)
+    text(mids, d-0.05, labels = d, pos=1, cex = 1)
+    legend(2.75, 1, dimnames(d)[[1]],fill = bar.col)
     error.bar(mids,d,confints)
 }
 
@@ -155,7 +155,7 @@ confints2<-get_prop_confints(xp1.sub.03$red,xp1.sub.03$spelling,
                                       xp1.sub.03$correctness,"full","wrong")
 confints_props<-cbind(confints1,confints2)    
 props_redSpelling
-draw_plot(props_redSpelling,confints_props,c(0,1),"Error Proportions")
+draw_plot(1-props_redSpelling,1-confints_props,c(0,1),"Accuracy")
 
 props_redPhontac<-get_error_proportions(xp1.sub.03,xp1.sub.03$red, xp1.sub.03$p_universally)
 confints1<-get_prop_confints(xp1.sub.03$red,xp1.sub.03$p_universally,
