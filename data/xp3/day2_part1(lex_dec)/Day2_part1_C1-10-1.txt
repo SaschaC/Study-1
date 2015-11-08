@@ -1,0 +1,4465 @@
+*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: Day2_part1_C1
+SessionDate: 09-12-2014
+SessionTime: 10:59:11
+SessionStartDateTimeUtc: 9/12/2014 8:59:11 AM
+Subject: 10
+Session: 1
+Group: 2
+Age: 19
+Sex: female
+Handedness: left
+ResearcherID: Other
+DataFile.Basename: Day2_part1_C1-10-1
+RandomSeed: -2003356194
+Display.RefreshRate: 59.983
+*** Header End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 1
+	Procedure: LexDec
+	Stimulus: f06_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le point
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 1
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 77221
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 78567
+	Stimulus.ACC: 1
+	Stimulus.RT: 1346
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 2
+	Procedure: LexDec
+	Stimulus: f10_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le chat
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 2
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 79088
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 80173
+	Stimulus.ACC: 1
+	Stimulus.RT: 1085
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 3
+	Procedure: LexDec
+	Stimulus: f62_2_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le r'ssort
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 3
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 80706
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 81809
+	Stimulus.ACC: 0
+	Stimulus.RT: 1103
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 4
+	Procedure: LexDec
+	Stimulus: n38_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le suir
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 4
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 82323
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 83570
+	Stimulus.ACC: 0
+	Stimulus.RT: 1247
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 5
+	Procedure: LexDec
+	Stimulus: f29_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le fromage
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 5
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 84090
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 85156
+	Stimulus.ACC: 1
+	Stimulus.RT: 1066
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 6
+	Procedure: LexDec
+	Stimulus: n32_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: l'heule
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 6
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 85674
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 86814
+	Stimulus.ACC: 1
+	Stimulus.RT: 1140
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 7
+	Procedure: LexDec
+	Stimulus: n19_1_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le chedel
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 7
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 87324
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 88925
+	Stimulus.ACC: 0
+	Stimulus.RT: 1601
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 8
+	Procedure: LexDec
+	Stimulus: f49_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le bureau
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 8
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 89441
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 90543
+	Stimulus.ACC: 1
+	Stimulus.RT: 1102
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 9
+	Procedure: LexDec
+	Stimulus: f65_2_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le r'paire
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 9
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 91075
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 92259
+	Stimulus.ACC: 1
+	Stimulus.RT: 1184
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 10
+	Procedure: LexDec
+	Stimulus: t06_1_p1_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le recel
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 10
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 92792
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 94096
+	Stimulus.ACC: 1
+	Stimulus.RT: 1304
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 11
+	Procedure: LexDec
+	Stimulus: f20_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la famille
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 11
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 94609
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 95817
+	Stimulus.ACC: 1
+	Stimulus.RT: 1208
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 12
+	Procedure: LexDec
+	Stimulus: n57_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le ratime
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 12
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 96343
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 97748
+	Stimulus.ACC: 0
+	Stimulus.RT: 1405
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 13
+	Procedure: LexDec
+	Stimulus: n63_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la histienne
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 13
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 98277
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 99353
+	Stimulus.ACC: 1
+	Stimulus.RT: 1076
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 14
+	Procedure: LexDec
+	Stimulus: n52_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le drère
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 14
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 99861
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 100887
+	Stimulus.ACC: 1
+	Stimulus.RT: 1026
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 15
+	Procedure: LexDec
+	Stimulus: n67_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la janne
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 15
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 101395
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 102510
+	Stimulus.ACC: 0
+	Stimulus.RT: 1115
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 16
+	Procedure: LexDec
+	Stimulus: f66_2_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le d'main
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 16
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 103029
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 104595
+	Stimulus.ACC: 0
+	Stimulus.RT: 1566
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 17
+	Procedure: LexDec
+	Stimulus: f43_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la femme
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 17
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 105129
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 106239
+	Stimulus.ACC: 1
+	Stimulus.RT: 1110
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 18
+	Procedure: LexDec
+	Stimulus: n43_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: l'ivée
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 18
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 106763
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 107870
+	Stimulus.ACC: 1
+	Stimulus.RT: 1107
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 19
+	Procedure: LexDec
+	Stimulus: f69_2_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le r'gistre
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 19
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 108397
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 109648
+	Stimulus.ACC: 0
+	Stimulus.RT: 1251
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 20
+	Procedure: LexDec
+	Stimulus: f56_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le pays
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 20
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 110164
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 111320
+	Stimulus.ACC: 0
+	Stimulus.RT: 1156
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 21
+	Procedure: LexDec
+	Stimulus: f40_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'homme
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 21
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 111848
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 112945
+	Stimulus.ACC: 1
+	Stimulus.RT: 1097
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 22
+	Procedure: LexDec
+	Stimulus: n55_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le nourd
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 22
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 113465
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 114555
+	Stimulus.ACC: 0
+	Stimulus.RT: 1090
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 23
+	Procedure: LexDec
+	Stimulus: n48_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la mainou
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 23
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 115082
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 116179
+	Stimulus.ACC: 1
+	Stimulus.RT: 1097
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 24
+	Procedure: LexDec
+	Stimulus: n42_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: l'endos
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 24
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 116699
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 117892
+	Stimulus.ACC: 1
+	Stimulus.RT: 1193
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 25
+	Procedure: LexDec
+	Stimulus: n04_2_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la r'noise
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 25
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 118416
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 119790
+	Stimulus.ACC: 1
+	Stimulus.RT: 1374
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 26
+	Procedure: LexDec
+	Stimulus: n46_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la jourcie
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 26
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 120317
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 121714
+	Stimulus.ACC: 0
+	Stimulus.RT: 1397
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 27
+	Procedure: LexDec
+	Stimulus: n85_1_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le sefunt
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 27
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 122234
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 123453
+	Stimulus.ACC: 0
+	Stimulus.RT: 1219
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 28
+	Procedure: LexDec
+	Stimulus: f41_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la carte
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 28
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 123984
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 125153
+	Stimulus.ACC: 1
+	Stimulus.RT: 1169
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 29
+	Procedure: LexDec
+	Stimulus: f18_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'enfant
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 29
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 125685
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 126670
+	Stimulus.ACC: 1
+	Stimulus.RT: 985
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 30
+	Procedure: LexDec
+	Stimulus: n36_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le linde
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 30
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 127202
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 128406
+	Stimulus.ACC: 0
+	Stimulus.RT: 1204
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 31
+	Procedure: LexDec
+	Stimulus: n17_1_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la segence
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 31
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 128936
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 130357
+	Stimulus.ACC: 0
+	Stimulus.RT: 1421
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 32
+	Procedure: LexDec
+	Stimulus: f30_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le garçon
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 32
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 130886
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 131960
+	Stimulus.ACC: 1
+	Stimulus.RT: 1074
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 33
+	Procedure: LexDec
+	Stimulus: n81_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le croux
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 33
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 132487
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 133752
+	Stimulus.ACC: 1
+	Stimulus.RT: 1265
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 34
+	Procedure: LexDec
+	Stimulus: t09_2_p2_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le f'nouil
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 34
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 134271
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 135658
+	Stimulus.ACC: 0
+	Stimulus.RT: 1387
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 35
+	Procedure: LexDec
+	Stimulus: n39_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le grat
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 35
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 136171
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 137526
+	Stimulus.ACC: 1
+	Stimulus.RT: 1355
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 36
+	Procedure: LexDec
+	Stimulus: n64_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: l'oune
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 36
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 138055
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 139073
+	Stimulus.ACC: 1
+	Stimulus.RT: 1018
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 37
+	Procedure: LexDec
+	Stimulus: n54_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le garfait
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 37
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 139589
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 140811
+	Stimulus.ACC: 0
+	Stimulus.RT: 1222
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 38
+	Procedure: LexDec
+	Stimulus: n88_1_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le messin
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 38
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 141339
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 142647
+	Stimulus.ACC: 0
+	Stimulus.RT: 1308
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 39
+	Procedure: LexDec
+	Stimulus: n14_2_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la ch'maille
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 39
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 143156
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 144269
+	Stimulus.ACC: 1
+	Stimulus.RT: 1113
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 40
+	Procedure: LexDec
+	Stimulus: n53_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le frolège
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 40
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 144790
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 146171
+	Stimulus.ACC: 0
+	Stimulus.RT: 1381
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 41
+	Procedure: LexDec
+	Stimulus: f52_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le genre
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 41
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 146691
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 148196
+	Stimulus.ACC: 1
+	Stimulus.RT: 1505
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 42
+	Procedure: LexDec
+	Stimulus: n89_2_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le r'bil
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 42
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 148725
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 149782
+	Stimulus.ACC: 1
+	Stimulus.RT: 1057
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 43
+	Procedure: LexDec
+	Stimulus: t13_2_p3_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le s'vrage
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 43
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 150292
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 151763
+	Stimulus.ACC: 1
+	Stimulus.RT: 1471
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 44
+	Procedure: LexDec
+	Stimulus: n93_1_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le revercle
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 44
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 152276
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 153625
+	Stimulus.ACC: 1
+	Stimulus.RT: 1349
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 45
+	Procedure: LexDec
+	Stimulus: n06_2_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le r'tal
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 45
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 154143
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 155525
+	Stimulus.ACC: 1
+	Stimulus.RT: 1382
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 46
+	Procedure: LexDec
+	Stimulus: t12_2_p4_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le r'quin
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 46
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 156043
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 157690
+	Stimulus.ACC: 1
+	Stimulus.RT: 1647
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 47
+	Procedure: LexDec
+	Stimulus: n31_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: l'annue
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 47
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 158211
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 159388
+	Stimulus.ACC: 1
+	Stimulus.RT: 1177
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 48
+	Procedure: LexDec
+	Stimulus: n87_1_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le chenache
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 48
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 159911
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 161214
+	Stimulus.ACC: 0
+	Stimulus.RT: 1303
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 49
+	Procedure: LexDec
+	Stimulus: n80_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le péhut
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 49
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 161728
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 162970
+	Stimulus.ACC: 1
+	Stimulus.RT: 1242
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 50
+	Procedure: LexDec
+	Stimulus: n08_1_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la secotte
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 50
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 163496
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 164881
+	Stimulus.ACC: 1
+	Stimulus.RT: 1385
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 51
+	Procedure: LexDec
+	Stimulus: f57_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le prix
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 51
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 165396
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 166790
+	Stimulus.ACC: 1
+	Stimulus.RT: 1394
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 52
+	Procedure: LexDec
+	Stimulus: f35_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le soldat
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 52
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 167313
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 168479
+	Stimulus.ACC: 1
+	Stimulus.RT: 1166
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 53
+	Procedure: LexDec
+	Stimulus: t22_2_p3_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le r'nard
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 53
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 169014
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 170483
+	Stimulus.ACC: 0
+	Stimulus.RT: 1469
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 54
+	Procedure: LexDec
+	Stimulus: n12_1_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le rechant
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 54
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 171014
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 172899
+	Stimulus.ACC: 1
+	Stimulus.RT: 1885
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 55
+	Procedure: LexDec
+	Stimulus: f31_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le jour
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 55
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 173415
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 174499
+	Stimulus.ACC: 1
+	Stimulus.RT: 1084
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 56
+	Procedure: LexDec
+	Stimulus: n82_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le sermite
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 56
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 175015
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 176148
+	Stimulus.ACC: 1
+	Stimulus.RT: 1133
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 57
+	Procedure: LexDec
+	Stimulus: f59_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le soleil
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 57
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 176666
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 177803
+	Stimulus.ACC: 1
+	Stimulus.RT: 1137
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 58
+	Procedure: LexDec
+	Stimulus: f44_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la lettre
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 58
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 178333
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 179686
+	Stimulus.ACC: 1
+	Stimulus.RT: 1353
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 59
+	Procedure: LexDec
+	Stimulus: t05_1_p2_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le genièvre
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 59
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 180200
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 181689
+	Stimulus.ACC: 1
+	Stimulus.RT: 1489
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 60
+	Procedure: LexDec
+	Stimulus: n70_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la nale
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 60
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 182217
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 183329
+	Stimulus.ACC: 1
+	Stimulus.RT: 1112
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 61
+	Procedure: LexDec
+	Stimulus: t18_2_p3_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le r'flet
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 61
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 183851
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 185068
+	Stimulus.ACC: 1
+	Stimulus.RT: 1217
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 62
+	Procedure: LexDec
+	Stimulus: f14_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le soir
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 62
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 185585
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 186832
+	Stimulus.ACC: 0
+	Stimulus.RT: 1247
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 63
+	Procedure: LexDec
+	Stimulus: t01_2_p4_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la b'lette
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 63
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 187352
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 188601
+	Stimulus.ACC: 1
+	Stimulus.RT: 1249
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 64
+	Procedure: LexDec
+	Stimulus: n21_1_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le repèze
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 64
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 189119
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 190548
+	Stimulus.ACC: 1
+	Stimulus.RT: 1429
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 65
+	Procedure: LexDec
+	Stimulus: n24_1_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le fequon
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 65
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 191070
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 192265
+	Stimulus.ACC: 1
+	Stimulus.RT: 1195
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 66
+	Procedure: LexDec
+	Stimulus: n73_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le buveau
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 66
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 192787
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 194047
+	Stimulus.ACC: 1
+	Stimulus.RT: 1260
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 67
+	Procedure: LexDec
+	Stimulus: f38_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'hôtel
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 67
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 194554
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 195463
+	Stimulus.ACC: 1
+	Stimulus.RT: 909
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 68
+	Procedure: LexDec
+	Stimulus: f39_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'histoire
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 68
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 195988
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 197202
+	Stimulus.ACC: 1
+	Stimulus.RT: 1214
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 69
+	Procedure: LexDec
+	Stimulus: n60_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le tinge
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 69
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 197722
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 199094
+	Stimulus.ACC: 1
+	Stimulus.RT: 1372
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 70
+	Procedure: LexDec
+	Stimulus: n33_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la juisse
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 70
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 199622
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 200728
+	Stimulus.ACC: 1
+	Stimulus.RT: 1106
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 71
+	Procedure: LexDec
+	Stimulus: f24_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la maison
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 71
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 201239
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 202274
+	Stimulus.ACC: 1
+	Stimulus.RT: 1035
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 72
+	Procedure: LexDec
+	Stimulus: f04_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la soeur
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 72
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 202790
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 203886
+	Stimulus.ACC: 1
+	Stimulus.RT: 1096
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 73
+	Procedure: LexDec
+	Stimulus: n49_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la questier
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 73
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 204407
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 205570
+	Stimulus.ACC: 1
+	Stimulus.RT: 1163
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 74
+	Procedure: LexDec
+	Stimulus: f58_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le service
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 74
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 206091
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 207289
+	Stimulus.ACC: 1
+	Stimulus.RT: 1198
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 75
+	Procedure: LexDec
+	Stimulus: t21_1_p1_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le recul
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 75
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 207825
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 208879
+	Stimulus.ACC: 1
+	Stimulus.RT: 1054
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 76
+	Procedure: LexDec
+	Stimulus: f61_1_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le semi
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 76
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 209408
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 210578
+	Stimulus.ACC: 1
+	Stimulus.RT: 1170
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 77
+	Procedure: LexDec
+	Stimulus: n28_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la veure
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 77
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 211109
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 212191
+	Stimulus.ACC: 1
+	Stimulus.RT: 1082
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 78
+	Procedure: LexDec
+	Stimulus: f33_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le rapport
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 78
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 212709
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 213909
+	Stimulus.ACC: 1
+	Stimulus.RT: 1200
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 79
+	Procedure: LexDec
+	Stimulus: f07_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'année
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 79
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 214427
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 215753
+	Stimulus.ACC: 0
+	Stimulus.RT: 1326
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 80
+	Procedure: LexDec
+	Stimulus: n26_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la jun
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 80
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 216260
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 217252
+	Stimulus.ACC: 0
+	Stimulus.RT: 992
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 81
+	Procedure: LexDec
+	Stimulus: n22_2_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le r'logue
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 81
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 217761
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 219029
+	Stimulus.ACC: 1
+	Stimulus.RT: 1268
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 82
+	Procedure: LexDec
+	Stimulus: n34_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le teau
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 82
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 219561
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 220725
+	Stimulus.ACC: 1
+	Stimulus.RT: 1164
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 83
+	Procedure: LexDec
+	Stimulus: n59_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le solti
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 83
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 221245
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 222675
+	Stimulus.ACC: 1
+	Stimulus.RT: 1430
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 84
+	Procedure: LexDec
+	Stimulus: t10_2_p2_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le r'bond
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 84
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 223196
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 224287
+	Stimulus.ACC: 1
+	Stimulus.RT: 1091
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 85
+	Procedure: LexDec
+	Stimulus: n18_1_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le reclin
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 85
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 224813
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 226162
+	Stimulus.ACC: 0
+	Stimulus.RT: 1349
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 86
+	Procedure: LexDec
+	Stimulus: f19_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'idée
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 86
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 226680
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 227702
+	Stimulus.ACC: 0
+	Stimulus.RT: 1022
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 87
+	Procedure: LexDec
+	Stimulus: t14_2_p3_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la ch'nille
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 87
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 228214
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 229358
+	Stimulus.ACC: 1
+	Stimulus.RT: 1144
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 88
+	Procedure: LexDec
+	Stimulus: n65_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la murte
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 88
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 229881
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 231105
+	Stimulus.ACC: 0
+	Stimulus.RT: 1224
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 89
+	Procedure: LexDec
+	Stimulus: n07_1_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la bechesse
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 89
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 231631
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 233042
+	Stimulus.ACC: 0
+	Stimulus.RT: 1411
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 90
+	Procedure: LexDec
+	Stimulus: f12_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le monde
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 90
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 233565
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 234739
+	Stimulus.ACC: 1
+	Stimulus.RT: 1174
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 91
+	Procedure: LexDec
+	Stimulus: f67_1_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le refuge
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 91
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 235266
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 236410
+	Stimulus.ACC: 1
+	Stimulus.RT: 1144
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 92
+	Procedure: LexDec
+	Stimulus: f02_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la main
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 92
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 236933
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 237994
+	Stimulus.ACC: 1
+	Stimulus.RT: 1061
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 93
+	Procedure: LexDec
+	Stimulus: n95_1_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le repus
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 93
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 238517
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 239586
+	Stimulus.ACC: 0
+	Stimulus.RT: 1069
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 94
+	Procedure: LexDec
+	Stimulus: n35_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le missien
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 94
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 240100
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 241399
+	Stimulus.ACC: 1
+	Stimulus.RT: 1299
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 95
+	Procedure: LexDec
+	Stimulus: f45_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la madame
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 95
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 241934
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 242974
+	Stimulus.ACC: 1
+	Stimulus.RT: 1040
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 96
+	Procedure: LexDec
+	Stimulus: n84_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le vort
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 96
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 243501
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 244748
+	Stimulus.ACC: 1
+	Stimulus.RT: 1247
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 97
+	Procedure: LexDec
+	Stimulus: f48_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la scène
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 97
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 245269
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 246500
+	Stimulus.ACC: 1
+	Stimulus.RT: 1231
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 98
+	Procedure: LexDec
+	Stimulus: t11_1_p3_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le remous
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 98
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 247019
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 248232
+	Stimulus.ACC: 0
+	Stimulus.RT: 1213
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 99
+	Procedure: LexDec
+	Stimulus: f54_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le journal
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 99
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 248753
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 249876
+	Stimulus.ACC: 1
+	Stimulus.RT: 1123
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 100
+	Procedure: LexDec
+	Stimulus: n71_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la foite
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 100
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 250387
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 251694
+	Stimulus.ACC: 0
+	Stimulus.RT: 1307
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 101
+	Procedure: LexDec
+	Stimulus: n58_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la siture
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 101
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 252221
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 253479
+	Stimulus.ACC: 1
+	Stimulus.RT: 1258
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 102
+	Procedure: LexDec
+	Stimulus: f15_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le train
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 102
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 254004
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 255031
+	Stimulus.ACC: 1
+	Stimulus.RT: 1027
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 103
+	Procedure: LexDec
+	Stimulus: f21_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la horloge
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 103
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 255555
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 256785
+	Stimulus.ACC: 1
+	Stimulus.RT: 1230
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 104
+	Procedure: LexDec
+	Stimulus: n69_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la madaine
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 104
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 257305
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 258684
+	Stimulus.ACC: 0
+	Stimulus.RT: 1379
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 105
+	Procedure: LexDec
+	Stimulus: f13_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le papier
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 105
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 259206
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 260336
+	Stimulus.ACC: 1
+	Stimulus.RT: 1130
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 106
+	Procedure: LexDec
+	Stimulus: f70_2_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le s'mestre
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 106
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 260856
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 262176
+	Stimulus.ACC: 1
+	Stimulus.RT: 1320
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 107
+	Procedure: LexDec
+	Stimulus: f36_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le type
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 107
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 262690
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 263801
+	Stimulus.ACC: 0
+	Stimulus.RT: 1111
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 108
+	Procedure: LexDec
+	Stimulus: n78_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le jourlingue
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 108
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 264307
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 265805
+	Stimulus.ACC: 1
+	Stimulus.RT: 1498
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 109
+	Procedure: LexDec
+	Stimulus: n91_1_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le relide
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 109
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 266324
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 268075
+	Stimulus.ACC: 1
+	Stimulus.RT: 1751
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 110
+	Procedure: LexDec
+	Stimulus: n75_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le fège
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 110
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 268592
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 269867
+	Stimulus.ACC: 1
+	Stimulus.RT: 1275
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 111
+	Procedure: LexDec
+	Stimulus: n44_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la fanouille
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 111
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 270376
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 271477
+	Stimulus.ACC: 0
+	Stimulus.RT: 1101
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 112
+	Procedure: LexDec
+	Stimulus: n51_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le caffant
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 112
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 272009
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 273490
+	Stimulus.ACC: 0
+	Stimulus.RT: 1481
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 113
+	Procedure: LexDec
+	Stimulus: f22_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la journée
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 113
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 274010
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 275244
+	Stimulus.ACC: 1
+	Stimulus.RT: 1234
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 114
+	Procedure: LexDec
+	Stimulus: f11_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le milieu
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 114
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 275760
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 276867
+	Stimulus.ACC: 1
+	Stimulus.RT: 1107
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 115
+	Procedure: LexDec
+	Stimulus: f25_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la question
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 115
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 277394
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 278641
+	Stimulus.ACC: 1
+	Stimulus.RT: 1247
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 116
+	Procedure: LexDec
+	Stimulus: n86_2_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le r'pire
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 116
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 279161
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 280351
+	Stimulus.ACC: 1
+	Stimulus.RT: 1190
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 117
+	Procedure: LexDec
+	Stimulus: f55_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le livre
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 117
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 280879
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 282139
+	Stimulus.ACC: 1
+	Stimulus.RT: 1260
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 118
+	Procedure: LexDec
+	Stimulus: n72_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la teune
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 118
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 282662
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 283806
+	Stimulus.ACC: 1
+	Stimulus.RT: 1144
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 119
+	Procedure: LexDec
+	Stimulus: t17_2_p4_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la s'moule
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 119
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 284313
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 285394
+	Stimulus.ACC: 1
+	Stimulus.RT: 1081
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 120
+	Procedure: LexDec
+	Stimulus: n03_2_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la m'quisse
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 120
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 285913
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 287155
+	Stimulus.ACC: 1
+	Stimulus.RT: 1242
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 121
+	Procedure: LexDec
+	Stimulus: n94_2_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le s'questre
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 121
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 287680
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 289086
+	Stimulus.ACC: 1
+	Stimulus.RT: 1406
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 122
+	Procedure: LexDec
+	Stimulus: f09_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la pièce
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 122
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 289614
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 290686
+	Stimulus.ACC: 0
+	Stimulus.RT: 1072
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 123
+	Procedure: LexDec
+	Stimulus: n25_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: l'incre
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 123
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 291215
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 292695
+	Stimulus.ACC: 1
+	Stimulus.RT: 1480
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 124
+	Procedure: LexDec
+	Stimulus: f27_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le cadeau
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 124
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 293215
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 294138
+	Stimulus.ACC: 1
+	Stimulus.RT: 923
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 125
+	Procedure: LexDec
+	Stimulus: n02_1_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la ledruche
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 125
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 294666
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 296160
+	Stimulus.ACC: 1
+	Stimulus.RT: 1494
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 126
+	Procedure: LexDec
+	Stimulus: f46_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la part
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 126
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 296683
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 297926
+	Stimulus.ACC: 0
+	Stimulus.RT: 1243
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 127
+	Procedure: LexDec
+	Stimulus: f68_1_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le retard
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 127
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 298450
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 299590
+	Stimulus.ACC: 1
+	Stimulus.RT: 1140
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 128
+	Procedure: LexDec
+	Stimulus: f28_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le frère
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 128
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 300117
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 301406
+	Stimulus.ACC: 1
+	Stimulus.RT: 1289
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 129
+	Procedure: LexDec
+	Stimulus: n62_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: l'hosor
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 129
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 301918
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 302902
+	Stimulus.ACC: 1
+	Stimulus.RT: 984
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 130
+	Procedure: LexDec
+	Stimulus: f63_1_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le cheval
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 130
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 303418
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 304709
+	Stimulus.ACC: 0
+	Stimulus.RT: 1291
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 131
+	Procedure: LexDec
+	Stimulus: n61_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: l'apure
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 131
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 305219
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 306934
+	Stimulus.ACC: 0
+	Stimulus.RT: 1715
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 132
+	Procedure: LexDec
+	Stimulus: f72_1_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la revanche
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 132
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 307469
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 308789
+	Stimulus.ACC: 1
+	Stimulus.RT: 1320
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 133
+	Procedure: LexDec
+	Stimulus: n47_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la nure
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 133
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 309303
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 310580
+	Stimulus.ACC: 0
+	Stimulus.RT: 1277
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 134
+	Procedure: LexDec
+	Stimulus: n68_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la moucle
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 134
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 311104
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 312381
+	Stimulus.ACC: 0
+	Stimulus.RT: 1277
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 135
+	Procedure: LexDec
+	Stimulus: n13_2_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le s'blème
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 135
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 312888
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 313892
+	Stimulus.ACC: 1
+	Stimulus.RT: 1004
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 136
+	Procedure: LexDec
+	Stimulus: f16_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'école
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 136
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 314405
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 315423
+	Stimulus.ACC: 1
+	Stimulus.RT: 1018
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 137
+	Procedure: LexDec
+	Stimulus: f17_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'accord
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 137
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 315938
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 317412
+	Stimulus.ACC: 0
+	Stimulus.RT: 1474
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 138
+	Procedure: LexDec
+	Stimulus: n92_2_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le r'gure
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 138
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 317939
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 319069
+	Stimulus.ACC: 1
+	Stimulus.RT: 1130
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 139
+	Procedure: LexDec
+	Stimulus: n23_2_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la s'pave
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 139
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 319589
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 321010
+	Stimulus.ACC: 1
+	Stimulus.RT: 1421
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 140
+	Procedure: LexDec
+	Stimulus: t03_1_p4_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la menotte
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 140
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 321523
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 322609
+	Stimulus.ACC: 1
+	Stimulus.RT: 1086
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 141
+	Procedure: LexDec
+	Stimulus: f03_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la nuit
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 141
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 323124
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 324429
+	Stimulus.ACC: 1
+	Stimulus.RT: 1305
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 142
+	Procedure: LexDec
+	Stimulus: f23_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la mère
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 142
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 324958
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 326034
+	Stimulus.ACC: 1
+	Stimulus.RT: 1076
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 143
+	Procedure: LexDec
+	Stimulus: f42_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la chance
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 143
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 326558
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 327644
+	Stimulus.ACC: 1
+	Stimulus.RT: 1086
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 144
+	Procedure: LexDec
+	Stimulus: f37_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'amour
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 144
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 328175
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 329169
+	Stimulus.ACC: 1
+	Stimulus.RT: 994
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 145
+	Procedure: LexDec
+	Stimulus: f34_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le silence
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 145
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 329676
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 330834
+	Stimulus.ACC: 1
+	Stimulus.RT: 1158
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 146
+	Procedure: LexDec
+	Stimulus: n11_1_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le refant
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 146
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 331359
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 332313
+	Stimulus.ACC: 0
+	Stimulus.RT: 954
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 147
+	Procedure: LexDec
+	Stimulus: f01_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'oncle
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 147
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 332843
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 333782
+	Stimulus.ACC: 0
+	Stimulus.RT: 939
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 148
+	Procedure: LexDec
+	Stimulus: n05_2_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le g'gnoble
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 148
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 334310
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 335604
+	Stimulus.ACC: 1
+	Stimulus.RT: 1294
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 149
+	Procedure: LexDec
+	Stimulus: f26_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la ville
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 149
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 336127
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 337331
+	Stimulus.ACC: 1
+	Stimulus.RT: 1204
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 150
+	Procedure: LexDec
+	Stimulus: t19_1_p3_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le chenil
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 150
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 337861
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 338899
+	Stimulus.ACC: 1
+	Stimulus.RT: 1038
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 151
+	Procedure: LexDec
+	Stimulus: n01_2_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la b'rasse
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 151
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 339412
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 340484
+	Stimulus.ACC: 0
+	Stimulus.RT: 1072
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 152
+	Procedure: LexDec
+	Stimulus: f50_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le café
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 152
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 340995
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 341804
+	Stimulus.ACC: 1
+	Stimulus.RT: 809
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 153
+	Procedure: LexDec
+	Stimulus: n10_1_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le regot
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 153
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 342313
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 343280
+	Stimulus.ACC: 0
+	Stimulus.RT: 967
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 154
+	Procedure: LexDec
+	Stimulus: n50_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la rille
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 154
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 343796
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 344818
+	Stimulus.ACC: 1
+	Stimulus.RT: 1022
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 155
+	Procedure: LexDec
+	Stimulus: t23_2_p2_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la s'cousse
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 155
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 345330
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 346515
+	Stimulus.ACC: 0
+	Stimulus.RT: 1185
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 156
+	Procedure: LexDec
+	Stimulus: n37_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le padiot
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 156
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 347031
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 348524
+	Stimulus.ACC: 0
+	Stimulus.RT: 1493
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 157
+	Procedure: LexDec
+	Stimulus: f32_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le moment
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 157
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 349048
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 350003
+	Stimulus.ACC: 1
+	Stimulus.RT: 955
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 158
+	Procedure: LexDec
+	Stimulus: n09_2_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le f'mmeil
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 158
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 350532
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 351845
+	Stimulus.ACC: 1
+	Stimulus.RT: 1313
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 159
+	Procedure: LexDec
+	Stimulus: f47_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la route
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 159
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 352365
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 353799
+	Stimulus.ACC: 1
+	Stimulus.RT: 1434
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 160
+	Procedure: LexDec
+	Stimulus: n76_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le tenre
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 160
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 354316
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 355669
+	Stimulus.ACC: 0
+	Stimulus.RT: 1353
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 161
+	Procedure: LexDec
+	Stimulus: t24_2_p1_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le f'san
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 161
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 356200
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 357499
+	Stimulus.ACC: 0
+	Stimulus.RT: 1299
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 162
+	Procedure: LexDec
+	Stimulus: n16_2_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la p'doche
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 162
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 358017
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 359335
+	Stimulus.ACC: 1
+	Stimulus.RT: 1318
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 163
+	Procedure: LexDec
+	Stimulus: n74_0_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le camont
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 163
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 359867
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 361130
+	Stimulus.ACC: 0
+	Stimulus.RT: 1263
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 164
+	Procedure: LexDec
+	Stimulus: n15_1_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la pessade
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 164
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 361651
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 362926
+	Stimulus.ACC: 1
+	Stimulus.RT: 1275
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 165
+	Procedure: LexDec
+	Stimulus: t15_1_p3_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la pelouse
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 165
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 363452
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 364638
+	Stimulus.ACC: 1
+	Stimulus.RT: 1186
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 166
+	Procedure: LexDec
+	Stimulus: n27_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la tuit
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 166
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 365152
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 366739
+	Stimulus.ACC: 1
+	Stimulus.RT: 1587
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 167
+	Procedure: LexDec
+	Stimulus: t04_1_p1_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la reliure
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 167
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 367270
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 368440
+	Stimulus.ACC: 1
+	Stimulus.RT: 1170
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 168
+	Procedure: LexDec
+	Stimulus: f53_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le groupe
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 168
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 368953
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 370223
+	Stimulus.ACC: 0
+	Stimulus.RT: 1270
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 169
+	Procedure: LexDec
+	Stimulus: n56_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le mossu
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 169
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 370754
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 372330
+	Stimulus.ACC: 1
+	Stimulus.RT: 1576
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 170
+	Procedure: LexDec
+	Stimulus: f60_0_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le tour
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 170
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 372854
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 374404
+	Stimulus.ACC: 1
+	Stimulus.RT: 1550
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 171
+	Procedure: LexDec
+	Stimulus: t02_1_p1_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la levrette
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 171
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 374938
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 376173
+	Stimulus.ACC: 1
+	Stimulus.RT: 1235
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 172
+	Procedure: LexDec
+	Stimulus: n29_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le choint
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 172
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 376706
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 378298
+	Stimulus.ACC: 0
+	Stimulus.RT: 1592
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 173
+	Procedure: LexDec
+	Stimulus: n40_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: l'équise
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 173
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 378806
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 380352
+	Stimulus.ACC: 0
+	Stimulus.RT: 1546
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 174
+	Procedure: LexDec
+	Stimulus: t20_1_p3_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le meneau
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 174
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 380873
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 381898
+	Stimulus.ACC: 1
+	Stimulus.RT: 1025
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 175
+	Procedure: LexDec
+	Stimulus: f71_2_p1_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le r'cord
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 175
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 382424
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 383419
+	Stimulus.ACC: 0
+	Stimulus.RT: 995
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 176
+	Procedure: LexDec
+	Stimulus: t16_2_p2_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la p'luche
+	IsTarget: yes
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 176
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 383941
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 384872
+	Stimulus.ACC: 1
+	Stimulus.RT: 931
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 177
+	Procedure: LexDec
+	Stimulus: f64_1_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le melon
+	IsTarget: no
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 177
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 385408
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 386690
+	Stimulus.ACC: 0
+	Stimulus.RT: 1282
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 178
+	Procedure: LexDec
+	Stimulus: f05_0_p2_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le chien
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 178
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 387208
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 388290
+	Stimulus.ACC: 1
+	Stimulus.RT: 1082
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 179
+	Procedure: LexDec
+	Stimulus: n45_0_p3_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la horgune
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 179
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 388809
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 390118
+	Stimulus.ACC: 0
+	Stimulus.RT: 1309
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 180
+	Procedure: LexDec
+	Stimulus: n30_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le pien
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 180
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 390643
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 391879
+	Stimulus.ACC: 0
+	Stimulus.RT: 1236
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 181
+	Procedure: LexDec
+	Stimulus: n90_2_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le d'sseau
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 181
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 392410
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 393301
+	Stimulus.ACC: 1
+	Stimulus.RT: 891
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 182
+	Procedure: LexDec
+	Stimulus: n41_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: l'agime
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 182
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 393827
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 394910
+	Stimulus.ACC: 1
+	Stimulus.RT: 1083
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 183
+	Procedure: LexDec
+	Stimulus: n20_2_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le m'jet
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 183
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 395427
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 396440
+	Stimulus.ACC: 1
+	Stimulus.RT: 1013
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 184
+	Procedure: LexDec
+	Stimulus: t08_1_p3_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la semelle
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 184
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 396961
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 398233
+	Stimulus.ACC: 1
+	Stimulus.RT: 1272
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 185
+	Procedure: LexDec
+	Stimulus: n79_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le tavre
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 185
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 398762
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 399802
+	Stimulus.ACC: 0
+	Stimulus.RT: 1040
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 186
+	Procedure: LexDec
+	Stimulus: f08_0_p4_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: l'heure
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 186
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 400329
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 401241
+	Stimulus.ACC: 1
+	Stimulus.RT: 912
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 187
+	Procedure: LexDec
+	Stimulus: n96_2_p1_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la r'fare
+	IsTarget: no
+	Reduction: r
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 187
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 401763
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 403323
+	Stimulus.ACC: 1
+	Stimulus.RT: 1560
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 188
+	Procedure: LexDec
+	Stimulus: n66_0_p2_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: la cance
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 188
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 403847
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 405198
+	Stimulus.ACC: 1
+	Stimulus.RT: 1351
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 189
+	Procedure: LexDec
+	Stimulus: f51_0_p3_1_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: le chef
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 189
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 405714
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 407007
+	Stimulus.ACC: 1
+	Stimulus.RT: 1293
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 190
+	Procedure: LexDec
+	Stimulus: n77_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le bruc
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 190
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 407531
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 408505
+	Stimulus.ACC: 0
+	Stimulus.RT: 974
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 191
+	Procedure: LexDec
+	Stimulus: t07_1_p2_2_mono.wav
+	CorrectRight: 5
+	CorrectLeft: 1
+	Word: la bedaine
+	IsTarget: yes
+	Reduction: u
+	IsSchwa: yes
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 191
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 409031
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 410172
+	Stimulus.ACC: 1
+	Stimulus.RT: 1141
+	Stimulus.RESP: 1
+	Stimulus.CRESP: 1
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	StimulusList: 192
+	Procedure: LexDec
+	Stimulus: n83_0_p4_1_mono.wav
+	CorrectRight: 1
+	CorrectLeft: 5
+	Word: le sogueil
+	IsTarget: no
+	Reduction: NA
+	IsSchwa: no
+	StimulusList.Cycle: 1
+	StimulusList.Sample: 192
+	Running: StimulusList
+	Stimulus.OnsetDelay: -1
+	Stimulus.OnsetTime: 410682
+	Stimulus.DurationError: -999999
+	Stimulus.RTTime: 412101
+	Stimulus.ACC: 1
+	Stimulus.RT: 1419
+	Stimulus.RESP: 5
+	Stimulus.CRESP: 5
+	*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: Day2_part1_C1
+SessionDate: 09-12-2014
+SessionTime: 10:59:11
+SessionStartDateTimeUtc: 9/12/2014 8:59:11 AM
+Subject: 10
+Session: 1
+Group: 2
+Age: 19
+Sex: female
+Handedness: left
+ResearcherID: Other
+DataFile.Basename: Day2_part1_C1-10-1
+RandomSeed: -2003356194
+Display.RefreshRate: 59.983
+Clock.Information: <?xml version="1.0"?>\n<Clock xmlns:dt="urn:schemas-microsoft-com:datatypes"><Description dt:dt="string">E-Prime Primary Realtime Clock</Description><StartTime><Timestamp dt:dt="int">0</Timestamp><DateUtc dt:dt="string">2014-09-12T08:59:11Z</DateUtc></StartTime><FrequencyChanges><FrequencyChange><Frequency dt:dt="r8">3158740000</Frequency><Timestamp dt:dt="r8">27167345335438</Timestamp><Current dt:dt="r8">0</Current><DateUtc dt:dt="string">2014-09-12T08:59:11Z</DateUtc></FrequencyChange></FrequencyChanges></Clock>\n
+StudioVersion: 2.0.10.147
+RuntimeVersion: 2.0.10.242
+RuntimeVersionExpected: 2.0.10.242
+ExperimentVersion: 1.0.0.63
+*** LogFrame End ***

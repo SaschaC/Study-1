@@ -3,9 +3,48 @@
 library(languageR)
 library(lme4)
 library(Hmisc)
-
-### backfit 1
-
+# 1. Comparison between +spelling and -spelling group:
+# vocabulary test, average proficiency from questionnaires,
+# years of French in school, lextale
+## vocabulary test
+table(xp2_voctest$voctest_correctness,xp2_voctest$spelling)
+prop.table(table(xp2_voctest$voctest_correctness,xp2_voctest$spelling),2)
+prop.table(table(xp2_voctest$voctest_correctness))
+chisq.test(table(xp2_voctest$voctest_correctness,xp2_voctest$spelling))
+## average proficiency from questionnaires
+mean(xp2_questinf$av_prof[xp2_questinf$spelling=="-spelling"])
+mean(xp2_questinf$av_prof[xp2_questinf$spelling=="+spelling"])
+t.test(xp2_questinf$av_prof[xp2_questinf$spelling=="-spelling"], 
+       xp2_questinf$av_prof[xp2_questinf$spelling=="+spelling"])
+## Years of French
+mean(xp2_questinf$jaar[xp2_questinf$spelling=="-spelling"])
+mean(xp2_questinf$jaar[xp2_questinf$spelling=="+spelling"])
+t.test(xp2_questinf$jaar[xp2_questinf$spelling=="-spelling"], 
+       xp2_questinf$jaar[xp2_questinf$spelling=="+spelling"])
+## Lextale
+get_score<-function(d) {
+  correct.words<-length(which(d$Stimulus.ACC == 1 & d$CorrectRight == 5))
+  incorrect.pseudo<-length(which(d$Stimulus.ACC == 0 & d$CorrectRight == 1))
+  score<-correct.words - (2*incorrect.pseudo)
+  score
+}
+spelling<-xp2_lextale[xp2_lextale$spelling=="+spelling",]
+nospelling<-xp2_lextale[xp2_lextale$spelling=="-spelling",]
+spelling$subject_oexp<-factor(spelling$subject_oexp)
+nospelling$subject_oexp<-factor(spelling$subject_oexp)
+score_all<-sapply(split(xp2_lextale,
+                        xp2_lextale$subject_oexp), get_score)
+mean(score_all)
+range(score_all)
+score1<-sapply(split(nospelling,
+                     nospelling$subject_oexp), get_score)
+mean(score1)
+score2<-sapply(split(spelling,
+                     spelling$subject_oexp), get_score)
+mean(score2)
+t.test(score1, score2)
+# 2. Linear regressions: Accuracy
+## Backfit 1
 m1 = glmer(correctness ~ (red*spelling)  + (1|set) 
           + (1|subject_oexp), data = xp2.sub.03, family = binomial(logit))
 summary(m1)
@@ -18,7 +57,7 @@ m3 = update(m2, ~. -spelling)
 summary(m3)
 anova(m2, m3)
 drop1(m3)
-#Forward fit 1
+## Forward fit 1
 m3a = glmer(correctness ~ (red)
            + (1+red|set) + (1|subject_oexp),family=binomial(logit),
            data = xp2.sub.03);
@@ -32,8 +71,8 @@ final_model<-glmer(correctness ~ (red)
                    + (1|set) + (1+red|subject_oexp),family=binomial(logit),
                    data = xp2.sub.03);
 summary(final_model)
-#######
-################################################RTs
+# 3. Linear regression: RTs
+## Backfit 1
 m1<-lmer(log_rt ~ (red*spelling+trial+
                      log(duration)+previous_log_rt)+(1|set)
          + (1|subject_oexp), data = xp2.sub.04)
@@ -58,7 +97,7 @@ m2<-lmer(log_rt ~ (red*spelling+
          + (1|subject_oexp), data = d)
 summary(m2)
 drop1(m2)
-#forward fit 1
+## Forward fit 1
 m1a<-lmer(log_rt ~ (red*spelling+
                          log(duration)+previous_log_rt)+(1|set)
           + (1|subject_oexp), data = xp2.sub.04)
@@ -95,7 +134,7 @@ m9a<-lmer(log_rt ~ (red*spelling+
                       log(duration)+previous_log_rt)+(1+red|set)
           + (1+red+previous_log_rt|subject_oexp), data = xp2.sub.04)
 AIC(m9a)
-###backfit 2
+## Final model
 m3<-lmer(log_rt ~ (red*spelling+
                      log(duration)+previous_log_rt)+(1+red|set)
          + (1+red+previous_log_rt|subject_oexp), data = xp2.sub.04)
@@ -108,35 +147,3 @@ m3<-lmer(log_rt ~ (red*spelling+
          + (1+red+previous_log_rt|subject_oexp), data = d)
 summary(m3)
 final_model<-m3
-## interactions
-d.red = subset(d, red == "reduced")
-d.full = subset(d, red == "full")
-d.spelling = subset(d, spelling == "+spelling")
-d.nospelling = subset(d, spelling == "-spelling")
-#red
-m1.red<-lmer(log_rt ~ (spelling+
-                     log(duration)+previous_log_rt)+(1|set)
-+ (1+previous_log_rt|subject_oexp), data = d.red)
-summary(m1.red)
-drop1(m1.red)
-m2.red<-lmer(log_rt ~ (spelling+
-                           previous_log_rt)+(1|set)
-             + (1+previous_log_rt|subject_oexp), data = d.red)
-summary(m2.red)
-drop1(m2.red)
-#full
-m1.full<-lmer(log_rt ~ (spelling+
-                           log(duration)+previous_log_rt)+(1|set)
-             + (1+previous_log_rt|subject_oexp), data = d.full)
-summary(m1.full)
-#spelling
-m1.spelling<-lmer(log_rt~(red+
-                             log(duration)+previous_log_rt)+(1+red|set)
-                 + (1+red+previous_log_rt|subject_oexp),data=d.spelling)
-summary(m1.spelling)
-#nospelling
-m1.nospelling<-lmer(log_rt~(red+
-                              log(duration)+previous_log_rt)+(1+red|set)
-                  + (1+red+previous_log_rt|subject_oexp),data=d.nospelling)
-summary(m1.nospelling)
-drop1(m1.nospelling)

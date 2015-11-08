@@ -1,0 +1,154 @@
+set	Correct	Subject	group	Response.RESP
+t01	la belette	9	1	la belette
+t01	la belette	27	1	la bellouse
+t01	la belette	23	1	pas
+t01	la belette	33	1	la belette
+t01	la belette	15	1	le semille
+t01	la belette	13	1	la fenille
+t01	la belette	42	1	la belette
+t01	la belette	3	1	{?}
+t01	la belette	7	1	la meneau
+t01	la belette	29	1	la bedaine
+t01	la belette	41	1	la belette
+t01	la belette	25	1	la balette
+t01	la belette	5	1	le be{.}{.}{.}
+t01	la belette	21	1	La repette
+t01	la belette	35	1	la belette
+t01	la belette	11	1	la balette
+t01	la belette	17	1	la belette
+t08	la semelle	41	1	la semelle
+t08	la semelle	9	1	la semaille
+t08	la semelle	21	1	le zole du foot
+t08	la semelle	35	1	la semelle
+t08	la semelle	5	1	la m{.}{.}{.}
+t08	la semelle	11	1	le {?}
+t08	la semelle	17	1	le semille
+t08	la semelle	3	1	la sevrette
+t08	la semelle	23	1	la semoule
+t08	la semelle	29	1	
+t08	la semelle	27	1	la sersoulle
+t08	la semelle	7	1	le secouvre
+t08	la semelle	42	1	la semelle
+t08	la semelle	15	1	le scheauve
+t08	la semelle	13	1	le 
+t08	la semelle	33	1	le semouille
+t08	la semelle	25	1	la semelle
+t13	le sevrage	41	1	la revage
+t13	le sevrage	25	1	le rebond
+t13	le sevrage	35	1	la secousse
+t13	le sevrage	13	1	la 
+t13	le sevrage	7	1	la senoulle
+t13	le sevrage	17	1	la sevrage
+t13	le sevrage	9	1	la rebond
+t13	le sevrage	11	1	le sevrage
+t13	le sevrage	42	1	le recus
+t13	le sevrage	21	1	p
+t13	le sevrage	5	1	la {.}{.}{.}
+t13	le sevrage	23	1	le savrage
+t13	le sevrage	27	1	le sequoille
+t13	le sevrage	3	1	la sevrette
+t13	le sevrage	33	1	la secousse
+t13	le sevrage	15	1	Le denie
+t13	le sevrage	29	1	la secouse
+t14	la chenille	7	1	la chenille
+t14	la chenille	13	1	le 
+t14	la chenille	35	1	le chenille
+t14	la chenille	3	1	le chenille
+t14	la chenille	27	1	la chevrelle
+t14	la chenille	11	1	le chinille
+t14	la chenille	23	1	pas
+t14	la chenille	17	1	le cien
+t14	la chenille	42	1	la chenille
+t14	la chenille	33	1	la chenille
+t14	la chenille	5	1	la p{.}{.}{.}
+t14	la chenille	21	1	La chenelle
+t14	la chenille	15	1	le chennile
+t14	la chenille	25	1	la senille
+t14	la chenille	9	1	la chenille
+t14	la chenille	29	1	le chenille
+t14	la chenille	41	1	la chenille
+t15	la pelouse	17	1	le pelouche
+t15	la pelouse	11	1	le patron
+t15	la pelouse	15	1	le geseau
+t15	la pelouse	9	1	la pelouze
+t15	la pelouse	23	1	pas
+t15	la pelouse	25	1	le seluche
+t15	la pelouse	42	1	la pelouze
+t15	la pelouse	35	1	la pelousse
+t15	la pelouse	27	1	le peluch
+t15	la pelouse	33	1	la plaison
+t15	la pelouse	5	1	la panouche
+t15	la pelouse	41	1	la pelouse
+t15	la pelouse	21	1	La chenelle
+t15	la pelouse	3	1	le pelouze
+t15	la pelouse	7	1	la benouche
+t15	la pelouse	29	1	la 
+t15	la pelouse	13	1	la pelouse
+t16	la peluche	5	1	la peluche
+t16	la peluche	7	1	la peluche
+t16	la peluche	17	1	le pluche
+t16	la peluche	29	1	la pluche
+t16	la peluche	9	1	la pluche
+t16	la peluche	42	1	la pelouche
+t16	la peluche	3	1	la pelouche
+t16	la peluche	13	1	la peluche
+t16	la peluche	27	1	 peluche
+t16	la peluche	35	1	la peluche
+t16	la peluche	41	1	la puluche
+t16	la peluche	23	1	le puluiche
+t16	la peluche	33	1	la peluche
+t16	la peluche	25	1	la peluche
+t16	la peluche	21	1	La pluche
+t16	la peluche	11	1	la peluche
+t16	la peluche	15	1	le pluiche
+t17	la semoule	25	1	la semoule
+t17	la semoule	13	1	la 
+t17	la semoule	15	1	le moneua
+t17	la semoule	5	1	la p{.}{.}{.}
+t17	la semoule	17	1	le semoulle
+t17	la semoule	21	1	Le griesmail
+t17	la semoule	9	1	la semaille
+t17	la semoule	33	1	le semoulle
+t17	la semoule	29	1	la se
+t17	la semoule	42	1	la semoulle
+t17	la semoule	7	1	la grevey
+t17	la semoule	23	1	la semoule
+t17	la semoule	35	1	la semoule
+t17	la semoule	11	1	le souville
+t17	la semoule	27	1	la semoulle
+t17	la semoule	3	1	la semoulle
+t17	la semoule	41	1	la selouse
+t19	le chenil	9	1	le chenil
+t19	le chenil	35	1	le chenil
+t19	le chenil	13	1	la chenille
+t19	le chenil	5	1	le chenal
+t19	le chenil	7	1	le chenil
+t19	le chenil	27	1	le chenel
+t19	le chenil	17	1	le chenille
+t19	le chenil	33	1	le chenil
+t19	le chenil	25	1	le chennel
+t19	le chenil	29	1	la chenille
+t19	le chenil	41	1	le chenil
+t19	le chenil	11	1	le chenelle
+t19	le chenil	15	1	le chennil
+t19	le chenil	23	1	le chenel
+t19	le chenil	42	1	le chenil
+t19	le chenil	3	1	le chennel
+t19	le chenil	21	1	p
+t23	la secousse	35	1	le recousse
+t23	la secousse	27	1	le servage
+t23	la secousse	13	1	le secouse
+t23	la secousse	21	1	p
+t23	la secousse	17	1	le secouse
+t23	la secousse	33	1	la secousse
+t23	la secousse	23	1	pas
+t23	la secousse	41	1	la sauvage
+t23	la secousse	3	1	la souvrette
+t23	la secousse	5	1	la secouche
+t23	la secousse	9	1	la secout
+t23	la secousse	25	1	la secondiere
+t23	la secousse	15	1	le recule
+t23	la secousse	11	1	la se{.}{.}{.}
+t23	la secousse	42	1	le 
+t23	la secousse	7	1	le secoure
+t23	la secousse	29	1	

@@ -1,0 +1,375 @@
+set	Correct	Subject	group	Response.RESP
+t01	la belette	28	2	la belet
+t01	la belette	24	2	la belette
+t01	la belette	30	2	
+t01	la belette	36	2	le
+t01	la belette	18	2	la belette
+t01	la belette	14	2	la belette
+t01	la belette	10	2	le retart
+t01	la belette	2	2	la semousse
+t01	la belette	22	2	{?}
+t01	la belette	32	2	la bardette
+t01	la belette	16	2	le
+t01	la belette	34	2	le chenille
+t01	la belette	8	2	
+t01	la belette	26	2	la wesse
+t01	la belette	20	2	le lebevrette
+t01	la belette	12	2	{.}
+t01	la belette	6	2	le laleen
+t02	la levrette	36	2	la levrette
+t02	la levrette	34	2	le cheni
+t02	la levrette	10	2	la frette
+t02	la levrette	12	2	le fenette
+t02	la levrette	8	2	le vrette
+t02	la levrette	24	2	la levrette
+t02	la levrette	18	2	la blette
+t02	la levrette	14	2	le levrette
+t02	la levrette	6	2	le farata
+t02	la levrette	22	2	{?}
+t02	la levrette	32	2	le lavette
+t02	la levrette	2	2	la levrette
+t02	la levrette	20	2	la levrette
+t02	la levrette	16	2	la levrette
+t02	la levrette	26	2	le chien
+t02	la levrette	28	2	la levrette
+t02	la levrette	30	2	la sevrege
+t03	la menotte	22	2	la remoulle
+t03	la menotte	32	2	le menotte
+t03	la menotte	18	2	la manotte
+t03	la menotte	30	2	geen idee
+t03	la menotte	8	2	la mounette
+t03	la menotte	14	2	le menot
+t03	la menotte	10	2	le piret
+t03	la menotte	28	2	le menotte
+t03	la menotte	34	2	la menoit
+t03	la menotte	16	2	la menotte
+t03	la menotte	24	2	le menotte
+t03	la menotte	36	2	la menotte
+t03	la menotte	2	2	le menaris
+t03	la menotte	6	2	la mamain
+t03	la menotte	20	2	le manotte
+t03	la menotte	12	2	le menOtte
+t03	la menotte	26	2	la menotte
+t05	le genievre	14	2	le jenievre
+t05	le genievre	34	2	le jenEvre
+t05	le genievre	2	2	la genevi{CAPSLOCK}E{CAPSLOCK}re
+t05	le genievre	36	2	la jenebres
+t05	le genievre	20	2	le genEvre
+t05	le genievre	32	2	la genevrE
+t05	le genievre	12	2	La genEvre
+t05	le genievre	10	2	le jambes
+t05	le genievre	16	2	le geniEvre
+t05	le genievre	26	2	la genesse
+t05	le genievre	18	2	le jenEvre
+t05	le genievre	30	2	le genievrE
+t05	le genievre	6	2	le guineverbe
+t05	le genievre	24	2	la geniEvre
+t05	le genievre	28	2	le geniEvre
+t05	le genievre	22	2	{?}
+t05	le genievre	8	2	la jenievre
+t06	le recel	12	2	Le recUl
+t06	le recel	30	2	l{'}escousse
+t06	le recel	14	2	le recel
+t06	le recel	28	2	le recel
+t06	le recel	6	2	le recel
+t06	le recel	16	2	le r
+t06	le recel	8	2	le recuil
+t06	le recel	24	2	la reveille
+t06	le recel	32	2	le marmout
+t06	le recel	22	2	{?}
+t06	le recel	36	2	le recel
+t06	le recel	2	2	le recil
+t06	le recel	20	2	le recel
+t06	le recel	34	2	le re
+t06	le recel	18	2	le recel
+t06	le recel	10	2	la parlet
+t06	le recel	26	2	la payage
+t08	la semelle	10	2	le refant
+t08	la semelle	30	2	la semelle
+t08	la semelle	36	2	la semoule
+t08	la semelle	32	2	la schmelle
+t08	la semelle	18	2	le smelle
+t08	la semelle	16	2	la semoule
+t08	la semelle	24	2	la semelle
+t08	la semelle	34	2	la semelle
+t08	la semelle	6	2	la retron
+t08	la semelle	2	2	la semille
+t08	la semelle	12	2	La semElle
+t08	la semelle	28	2	le sevouil
+t08	la semelle	14	2	le semelle
+t08	la semelle	26	2	la chausure
+t08	la semelle	8	2	la smoelle
+t08	la semelle	20	2	la semelle
+t08	la semelle	22	2	smoulle
+t09	le fenouil	2	2	el cherille
+t09	le fenouil	22	2	la fenille
+t09	le fenouil	20	2	le fenouie
+t09	le fenouil	12	2	
+t09	le fenouil	34	2	le fenile
+t09	le fenouil	32	2	la veinet
+t09	le fenouil	24	2	le fenuille
+t09	le fenouil	14	2	la fenouille
+t09	le fenouil	10	2	la pulon
+t09	le fenouil	26	2	la venesse
+t09	le fenouil	28	2	la fenouille
+t09	le fenouil	18	2	le fnuille
+t09	le fenouil	6	2	la fenokle
+t09	le fenouil	30	2	la fenouille
+t09	le fenouil	36	2	le remuse
+t09	le fenouil	8	2	la venette
+t09	le fenouil	16	2	le fenouille
+t10	le rebond	22	2	{?}
+t10	le rebond	20	2	le {(}geen idee{)}{)}
+t10	le rebond	2	2	el retorre
+t10	le rebond	32	2	le recu
+t10	le rebond	18	2	le redecul
+t10	le rebond	26	2	la rebond
+t10	le rebond	34	2	le rebon
+t10	le rebond	16	2	le re
+t10	le rebond	12	2	e rebOnte
+t10	le rebond	6	2	le rebond
+t10	le rebond	14	2	le recul
+t10	le rebond	36	2	la rebond
+t10	le rebond	8	2	le requit
+t10	le rebond	30	2	la re{.}{.}{.}{.}
+t10	le rebond	28	2	le rebons
+t10	le rebond	10	2	le rebont
+t10	le rebond	24	2	le rebond
+t11	le remous	18	2	la redance
+t11	le remous	16	2	le
+t11	le remous	32	2	le moulet
+t11	le remous	6	2	la trotor
+t11	le remous	34	2	la cous
+t11	le remous	10	2	le tures
+t11	le remous	36	2	la
+t11	le remous	12	2	Le recEle
+t11	le remous	24	2	le remoule
+t11	le remous	20	2	geen idee
+t11	le remous	30	2	geen idee
+t11	le remous	14	2	le recel
+t11	le remous	2	2	la semisse
+t11	le remous	28	2	le recel
+t11	le remous	22	2	{?}
+t11	le remous	8	2	
+t11	le remous	26	2	la rechute
+t12	le requin	12	2	Le Requin
+t12	le requin	2	2	le requin
+t12	le requin	28	2	le recul
+t12	le requin	22	2	{?}
+t12	le requin	8	2	 la recuit
+t12	le requin	30	2	le requin
+t12	le requin	34	2	la 
+t12	le requin	18	2	le requin
+t12	le requin	24	2	le requin
+t12	le requin	14	2	le requin
+t12	le requin	20	2	le requin
+t12	le requin	10	2	le refant
+t12	le requin	16	2	le requin
+t12	le requin	36	2	le requin
+t12	le requin	26	2	le requin
+t12	le requin	6	2	la riquot
+t12	le requin	32	2	le recul
+t13	le sevrage	28	2	le savrage
+t13	le sevrage	20	2	le
+t13	le sevrage	2	2	el redistart
+t13	le sevrage	24	2	le sevrage
+t13	le sevrage	16	2	le
+t13	le sevrage	10	2	le retrondt
+t13	le sevrage	30	2	
+t13	le sevrage	22	2	{?}
+t13	le sevrage	32	2	la reculle
+t13	le sevrage	12	2	La secUse
+t13	le sevrage	26	2	l{'}obdain
+t13	le sevrage	6	2	le rebond
+t13	le sevrage	34	2	le chenille
+t13	le sevrage	36	2	la
+t13	le sevrage	8	2	la repruit
+t13	le sevrage	18	2	le dispare
+t13	le sevrage	14	2	le sevrage
+t14	la chenille	28	2	la chenille
+t14	la chenille	14	2	le chenille
+t14	la chenille	10	2	la realon
+t14	la chenille	32	2	la chenille
+t14	la chenille	22	2	{?}
+t14	la chenille	34	2	la 
+t14	la chenille	30	2	la reliere
+t14	la chenille	18	2	la chenille
+t14	la chenille	16	2	le chenille
+t14	la chenille	2	2	la chemille
+t14	la chenille	12	2	Le chenIn
+t14	la chenille	20	2	le chenille
+t14	la chenille	36	2	le chenil
+t14	la chenille	6	2	le plie
+t14	la chenille	24	2	la chenille
+t14	la chenille	26	2	la refute
+t14	la chenille	8	2	le 
+t15	la pelouse	24	2	la pelouche
+t15	la pelouse	16	2	la pelouse
+t15	la pelouse	22	2	la pluche
+t15	la pelouse	18	2	la bedeau
+t15	la pelouse	2	2	la pelaise
+t15	la pelouse	8	2	la pluise
+t15	la pelouse	34	2	la peluche
+t15	la pelouse	12	2	{.}
+t15	la pelouse	26	2	la pelouse
+t15	la pelouse	10	2	le gardon
+t15	la pelouse	32	2	la plouche
+t15	la pelouse	20	2	la pluze
+t15	la pelouse	30	2	la chenile
+t15	la pelouse	28	2	la pelan
+t15	la pelouse	36	2	la pluse
+t15	la pelouse	14	2	la pelouse
+t15	la pelouse	6	2	la pizou
+t16	la peluche	14	2	la peluche
+t16	la peluche	6	2	la plouis
+t16	la peluche	30	2	la pluiche
+t16	la peluche	36	2	la pluche
+t16	la peluche	2	2	el pelouse
+t16	la peluche	34	2	la pluche
+t16	la peluche	32	2	la pluiche
+t16	la peluche	18	2	la pluche
+t16	la peluche	24	2	la pluche
+t16	la peluche	12	2	 la peluche
+t16	la peluche	10	2	la plouche
+t16	la peluche	22	2	 peluche
+t16	la peluche	26	2	la pluche
+t16	la peluche	8	2	la pluische
+t16	la peluche	20	2	la plush
+t16	la peluche	28	2	la peluche
+t16	la peluche	16	2	la pelouche
+t17	la semoule	32	2	la menouche
+t17	la semoule	10	2	le pulette
+t17	la semoule	18	2	la smoulle
+t17	la semoule	14	2	la semoulle
+t17	la semoule	34	2	la semoulle
+t17	la semoule	20	2	la semouile
+t17	la semoule	22	2	la smoulle
+t17	la semoule	8	2	la smoele
+t17	la semoule	12	2	le sEmoele
+t17	la semoule	36	2	la 
+t17	la semoule	30	2	la semoulle
+t17	la semoule	26	2	la griesse
+t17	la semoule	28	2	le senouille
+t17	la semoule	24	2	la semoulle
+t17	la semoule	6	2	le schmal
+t17	la semoule	2	2	la gerisse
+t17	la semoule	16	2	le 
+t18	le reflet	2	2	le refleg
+t18	le reflet	22	2	le refleqe
+t18	le reflet	14	2	le reflet
+t18	le reflet	12	2	le reflE
+t18	le reflet	16	2	le reflet
+t18	le reflet	34	2	le reflet
+t18	le reflet	28	2	le reflet
+t18	le reflet	8	2	le revette
+t18	le reflet	6	2	 reflEt
+t18	le reflet	36	2	le reflet
+t18	le reflet	30	2	le reflet
+t18	le reflet	10	2	le reflet
+t18	le reflet	20	2	le regle
+t18	le reflet	26	2	la reflEt
+t18	le reflet	24	2	la reflet
+t18	le reflet	18	2	le relex
+t18	le reflet	32	2	le reflex
+t19	le chenil	18	2	le chenill
+t19	le chenil	28	2	la chenille
+t19	le chenil	26	2	la chenelle
+t19	le chenil	8	2	la chenelle
+t19	le chenil	30	2	la chenelle
+t19	le chenil	24	2	le chenil
+t19	le chenil	22	2	chenille
+t19	le chenil	12	2	Le chennIlle
+t19	le chenil	16	2	la chenille
+t19	le chenil	34	2	la chenille
+t19	le chenil	36	2	la chenille
+t19	le chenil	14	2	le chenil
+t19	le chenil	10	2	la pullet
+t19	le chenil	32	2	le chenil
+t19	le chenil	20	2	le chenil
+t19	le chenil	6	2	le chiennE
+t19	le chenil	2	2	el chennille
+t20	le meneau	12	2	le moche
+t20	le meneau	24	2	le menoux
+t20	le meneau	6	2	la maiman
+t20	le meneau	28	2	le menot
+t20	le meneau	32	2	le menoux
+t20	le meneau	20	2	le meneau
+t20	le meneau	18	2	le pandeau
+t20	le meneau	14	2	la meneau
+t20	le meneau	10	2	le parte
+t20	le meneau	2	2	la menuae
+t20	le meneau	8	2	la monquit
+t20	le meneau	26	2	le bodain
+t20	le meneau	22	2	la mer
+t20	le meneau	34	2	
+t20	le meneau	36	2	la meneau
+t20	le meneau	30	2	le manteau
+t20	le meneau	16	2	le meneau
+t21	le recul	36	2	le recul
+t21	le recul	28	2	le recail
+t21	le recul	34	2	le rechan
+t21	le recul	18	2	le recours
+t21	le recul	30	2	la rediquile
+t21	le recul	2	2	el rebond
+t21	le recul	26	2	la rebond
+t21	le recul	8	2	le recruit
+t21	le recul	12	2	le rebonte
+t21	le recul	6	2	le rebond
+t21	le recul	14	2	le rebond
+t21	le recul	22	2	{?}
+t21	le recul	24	2	la recul
+t21	le recul	10	2	le rebound
+t21	le recul	20	2	le recul
+t21	le recul	16	2	le recul
+t21	le recul	32	2	le reCul
+t22	le renard	18	2	le renard
+t22	le renard	28	2	le renard
+t22	le renard	14	2	le renard
+t22	le renard	20	2	le renard
+t22	le renard	26	2	le renard
+t22	le renard	36	2	le renard
+t22	le renard	30	2	le renard
+t22	le renard	16	2	le renard
+t22	le renard	10	2	le puret
+t22	le renard	8	2	
+t22	le renard	22	2	le renard
+t22	le renard	32	2	le renard
+t22	le renard	12	2	Le renArd
+t22	le renard	2	2	el renard
+t22	le renard	24	2	le rEnard
+t22	le renard	6	2	le renarde
+t22	le renard	34	2	le renard
+t23	la secousse	10	2	le pont
+t23	la secousse	30	2	
+t23	la secousse	32	2	la semoulle
+t23	la secousse	12	2	La Secuse
+t23	la secousse	2	2	el cheville
+t23	la secousse	22	2	{?}
+t23	la secousse	20	2	le secousse
+t23	la secousse	28	2	le secuse
+t23	la secousse	14	2	le recouse
+t23	la secousse	6	2	le rebond
+t23	la secousse	36	2	le 
+t23	la secousse	24	2	le shousse
+t23	la secousse	16	2	le s
+t23	la secousse	26	2	la rechute
+t23	la secousse	34	2	
+t23	la secousse	18	2	le r
+t23	la secousse	8	2	le recuit
+t24	le faisan	22	2	la fazante
+t24	le faisan	16	2	le fasant
+t24	le faisan	6	2	 le phasant
+t24	le faisan	20	2	le fezan
+t24	le faisan	36	2	le fasant
+t24	le faisan	24	2	le faisan
+t24	le faisan	10	2	la fasant
+t24	le faisan	28	2	le fasant
+t24	le faisan	30	2	 le fasant
+t24	le faisan	18	2	le fazant
+t24	le faisan	26	2	le faisant
+t24	le faisan	12	2	Le fazant
+t24	le faisan	34	2	le fazan
+t24	le faisan	8	2	la fassant
+t24	le faisan	14	2	la fezante
+t24	le faisan	2	2	el fagant
+t24	le faisan	32	2	le fasant

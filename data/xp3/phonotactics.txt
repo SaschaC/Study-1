@@ -1,0 +1,49 @@
+set	stimulus	dutch		p_universally	p_french	p_dutch	r
+t01	la belette	de wezel	*	L	L	L	no
+t02	la levrette	de windhond		I	I	I	no
+t03	la menotte	het handje		I	I	I	no
+t04	la reliure	de boekband		I	I	I	yes
+t05	le genièvre	de jeneverbes		L	I	I	no
+t06	le recel	de heling		I	I	I	yes
+t07	la bedaine	de bierbuik		I	I	I	no
+t08	la semelle	de schoenzool		L	I	L	no
+t09	le fenouil	de venkel		L	I	I	no
+t10	le rebond	de terugstoot		I	I	I	yes
+t11	le remous	de zuiging		I	I	I	yes
+t12	le requin	de haai		I	I	I	yes
+t13	le sevrage	het onttrekken		L	I	L	no
+t14	la chenille	de rups		L	I	L	no
+t15	la pelouse	het gazon		L	L	L	no
+t16	la peluche	het pluisje		L	L	L	no
+t17	la semoule	het griesmeel		L	I	L	no
+t18	le reflet	de reflex	C	I	I	I	yes
+t19	le chenil	de kennel		L	I	L	no
+t20	le meneau	de paal		I	I	I	no
+t21	le recul	de teruggang		I	I	I	yes
+t22	le renard	de vos		I	I	I	yes
+t23	la secousse	de ruk		L	L	L	no
+t24	le faisan	de fazant	C	I	I	I	no
+n01	la berasse			L	L	L	no
+n02	la ledruche			I	I	I	no
+n03	la mequisse			I	I	I	no
+n04	la renoise			I	I	I	yes
+n05	le gegnoble			L	I	I	no
+n06	le retal			I	I	I	yes
+n07	la bechesse			L	I	I	no
+n08	la secotte			L	I	L	no
+n09	le femmeil			L	I	I	no
+n10	le regot			I	I	I	yes
+n11	le refant			I	I	I	yes
+n12	le rechant			I	I	I	yes
+n13	le seblème			L	I	L	no
+n14	la chemaille			L	I	I	no
+n15	la pessade			I	I	L	no
+n16	la pedoche			I	I	I	no
+n17	la segence			I	I	I	no
+n18	le reclin			I	I	I	yes
+n19	le chedel			L	I	L	no
+n20	le mejet			I	I	I	no
+n21	le repèze			I	I	I	yes
+n22	le relogue			I	I	I	yes
+n23	la sepave			L	I	L	no
+n24	le fequon			L	I	I	no

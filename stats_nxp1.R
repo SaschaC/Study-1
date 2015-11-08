@@ -1,16 +1,56 @@
-################### Statistical Modeling - ALL ################################
-########################################################################
 library(languageR)
 library(lme4)
 library(Hmisc)
 
+# 1. Comparison between +spelling and -spelling group:
+# vocabulary test, average proficiency from questionnaires,
+# years of French in school, lextale
+## vocabulary test
+table(xp1_voctest$voctest_correctness,xp1_voctest$spelling)
+prop.table(table(xp1_voctest$voctest_correctness,xp1_voctest$spelling),2)
+prop.table(table(xp1_voctest$voctest_correctness))
+chisq.test(table(xp1_voctest$voctest_correctness,xp1_voctest$spelling))
+## average proficiency from questionnaires
+mean(xp1_questinf$av_prof[xp1_questinf$spelling=="-spelling"])
+mean(xp1_questinf$av_prof[xp1_questinf$spelling=="+spelling"])
+mean(xp1_questinf$av_prof)
+range(xp1_questinf$av_prof)
+t.test(xp1_questinf$av_prof[xp1_questinf$spelling=="-spelling"], 
+       xp1_questinf$av_prof[xp1_questinf$spelling=="+spelling"])
+## years of French
+mean(xp1_questinf$jaar[xp1_questinf$spelling=="-spelling"])
+mean(xp1_questinf$jaar[xp1_questinf$spelling=="+spelling"])
+t.test(xp1_questinf$jaar[xp1_questinf$spelling=="-spelling"], 
+       xp1_questinf$jaar[xp1_questinf$spelling=="+spelling"])
+## lextale
+get_score<-function(d) {
+  correct.words<-length(which(d$Stimulus.ACC == 1 & d$CorrectRight == 5))
+  incorrect.pseudo<-length(which(d$Stimulus.ACC == 0 & d$CorrectRight == 1))
+  score<-correct.words - (2*incorrect.pseudo)
+  score
+}
+spelling<-xp1_lextale[xp1_lextale$spelling=="+spelling",]
+nospelling<-xp1_lextale[xp1_lextale$spelling=="-spelling",]
+spelling$subject_oexp<-factor(spelling$subject_oexp)
+nospelling$subject_oexp<-factor(nospelling$subject_oexp)
+score_all<-sapply(split(xp1_lextale,
+                        xp1_lextale$subject_oexp), get_score)
+mean(score_all)
+range(score_all)
+score1<-sapply(split(nospelling,
+                     nospelling$subject_oexp), get_score)
+mean(score1)
+score2<-sapply(split(spelling,
+                     spelling$subject_oexp), get_score)
+mean(score2)
+t.test(score1, score2)
 ### backfit 1
 m1 = glmer(correctness ~ (red*spelling
                          )  + (1|set) 
           + (1|subject_oexp), data = xp1.sub.03, family = binomial(logit))
 summary(m1)
-#Backfit 1
-
+# 2. Linear regressions: Accuracy
+## Backfit 1
 m1a<- glmer(correctness ~ (red*spelling
 )  + (1+red|set) 
 + (1|subject_oexp), data = xp1.sub.03, family = binomial(logit))
@@ -23,34 +63,13 @@ m1c<- glmer(correctness ~ (red*spelling
 )  + (1+red|set) 
 + (1+red|subject_oexp), data = xp1.sub.03, family = binomial(logit))
 AIC(m1c)
-
+## Final model
 final_model<-glmer(correctness ~ (red*spelling
 )  + (1+red|set) 
 + (1|subject_oexp), data = xp1.sub.03, family = binomial(logit))
 summary(final_model)
-########## check interactions
-d.red = subset(xp1.sub.03, red == "reduced")
-d.full = subset(xp1.sub.03, red == "full")
-d.spelling = subset(xp1.sub.03, spelling == "+spelling")
-d.nospelling = subset(xp1.sub.03, spelling == "-spelling")
-## reduced
-m1.red = glmer(correctness ~ (spelling) + (1|set) + (1|subject_oexp), 
-               data = d.red, family = binomial(logit));
-summary(m1.red)
-##full
-m1.full = glmer(correctness ~ (spelling) + (1|set) + (1|subject_oexp), 
-                data = d.full, family = binomial(logit));
-summary(m1.full)
-##spelling
-m1.spelling<-glmer(correctness ~ (red) + (1+red|set) 
-                   + (1|subject_oexp), data = d.spelling, family = binomial(logit));
-summary(m1.spelling)
-##nospelling
-m1.nospelling<-glmer(correctness ~ (red) + (1+red|set) 
-                   + (1|subject_oexp), data = d.nospelling, family = binomial(logit));
-summary(m1.nospelling)
-################################################RTs
-#Backfit 1
+# Linear regression: RTs
+## Backfit 1
 m1<-lmer(log_rt ~ (red*spelling+trial+
                      log(duration)+previous_log_rt)+(1|set)
          + (1|subject_oexp), data = xp1.sub.04)
@@ -89,7 +108,7 @@ m3<-lmer(log_rt ~ (red+trial+
          +(1|subject_oexp), data = d)
 summary(m3)
 drop1(m3)
-#forward fit 1
+## Forward fit 1
 m3a<-lmer(log_rt ~ (red+trial+
                        log(duration)+previous_log_rt)+(1|set)
 +(1|subject_oexp), data = xp1.sub.04)
@@ -122,7 +141,7 @@ m3g<-lmer(log_rt ~ (red+trial+
                         log(duration)+previous_log_rt)+(1+red|set)
           +(1+red+previous_log_rt|subject_oexp), data = xp1.sub.04)
 AIC(m3g)
-#Backfit 2
+## Backfit 2
 m4<-lmer(log_rt ~ (red+trial+
                        log(duration)+previous_log_rt)+(1+red|set)
          +(1+red|subject_oexp), data = xp1.sub.04)
@@ -135,3 +154,4 @@ m4<-lmer(log_rt ~ (red+trial+
          +(1+red|subject_oexp), data = d)
 summary(m4)
 final_model<-m4
+summary(final_model)
