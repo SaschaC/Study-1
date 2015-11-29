@@ -22,11 +22,15 @@ by participants in the questionnaires
 In addition, there is a 'phonotactics.txt' file, containing information about
 the phonotactic legality of each of the 24 words that were learnt.
 
+Moreover, /data/transcription_task contains the data for the transcription task.
+WARNING: The grouping of experiments differs for this task (see /data/transcription_task/README.txt) 
+
 3. Reproducing the Results
 
 For each of the three experiments there is one 'analysis' R-script and
 one 'stats' R-script. To reproduce the up-to-date results (cf. 4.), 
-the scripts are run entirely withouth any changes in the code.
+the scripts are run entirely withouth any changes in the code (exception:
+In the 'analysis' scripts, the working directory path in line 5 has to be adjusted).
 
 3.1. Analysis scripts
 

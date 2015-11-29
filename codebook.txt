@@ -1,0 +1,99 @@
+1. Lexical decision task (lexdec)
+These are the columns in the RAW lexical decision ("lexdec") data files in /nexp/data/. Note that columns 
+are added to these data files in the R script "analysis" files in /nexp (see /nexp/README.txt), 
+which are not explained here, but in comments in the script files.
+
+<session>
+NA
+
+<list>
+Experimental list
+
+<group>
+obsolete
+(it stems from the older version with a different grouping of experiments)
+
+<subject>
+Subject ID.
+Only use this column for Experiment 3.
+Do not use this column for subjects of Experiment 1 and 2, and use 'subject_oexp'
+for these participants instead.
+
+<age>
+age
+
+<sex>
+sex
+
+<hand>
+handedness
+
+<assist>
+assistant name
+
+<trial>
+number of trial
+
+<file>
+sound file name
+
+<stimulus>
+tansliteration of word presented in the trial; apostroph indicating absent schwa
+
+<p_universal>
+only existent in the raw data file of Experiment 3; "I" or "L", indicating whether 
+the reduced version of a word results in an illegal or legal consonant onset cluster 
+with respect to sonority sequencing principles.
+
+<is_target>
+"yes" or "no"; is the stimulus one of the 24 target words or not
+
+<is_word>
+"yes" or "no"; is the stimulus a word or nonword
+
+<targettype>
+"filler", "match", or "mismatch"
+This column is obsolete
+(it stems from the older version with a different grouping of experiments).
+
+<red>
+"r" or "u" or NA; reduction of the stimulus; NA for nonschwa words
+
+<is_schwa>
+"yes" or "no"; is the stimulus a schwa word/nonword
+
+<duration>
+duration of the stimulus in ms
+
+<rt>
+RT in ms measured from word onset
+
+<rt_end>
+RT in ms measured from word offset
+
+<response>
+"1" or "5"; 1 for left button response ('word' for left handed participants), 
+5 for right button response ('word' for right handed participants)
+
+<correctness>
+"yes" or "no"; "yes" for correct response
+
+<oexperiment>
+obsolete; indicates the number of the original experiment in the old grouping of experiments
+
+<spelling> 
+"+spelling" group or "-spelling" group; only one value per participant (they either learnt 
+with or without spelling)
+
+<subject_oexp>
+Subject ID for Experiment 1 and 2. Use this column for subjects of Experiment 1 and 2 instead of
+the 'subject' column.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,989 @@
+set	Correct	Subject	SessionTime	Block	Response.ACC	Response.RESP	Response.RT	Stimulus	group	p_universally	p_french	p_dutch	r
+t01	la belette	14	14:14:11	22	0	le tablet	15198	de wezel	2	L	L	L	no
+t01	la belette	12	9:49:26	22	0	la blEte	4406	de wezel	2	L	L	L	no
+t01	la belette	10	12:22:13	22	0		8929	de wezel	2	L	L	L	no
+t01	la belette	254	15:49:39	22	0	le notre	3060	de wezel	2	L	L	L	no
+t01	la belette	31	12:15:43	22	0	a bullet	1957	de wezel	1	L	L	L	no
+t01	la belette	20	11:13:42	22	0	la bred	7749	de wezel	2	L	L	L	no
+t01	la belette	22	13:15:11	22	0	{?}	1240	de wezel	2	L	L	L	no
+t01	la belette	34	13:16:28	22	0	la fuche	7044	de wezel	2	L	L	L	no
+t01	la belette	36	9:23:20	22	0	le bleediont	9185	de wezel	2	L	L	L	no
+t01	la belette	9	11:17:46	22	0	le bullet	9978	de wezel	1	L	L	L	no
+t01	la belette	21	11:41:17	22	0	le	1379	de wezel	1	L	L	L	no
+t01	la belette	33	10:16:00	22	0	le bullet	5141	de wezel	1	L	L	L	no
+t01	la belette	45	9:18:14	22	0	la ferret	2094	de wezel	1	L	L	L	no
+t01	la belette	15	13:48:26	22	0	le  {?}	18655	de wezel	1	L	L	L	no
+t01	la belette	42	14:45:04	22	0	weet niet meer	27838	de wezel	2	L	L	L	no
+t01	la belette	249	11:17:33	22	0	le bullet	4957	de wezel	1	L	L	L	no
+t01	la belette	41	13:55:09	22	0	le chennier	18764	de wezel	1	L	L	L	no
+t01	la belette	30	11:13:11	22	0	le blet	4204	de wezel	2	L	L	L	no
+t01	la belette	250	14:43:23	22	0	la bled	3400	de wezel	2	L	L	L	no
+t01	la belette	46	15:40:31	22	0	la beusse	2610	de wezel	2	L	L	L	no
+t01	la belette	29	9:45:19	22	0	le bullet	1978	de wezel	1	L	L	L	no
+t01	la belette	40	9:11:44	22	0	la bouche	18894	de wezel	2	L	L	L	no
+t01	la belette	44	10:10:37	22	0		2513	de wezel	2	L	L	L	no
+t01	la belette	255	16:46:32	22	0	{?}	2729	de wezel	1	L	L	L	no
+t01	la belette	43	13:27:33	22	0	le meton	5632	de wezel	1	L	L	L	no
+t01	la belette	7	14:14:03	22	0	Le bullet	6281	de wezel	1	L	L	L	no
+t01	la belette	38	11:14:09	22	0	le bullet	2650	de wezel	1	L	L	L	no
+t01	la belette	256	12:06:21	22	0	{/}	3495	de wezel	2	L	L	L	no
+t01	la belette	11	14:42:25	22	0	le redoubte	7981	de wezel	1	L	L	L	no
+t01	la belette	16	10:30:32	22	0	le levrant	9190	de wezel	2	L	L	L	no
+t01	la belette	25	14:13:34	22	0	la bullit	4180	de wezel	1	L	L	L	no
+t01	la belette	6	12:16:10	22	0	la fret	11054	de wezel	2	L	L	L	no
+t01	la belette	24	12:43:06	22	0	le scousE	12846	de wezel	2	L	L	L	no
+t01	la belette	5	11:51:32	22	0	le bullet	3861	de wezel	1	L	L	L	no
+t01	la belette	48	11:18:20	22	0	l{'} abnot	14797	de wezel	2	L	L	L	no
+t01	la belette	32	12:11:40	22	0	la blat	3115	de wezel	2	L	L	L	no
+t01	la belette	47	11:43:45	22	0	le bUllet	5371	de wezel	1	L	L	L	no
+t01	la belette	252	11:46:19	22	0	le frEt	33351	de wezel	2	L	L	L	no
+t01	la belette	27	10:17:40	22	0	le femoeur	5708	de wezel	1	L	L	L	no
+t01	la belette	251	12:47:23	22	0	le bullet	7242	de wezel	1	L	L	L	no
+t01	la belette	253	16:14:37	22	0	le b{QUOTE}Ullet	10461	de wezel	1	L	L	L	no
+t01	la belette	19	14:45:48	22	0	le bullet	3001	de wezel	1	L	L	L	no
+t01	la belette	26	16:42:55	22	0	le riuche	6526	de wezel	2	L	L	L	no
+t01	la belette	23	12:11:09	22	0	la	1509	de wezel	1	L	L	L	no
+t01	la belette	28	15:08:55	22	0	la tablet	3697	de wezel	2	L	L	L	no
+t02	la levrette	40	9:11:44	6	0	le chenille	16196	de windhond	2	I	I	I	no
+t02	la levrette	20	11:13:42	6	0	la chese	5509	de windhond	2	I	I	I	no
+t02	la levrette	250	14:43:23	6	0	le fret	3797	de windhond	2	I	I	I	no
+t02	la levrette	10	12:22:13	6	0	aet	2402	de windhond	2	I	I	I	no
+t02	la levrette	249	11:17:33	6	0	le rufrEt	5577	de windhond	1	I	I	I	no
+t02	la levrette	38	11:14:09	6	0	le sevalle	18573	de windhond	1	I	I	I	no
+t02	la levrette	14	14:14:11	6	0	le fret	4037	de windhond	2	I	I	I	no
+t02	la levrette	253	16:14:37	6	0	la fEfrEt	13685	de windhond	1	I	I	I	no
+t02	la levrette	254	15:49:39	6	0	la tetre	7358	de windhond	2	I	I	I	no
+t02	la levrette	27	10:17:40	6	0	la lelush	5450	de windhond	1	I	I	I	no
+t02	la levrette	43	13:27:33	6	0	le recoute	18454	de windhond	1	I	I	I	no
+t02	la levrette	48	11:18:20	6	0	l{'} abnot	16398	de windhond	2	I	I	I	no
+t02	la levrette	29	9:45:19	6	0	le jenouille	46349	de windhond	1	I	I	I	no
+t02	la levrette	34	13:16:28	6	0	le chien	10658	de windhond	2	I	I	I	no
+t02	la levrette	41	13:55:09	6	0	le louvre	25038	de windhond	1	I	I	I	no
+t02	la levrette	15	13:48:26	6	0	{?}	1194	de windhond	1	I	I	I	no
+t02	la levrette	9	11:17:46	6	0	le levret	4046	de windhond	1	I	I	I	no
+t02	la levrette	25	14:13:34	6	0	la ballet	24961	de windhond	1	I	I	I	no
+t02	la levrette	32	12:11:40	6	0	la blet	12467	de windhond	2	I	I	I	no
+t02	la levrette	28	15:08:55	6	0	la 	8701	de windhond	2	I	I	I	no
+t02	la levrette	7	14:14:03	6	0	 La frEte	7339	de windhond	1	I	I	I	no
+t02	la levrette	31	12:15:43	6	0	la fonette	13005	de windhond	1	I	I	I	no
+t02	la levrette	23	12:11:09	6	0	la	1894	de windhond	1	I	I	I	no
+t02	la levrette	36	9:23:20	6	0	le wesel	6643	de windhond	2	I	I	I	no
+t02	la levrette	42	14:45:04	6	0	le revrEt	11116	de windhond	2	I	I	I	no
+t02	la levrette	19	14:45:48	6	0	le lavret	2940	de windhond	1	I	I	I	no
+t02	la levrette	21	11:41:17	6	0	le	4355	de windhond	1	I	I	I	no
+t02	la levrette	46	15:40:31	6	0	la frette	11373	de windhond	2	I	I	I	no
+t02	la levrette	30	11:13:11	6	0	pas	22265	de windhond	2	I	I	I	no
+t02	la levrette	16	10:30:32	6	0	 la levrette	3567	de windhond	2	I	I	I	no
+t02	la levrette	12	9:49:26	6	1	la levrette	2978	de windhond	2	I	I	I	no
+t02	la levrette	47	11:43:45	6	0	le lEfrE	7077	de windhond	1	I	I	I	no
+t02	la levrette	44	10:10:37	6	0	Le frette	6051	de windhond	2	I	I	I	no
+t02	la levrette	255	16:46:32	6	0	le refret	17030	de windhond	1	I	I	I	no
+t02	la levrette	33	10:16:00	6	0	le leurchien	3438	de windhond	1	I	I	I	no
+t02	la levrette	256	12:06:21	6	0	le vret	10244	de windhond	2	I	I	I	no
+t02	la levrette	251	12:47:23	6	0	le	2749	de windhond	1	I	I	I	no
+t02	la levrette	24	12:43:06	6	0	la fret	13853	de windhond	2	I	I	I	no
+t02	la levrette	22	13:15:11	6	0	{?}	3239	de windhond	2	I	I	I	no
+t02	la levrette	6	12:16:10	6	0	la chmoel	20516	de windhond	2	I	I	I	no
+t02	la levrette	26	16:42:55	6	0	le vineux	7246	de windhond	2	I	I	I	no
+t02	la levrette	252	11:46:19	6	0	le frEt	6215	de windhond	2	I	I	I	no
+t02	la levrette	45	9:18:14	6	0	le ferret	5525	de windhond	1	I	I	I	no
+t02	la levrette	5	11:51:32	6	0	le levret	7213	de windhond	1	I	I	I	no
+t02	la levrette	11	14:42:25	6	0	la rechien	13724	de windhond	1	I	I	I	no
+t03	la menotte	10	12:22:13	11	0	l{'}abdeille	6814	het handje	2	I	I	I	no
+t03	la menotte	251	12:47:23	11	0	la mainette	9539	het handje	1	I	I	I	no
+t03	la menotte	19	14:45:48	11	0	la menoit	17616	het handje	1	I	I	I	no
+t03	la menotte	254	15:49:39	11	0	le hand	2319	het handje	2	I	I	I	no
+t03	la menotte	5	11:51:32	11	0	le minute	2922	het handje	1	I	I	I	no
+t03	la menotte	12	9:49:26	11	0	la mnotte	8021	het handje	2	I	I	I	no
+t03	la menotte	252	11:46:19	11	0	le mnot	10412	het handje	2	I	I	I	no
+t03	la menotte	7	14:14:03	11	0	 Le munot	3805	het handje	1	I	I	I	no
+t03	la menotte	29	9:45:19	11	0	la minote	5265	het handje	1	I	I	I	no
+t03	la menotte	34	13:16:28	11	0	le trois	16823	het handje	2	I	I	I	no
+t03	la menotte	253	16:14:37	11	0	le manoux	3656	het handje	1	I	I	I	no
+t03	la menotte	16	10:30:32	11	0	la mnot	5887	het handje	2	I	I	I	no
+t03	la menotte	32	12:11:40	11	0	la mans	34123	het handje	2	I	I	I	no
+t03	la menotte	44	10:10:37	11	0	la motte	5221	het handje	2	I	I	I	no
+t03	la menotte	256	12:06:21	11	0	la memot	6814	het handje	2	I	I	I	no
+t03	la menotte	9	11:17:46	11	0	le mannot	2065	het handje	1	I	I	I	no
+t03	la menotte	14	14:14:11	11	0	{INSERT}la knot	38755	het handje	2	I	I	I	no
+t03	la menotte	24	12:43:06	11	0	l{'}ormant	9268	het handje	2	I	I	I	no
+t03	la menotte	25	14:13:34	11	0	la pluche	12546	het handje	1	I	I	I	no
+t03	la menotte	41	13:55:09	11	0	le recupant	3328	het handje	1	I	I	I	no
+t03	la menotte	36	9:23:20	11	0	le vennot	14041	het handje	2	I	I	I	no
+t03	la menotte	33	10:16:00	11	0	la menout	4215	het handje	1	I	I	I	no
+t03	la menotte	40	9:11:44	11	0	la mnote	5477	het handje	2	I	I	I	no
+t03	la menotte	11	14:42:25	11	0	la main	6027	het handje	1	I	I	I	no
+t03	la menotte	6	12:16:10	11	0	le notE	12109	het handje	2	I	I	I	no
+t03	la menotte	27	10:17:40	11	0	la monteur	14657	het handje	1	I	I	I	no
+t03	la menotte	20	11:13:42	11	0	la notte	4584	het handje	2	I	I	I	no
+t03	la menotte	15	13:48:26	11	0	le monet	5458	het handje	1	I	I	I	no
+t03	la menotte	42	14:45:04	11	0	la m{.}{.}	22944	het handje	2	I	I	I	no
+t03	la menotte	26	16:42:55	11	0	la 	7292	het handje	2	I	I	I	no
+t03	la menotte	38	11:14:09	11	0	la menUte	7245	het handje	1	I	I	I	no
+t03	la menotte	255	16:46:32	11	0	{?}	4182	het handje	1	I	I	I	no
+t03	la menotte	22	13:15:11	11	0	le notte	5351	het handje	2	I	I	I	no
+t03	la menotte	250	14:43:23	11	0	le not	5856	het handje	2	I	I	I	no
+t03	la menotte	249	11:17:33	11	0	la puloire	8970	het handje	1	I	I	I	no
+t03	la menotte	28	15:08:55	11	0	la noit	2077	het handje	2	I	I	I	no
+t03	la menotte	21	11:41:17	11	0	le	2105	het handje	1	I	I	I	no
+t03	la menotte	48	11:18:20	11	0	l{'} amnotte	6129	het handje	2	I	I	I	no
+t03	la menotte	47	11:43:45	11	0	le menoit	4932	het handje	1	I	I	I	no
+t03	la menotte	43	13:27:33	11	0	le maton	5939	het handje	1	I	I	I	no
+t03	la menotte	46	15:40:31	11	0	le menote	6780	het handje	2	I	I	I	no
+t03	la menotte	30	11:13:11	11	0	la mnoux	6107	het handje	2	I	I	I	no
+t03	la menotte	23	12:11:09	11	0	la maison	3742	het handje	1	I	I	I	no
+t03	la menotte	45	9:18:14	11	0	la mennage	8056	het handje	1	I	I	I	no
+t03	la menotte	31	12:15:43	11	0		18799	het handje	1	I	I	I	no
+t05	le genievre	22	13:15:11	17	0	le jenevre	4492	de jeneverbes	2	L	I	I	no
+t05	le genievre	24	12:43:06	17	0	la jEnevre	11885	de jeneverbes	2	L	I	I	no
+t05	le genievre	23	12:11:09	17	0	la jeneverbes	7129	de jeneverbes	1	L	I	I	no
+t05	le genievre	32	12:11:40	17	0	le jenever	3525	de jeneverbes	2	L	I	I	no
+t05	le genievre	34	13:16:28	17	0	la jeneve	10354	de jeneverbes	2	L	I	I	no
+t05	le genievre	27	10:17:40	17	0	la jenevre	2645	de jeneverbes	1	L	I	I	no
+t05	le genievre	11	14:42:25	17	0	le jenevre	9177	de jeneverbes	1	L	I	I	no
+t05	le genievre	28	15:08:55	17	0	 le jenEve	5769	de jeneverbes	2	L	I	I	no
+t05	le genievre	20	11:13:42	17	0	le jenevre	4277	de jeneverbes	2	L	I	I	no
+t05	le genievre	14	14:14:11	17	0	le jenevrere	38383	de jeneverbes	2	L	I	I	no
+t05	le genievre	255	16:46:32	17	0	le jenevre	8149	de jeneverbes	1	L	I	I	no
+t05	le genievre	25	14:13:34	17	0	le jeneverbes	6636	de jeneverbes	1	L	I	I	no
+t05	le genievre	7	14:14:03	17	0	Le jenevre	6126	de jeneverbes	1	L	I	I	no
+t05	le genievre	44	10:10:37	17	0	le revion	5720	de jeneverbes	2	L	I	I	no
+t05	le genievre	21	11:41:17	17	0	le genieve	3818	de jeneverbes	1	L	I	I	no
+t05	le genievre	253	16:14:37	17	0	le chEnEvere	5998	de jeneverbes	1	L	I	I	no
+t05	le genievre	6	12:16:10	17	0	{?}	7046	de jeneverbes	2	L	I	I	no
+t05	le genievre	26	16:42:55	17	0	 la genevEre	9603	de jeneverbes	2	L	I	I	no
+t05	le genievre	46	15:40:31	17	0	le jEnevre	5438	de jeneverbes	2	L	I	I	no
+t05	le genievre	5	11:51:32	17	0	le jenEvre	22292	de jeneverbes	1	L	I	I	no
+t05	le genievre	9	11:17:46	17	0	la jenevre	4954	de jeneverbes	1	L	I	I	no
+t05	le genievre	41	13:55:09	17	1	le geniEvre	10969	de jeneverbes	1	L	I	I	no
+t05	le genievre	249	11:17:33	17	0	le jenare	6155	de jeneverbes	1	L	I	I	no
+t05	le genievre	19	14:45:48	17	0	le jenevre	5566	de jeneverbes	1	L	I	I	no
+t05	le genievre	33	10:16:00	17	0	le genevre	5714	de jeneverbes	1	L	I	I	no
+t05	le genievre	40	9:11:44	17	0	le jenEvre	10882	de jeneverbes	2	L	I	I	no
+t05	le genievre	252	11:46:19	17	0	la jenevre	16946	de jeneverbes	2	L	I	I	no
+t05	le genievre	10	12:22:13	17	0	le jenevre	11402	de jeneverbes	2	L	I	I	no
+t05	le genievre	15	13:48:26	17	0	le jenevre	4347	de jeneverbes	1	L	I	I	no
+t05	le genievre	16	10:30:32	17	0	le genEvre	8391	de jeneverbes	2	L	I	I	no
+t05	le genievre	251	12:47:23	17	0	le genevre	8259	de jeneverbes	1	L	I	I	no
+t05	le genievre	31	12:15:43	17	0	le jenevre	3199	de jeneverbes	1	L	I	I	no
+t05	le genievre	30	11:13:11	17	0	la jenevrE	9614	de jeneverbes	2	L	I	I	no
+t05	le genievre	254	15:49:39	17	0	la jeneve	3700	de jeneverbes	2	L	I	I	no
+t05	le genievre	43	13:27:33	17	0	le jenevier	11533	de jeneverbes	1	L	I	I	no
+t05	le genievre	36	9:23:20	17	0	le jeneverbes	28356	de jeneverbes	2	L	I	I	no
+t05	le genievre	250	14:43:23	17	0		625	de jeneverbes	2	L	I	I	no
+t05	le genievre	48	11:18:20	17	0	la jenevre	3360	de jeneverbes	2	L	I	I	no
+t05	le genievre	29	9:45:19	17	0	le jenevre	5010	de jeneverbes	1	L	I	I	no
+t05	le genievre	12	9:49:26	17	0	la jenEvre	8667	de jeneverbes	2	L	I	I	no
+t05	le genievre	256	12:06:21	17	0	le jenEvre	4829	de jeneverbes	2	L	I	I	no
+t05	le genievre	45	9:18:14	17	0	le jenevre	4479	de jeneverbes	1	L	I	I	no
+t05	le genievre	47	11:43:45	17	0	le jenEvre	6451	de jeneverbes	1	L	I	I	no
+t05	le genievre	42	14:45:04	17	0	le jenEvre	13085	de jeneverbes	2	L	I	I	no
+t05	le genievre	38	11:14:09	17	0	le jenevre	5387	de jeneverbes	1	L	I	I	no
+t06	le recel	252	11:46:19	15	0	le sEl	6976	de heling	2	I	I	I	yes
+t06	le recel	48	11:18:20	15	0	l{'} orseille	5119	de heling	2	I	I	I	yes
+t06	le recel	253	16:14:37	15	0	la roule	14766	de heling	1	I	I	I	yes
+t06	le recel	44	10:10:37	15	0	{?}	789	de heling	2	I	I	I	yes
+t06	le recel	256	12:06:21	15	0	le 	18400	de heling	2	I	I	I	yes
+t06	le recel	32	12:11:40	15	0	la filleur	22699	de heling	2	I	I	I	yes
+t06	le recel	30	11:13:11	15	0	la siqui	21557	de heling	2	I	I	I	yes
+t06	le recel	251	12:47:23	15	0	le	3540	de heling	1	I	I	I	yes
+t06	le recel	40	9:11:44	15	0	la haute	24014	de heling	2	I	I	I	yes
+t06	le recel	15	13:48:26	15	0	la carous	13328	de heling	1	I	I	I	yes
+t06	le recel	33	10:16:00	15	0	le corous	14699	de heling	1	I	I	I	yes
+t06	le recel	254	15:49:39	15	0	le tan	14195	de heling	2	I	I	I	yes
+t06	le recel	10	12:22:13	15	0	awet	6305	de heling	2	I	I	I	yes
+t06	le recel	23	12:11:09	15	0	la roset	3769	de heling	1	I	I	I	yes
+t06	le recel	43	13:27:33	15	0	le carus	10538	de heling	1	I	I	I	yes
+t06	le recel	47	11:43:45	15	0	le rEmos	8631	de heling	1	I	I	I	yes
+t06	le recel	27	10:17:40	15	0	le leusuur	8658	de heling	1	I	I	I	yes
+t06	le recel	31	12:15:43	15	0	le rochelle	7932	de heling	1	I	I	I	yes
+t06	le recel	46	15:40:31	15	0	le loisire	6625	de heling	2	I	I	I	yes
+t06	le recel	41	13:55:09	15	0	la secus	92514	de heling	1	I	I	I	yes
+t06	le recel	45	9:18:14	15	0	le mennou	10893	de heling	1	I	I	I	yes
+t06	le recel	250	14:43:23	15	0	le seil	5767	de heling	2	I	I	I	yes
+t06	le recel	20	11:13:42	15	0	la selle	7371	de heling	2	I	I	I	yes
+t06	le recel	11	14:42:25	15	0	l{'}abdou	12479	de heling	1	I	I	I	yes
+t06	le recel	24	12:43:06	15	0	l{'}orbant	4046	de heling	2	I	I	I	yes
+t06	le recel	28	15:08:55	15	0	la selle	4145	de heling	2	I	I	I	yes
+t06	le recel	36	9:23:20	15	0	l{'}orseil	9960	de heling	2	I	I	I	yes
+t06	le recel	38	11:14:09	15	0	le 	12324	de heling	1	I	I	I	yes
+t06	le recel	42	14:45:04	15	0	l{.}{.}{.}	8239	de heling	2	I	I	I	yes
+t06	le recel	12	9:49:26	15	0	le resel	68279	de heling	2	I	I	I	yes
+t06	le recel	29	9:45:19	15	0	le roussel	3560	de heling	1	I	I	I	yes
+t06	le recel	6	12:16:10	15	0	le snell	5873	de heling	2	I	I	I	yes
+t06	le recel	25	14:13:34	15	0	la senairte	13638	de heling	1	I	I	I	yes
+t06	le recel	255	16:46:32	15	0	{?}	928	de heling	1	I	I	I	yes
+t06	le recel	9	11:17:46	15	0	le rosseau	6138	de heling	1	I	I	I	yes
+t06	le recel	14	14:14:11	15	0	le selle	27031	de heling	2	I	I	I	yes
+t06	le recel	249	11:17:33	15	0	le poulouse	16269	de heling	1	I	I	I	yes
+t06	le recel	22	13:15:11	15	0	la reille	10125	de heling	2	I	I	I	yes
+t06	le recel	19	14:45:48	15	0	le carouseil	10117	de heling	1	I	I	I	yes
+t06	le recel	16	10:30:32	15	0	l{'}orselle	4767	de heling	2	I	I	I	yes
+t06	le recel	34	13:16:28	15	0	le gauche	5099	de heling	2	I	I	I	yes
+t06	le recel	7	14:14:03	15	0	Le rossoun	6825	de heling	1	I	I	I	yes
+t06	le recel	5	11:51:32	15	0		670	de heling	1	I	I	I	yes
+t06	le recel	21	11:41:17	15	0	le	1314	de heling	1	I	I	I	yes
+t06	le recel	26	16:42:55	15	0	la prioche	7406	de heling	2	I	I	I	yes
+t07	la bedaine	29	9:45:19	1	0	la budElle	38058	de bierbuik	1	I	I	I	no
+t07	la bedaine	256	12:06:21	1	0	le	6884	de bierbuik	2	I	I	I	no
+t07	la bedaine	7	14:14:03	1	0	Le bEton	13510	de bierbuik	1	I	I	I	no
+t07	la bedaine	255	16:46:32	1	0	le beudaine	11088	de bierbuik	1	I	I	I	no
+t07	la bedaine	14	14:14:11	1	0	le tan	3929	de bierbuik	2	I	I	I	no
+t07	la bedaine	254	15:49:39	1	0	la lelen	5775	de bierbuik	2	I	I	I	no
+t07	la bedaine	31	12:15:43	1	0	le beden	16248	de bierbuik	1	I	I	I	no
+t07	la bedaine	15	13:48:26	1	0	la bedun	4121	de bierbuik	1	I	I	I	no
+t07	la bedaine	9	11:17:46	1	0	le bedot	4638	de bierbuik	1	I	I	I	no
+t07	la bedaine	253	16:14:37	1	0	le bedune	5981	de bierbuik	1	I	I	I	no
+t07	la bedaine	33	10:16:00	1	0	bandeboe	7402	de bierbuik	1	I	I	I	no
+t07	la bedaine	252	11:46:19	1	0	l{'}epden	32444	de bierbuik	2	I	I	I	no
+t07	la bedaine	48	11:18:20	1	0	l{'} abdenne	8180	de bierbuik	2	I	I	I	no
+t07	la bedaine	32	12:11:40	1	0	le chivet	16765	de bierbuik	2	I	I	I	no
+t07	la bedaine	27	10:17:40	1	0	la binbon	12419	de bierbuik	1	I	I	I	no
+t07	la bedaine	12	9:49:26	1	0	le {?}	48696	de bierbuik	2	I	I	I	no
+t07	la bedaine	42	14:45:04	1	0	le{.}{.}{.}	33723	de bierbuik	2	I	I	I	no
+t07	la bedaine	46	15:40:31	1	0	la lAbdene	8020	de bierbuik	2	I	I	I	no
+t07	la bedaine	41	13:55:09	1	0	la bulette	17821	de bierbuik	1	I	I	I	no
+t07	la bedaine	25	14:13:34	1	0	la berballE	16398	de bierbuik	1	I	I	I	no
+t07	la bedaine	5	11:51:32	1	0		6426	de bierbuik	1	I	I	I	no
+t07	la bedaine	34	13:16:28	1	0	l{'}abdin	11289	de bierbuik	2	I	I	I	no
+t07	la bedaine	20	11:13:42	1	0	l{'}abden	6289	de bierbuik	2	I	I	I	no
+t07	la bedaine	44	10:10:37	1	0	{?}	3278	de bierbuik	2	I	I	I	no
+t07	la bedaine	28	15:08:55	1	0	le dan	7313	de bierbuik	2	I	I	I	no
+t07	la bedaine	43	13:27:33	1	0	la budonne	3222	de bierbuik	1	I	I	I	no
+t07	la bedaine	251	12:47:23	1	0	le	8795	de bierbuik	1	I	I	I	no
+t07	la bedaine	26	16:42:55	1	0	la plume	6328	de bierbuik	2	I	I	I	no
+t07	la bedaine	16	10:30:32	1	0	labdEne	17849	de bierbuik	2	I	I	I	no
+t07	la bedaine	21	11:41:17	1	0	le	6755	de bierbuik	1	I	I	I	no
+t07	la bedaine	250	14:43:23	1	0	la tEnte	5755	de bierbuik	2	I	I	I	no
+t07	la bedaine	10	12:22:13	1	0	kjhp	8211	de bierbuik	2	I	I	I	no
+t07	la bedaine	249	11:17:33	1	0	le budelle	9980	de bierbuik	1	I	I	I	no
+t07	la bedaine	23	12:11:09	1	0	la bullit	9926	de bierbuik	1	I	I	I	no
+t07	la bedaine	19	14:45:48	1	0	le bin	5763	de bierbuik	1	I	I	I	no
+t07	la bedaine	40	9:11:44	1	0	l{'}ardenne	16642	de bierbuik	2	I	I	I	no
+t07	la bedaine	6	12:16:10	1	0	la lEpdans	22241	de bierbuik	2	I	I	I	no
+t07	la bedaine	47	11:43:45	1	0	le bEdon	11199	de bierbuik	1	I	I	I	no
+t07	la bedaine	38	11:14:09	1	0	le bulet	4882	de bierbuik	1	I	I	I	no
+t07	la bedaine	45	9:18:14	1	0	le buden	3977	de bierbuik	1	I	I	I	no
+t07	la bedaine	24	12:43:06	1	0	la scousse	12226	de bierbuik	2	I	I	I	no
+t07	la bedaine	30	11:13:11	1	0	le bnoux	17746	de bierbuik	2	I	I	I	no
+t07	la bedaine	36	9:23:20	1	0	la 	38893	de bierbuik	2	I	I	I	no
+t07	la bedaine	22	13:15:11	1	0	le pnou	9362	de bierbuik	2	I	I	I	no
+t07	la bedaine	11	14:42:25	1	0	l{'} abdent	3772	de bierbuik	1	I	I	I	no
+t08	la semelle	27	10:17:40	19	0	la sheneve	4115	de schoenzool	1	L	I	L	no
+t08	la semelle	24	12:43:06	19	0	la smElle	9191	de schoenzool	2	L	I	L	no
+t08	la semelle	33	10:16:00	19	0	le chemicille	9939	de schoenzool	1	L	I	L	no
+t08	la semelle	28	15:08:55	19	0	la smiel	2214	de schoenzool	2	L	I	L	no
+t08	la semelle	40	9:11:44	19	0	la smelle	4928	de schoenzool	2	L	I	L	no
+t08	la semelle	32	12:11:40	19	0	la smelle	38205	de schoenzool	2	L	I	L	no
+t08	la semelle	25	14:13:34	19	0	la seranition	17760	de schoenzool	1	L	I	L	no
+t08	la semelle	251	12:47:23	19	0	la piedo	4872	de schoenzool	1	L	I	L	no
+t08	la semelle	29	9:45:19	19	0	la semeille	6786	de schoenzool	1	L	I	L	no
+t08	la semelle	10	12:22:13	19	0	ht	1378	de schoenzool	2	L	I	L	no
+t08	la semelle	5	11:51:32	19	0		182	de schoenzool	1	L	I	L	no
+t08	la semelle	44	10:10:37	19	0	la smElle	19876	de schoenzool	2	L	I	L	no
+t08	la semelle	249	11:17:33	19	0	le soubon	15227	de schoenzool	1	L	I	L	no
+t08	la semelle	254	15:49:39	19	0	le smell	1641	de schoenzool	2	L	I	L	no
+t08	la semelle	250	14:43:23	19	0	le resmeille	5279	de schoenzool	2	L	I	L	no
+t08	la semelle	6	12:16:10	19	0	la smel	3695	de schoenzool	2	L	I	L	no
+t08	la semelle	36	9:23:20	19	0	la smelliant	23797	de schoenzool	2	L	I	L	no
+t08	la semelle	46	15:40:31	19	0	le smEle	4944	de schoenzool	2	L	I	L	no
+t08	la semelle	255	16:46:32	19	0	le seumel	6281	de schoenzool	1	L	I	L	no
+t08	la semelle	252	11:46:19	19	0	le sool	21687	de schoenzool	2	L	I	L	no
+t08	la semelle	34	13:16:28	19	0	la smell	4260	de schoenzool	2	L	I	L	no
+t08	la semelle	41	13:55:09	19	0	la someille	9397	de schoenzool	1	L	I	L	no
+t08	la semelle	45	9:18:14	19	0	la salouse	9151	de schoenzool	1	L	I	L	no
+t08	la semelle	14	14:14:11	19	0	 le smelle	16173	de schoenzool	2	L	I	L	no
+t08	la semelle	31	12:15:43	19	0	le semele	5774	de schoenzool	1	L	I	L	no
+t08	la semelle	38	11:14:09	19	0	la sevage	37428	de schoenzool	1	L	I	L	no
+t08	la semelle	26	16:42:55	19	0	la smeile	6679	de schoenzool	2	L	I	L	no
+t08	la semelle	22	13:15:11	19	0	{?}	10048	de schoenzool	2	L	I	L	no
+t08	la semelle	42	14:45:04	19	0	le smEl	15123	de schoenzool	2	L	I	L	no
+t08	la semelle	30	11:13:11	19	0	la smele	19429	de schoenzool	2	L	I	L	no
+t08	la semelle	16	10:30:32	19	0	la smelle 	5113	de schoenzool	2	L	I	L	no
+t08	la semelle	43	13:27:33	19	0	le chenel	4826	de schoenzool	1	L	I	L	no
+t08	la semelle	9	11:17:46	19	0	le chouvolle	6135	de schoenzool	1	L	I	L	no
+t08	la semelle	256	12:06:21	19	0	le smoulle	6491	de schoenzool	2	L	I	L	no
+t08	la semelle	11	14:42:25	19	0	le shemel	10390	de schoenzool	1	L	I	L	no
+t08	la semelle	20	11:13:42	19	0	la smelle	1984	de schoenzool	2	L	I	L	no
+t08	la semelle	48	11:18:20	19	0	le suul	22111	de schoenzool	2	L	I	L	no
+t08	la semelle	19	14:45:48	19	0	le fetemous	19956	de schoenzool	1	L	I	L	no
+t08	la semelle	12	9:49:26	19	0	la smEle	11438	de schoenzool	2	L	I	L	no
+t08	la semelle	47	11:43:45	19	0	le semouille	9965	de schoenzool	1	L	I	L	no
+t08	la semelle	7	14:14:03	19	0	Le soumille	5285	de schoenzool	1	L	I	L	no
+t08	la semelle	15	13:48:26	19	0	la semene	3635	de schoenzool	1	L	I	L	no
+t08	la semelle	23	12:11:09	19	0	la sumel	4041	de schoenzool	1	L	I	L	no
+t08	la semelle	21	11:41:17	19	0	le	2667	de schoenzool	1	L	I	L	no
+t08	la semelle	253	16:14:37	19	0	le chausure	6435	de schoenzool	1	L	I	L	no
+t09	le fenouil	28	15:08:55	5	0	le vene	4503	de venkel	2	L	I	I	no
+t09	le fenouil	10	12:22:13	5	0	le chiele	11669	de venkel	2	L	I	I	no
+t09	le fenouil	44	10:10:37	5	0		150	de venkel	2	L	I	I	no
+t09	le fenouil	14	14:14:11	5	0	le flore	18365	de venkel	2	L	I	I	no
+t09	le fenouil	45	9:18:14	5	0	le veneau	8688	de venkel	1	L	I	I	no
+t09	le fenouil	40	9:11:44	5	0	le fenouille	10371	de venkel	2	L	I	I	no
+t09	le fenouil	9	11:17:46	5	0	le fremeau	7746	de venkel	1	L	I	I	no
+t09	le fenouil	27	10:17:40	5	0	la ventrir	5976	de venkel	1	L	I	I	no
+t09	le fenouil	38	11:14:09	5	0	le 	38663	de venkel	1	L	I	I	no
+t09	le fenouil	19	14:45:48	5	0	le feniel	4460	de venkel	1	L	I	I	no
+t09	le fenouil	16	10:30:32	5	0	le fnouille	5524	de venkel	2	L	I	I	no
+t09	le fenouil	11	14:42:25	5	0	le semeille	14989	de venkel	1	L	I	I	no
+t09	le fenouil	15	13:48:26	5	0	la felet	9126	de venkel	1	L	I	I	no
+t09	le fenouil	41	13:55:09	5	0	la fenouille	6522	de venkel	1	L	I	I	no
+t09	le fenouil	29	9:45:19	5	0	la venouille	3888	de venkel	1	L	I	I	no
+t09	le fenouil	20	11:13:42	5	0	la fiounille	8914	de venkel	2	L	I	I	no
+t09	le fenouil	24	12:43:06	5	0	l{'}urbain	27902	de venkel	2	L	I	I	no
+t09	le fenouil	249	11:17:33	5	0	la salouse	28242	de venkel	1	L	I	I	no
+t09	le fenouil	253	16:14:37	5	0	le soumire	6335	de venkel	1	L	I	I	no
+t09	le fenouil	43	13:27:33	5	0	la feniche	19334	de venkel	1	L	I	I	no
+t09	le fenouil	32	12:11:40	5	0	la fenile	27009	de venkel	2	L	I	I	no
+t09	le fenouil	22	13:15:11	5	0	{?}	2688	de venkel	2	L	I	I	no
+t09	le fenouil	256	12:06:21	5	0	le veniche	6165	de venkel	2	L	I	I	no
+t09	le fenouil	251	12:47:23	5	0	le chenkel	6703	de venkel	1	L	I	I	no
+t09	le fenouil	46	15:40:31	5	0	la fouie	4011	de venkel	2	L	I	I	no
+t09	le fenouil	21	11:41:17	5	0	le	5920	de venkel	1	L	I	I	no
+t09	le fenouil	255	16:46:32	5	0	le fenouille	9986	de venkel	1	L	I	I	no
+t09	le fenouil	250	14:43:23	5	0	d	670	de venkel	2	L	I	I	no
+t09	le fenouil	254	15:49:39	5	0	le ven	6820	de venkel	2	L	I	I	no
+t09	le fenouil	23	12:11:09	5	0	la fezon	11707	de venkel	1	L	I	I	no
+t09	le fenouil	33	10:16:00	5	0	la foulnite	3405	de venkel	1	L	I	I	no
+t09	le fenouil	7	14:14:03	5	0	 le venille	6194	de venkel	1	L	I	I	no
+t09	le fenouil	36	9:23:20	5	0	la venoi	22157	de venkel	2	L	I	I	no
+t09	le fenouil	26	16:42:55	5	0	le veine	7638	de venkel	2	L	I	I	no
+t09	le fenouil	12	9:49:26	5	0	la fenouille	7552	de venkel	2	L	I	I	no
+t09	le fenouil	42	14:45:04	5	0	geen idee	4153	de venkel	2	L	I	I	no
+t09	le fenouil	34	13:16:28	5	0	le ventir	12278	de venkel	2	L	I	I	no
+t09	le fenouil	48	11:18:20	5	0	le vnu	3521	de venkel	2	L	I	I	no
+t09	le fenouil	30	11:13:11	5	0	le fneux	9635	de venkel	2	L	I	I	no
+t09	le fenouil	25	14:13:34	5	0	 la arrentiE	17211	de venkel	1	L	I	I	no
+t09	le fenouil	31	12:15:43	5	0	le venuie	11105	de venkel	1	L	I	I	no
+t09	le fenouil	47	11:43:45	5	0	le vEnui	6338	de venkel	1	L	I	I	no
+t09	le fenouil	252	11:46:19	5	0	le venou	54480	de venkel	2	L	I	I	no
+t09	le fenouil	6	12:16:10	5	0	la foehe	16907	de venkel	2	L	I	I	no
+t09	le fenouil	5	11:51:32	5	0		2112	de venkel	1	L	I	I	no
+t10	le rebond	27	10:17:40	12	0	la refir	21717	de terugstoot	1	I	I	I	yes
+t10	le rebond	6	12:16:10	12	0	{?}	1280	de terugstoot	2	I	I	I	yes
+t10	le rebond	41	13:55:09	12	0	la secuz	24461	de terugstoot	1	I	I	I	yes
+t10	le rebond	7	14:14:03	12	0	Le roubon	4798	de terugstoot	1	I	I	I	yes
+t10	le rebond	254	15:49:39	12	0	le ving	2062	de terugstoot	2	I	I	I	yes
+t10	le rebond	11	14:42:25	12	0	le redrou	5755	de terugstoot	1	I	I	I	yes
+t10	le rebond	10	12:22:13	12	0	rey	741	de terugstoot	2	I	I	I	yes
+t10	le rebond	253	16:14:37	12	0	le recous	10957	de terugstoot	1	I	I	I	yes
+t10	le rebond	24	12:43:06	12	0	l{'}armain	19528	de terugstoot	2	I	I	I	yes
+t10	le rebond	19	14:45:48	12	0	le bonk	16436	de terugstoot	1	I	I	I	yes
+t10	le rebond	255	16:46:32	12	0	{?}	11370	de terugstoot	1	I	I	I	yes
+t10	le rebond	44	10:10:37	12	0	{?}	669	de terugstoot	2	I	I	I	yes
+t10	le rebond	23	12:11:09	12	0	la re	1546	de terugstoot	1	I	I	I	yes
+t10	le rebond	22	13:15:11	12	0	le ranquille	6770	de terugstoot	2	I	I	I	yes
+t10	le rebond	16	10:30:32	12	0	l	1516	de terugstoot	2	I	I	I	yes
+t10	le rebond	14	14:14:11	12	0	le cruebon	11925	de terugstoot	2	I	I	I	yes
+t10	le rebond	32	12:11:40	12	0	l{'}heurbon	10055	de terugstoot	2	I	I	I	yes
+t10	le rebond	256	12:06:21	12	0	{/}	10524	de terugstoot	2	I	I	I	yes
+t10	le rebond	46	15:40:31	12	0	le bons	12278	de terugstoot	2	I	I	I	yes
+t10	le rebond	20	11:13:42	12	1	le rebond	14850	de terugstoot	2	I	I	I	yes
+t10	le rebond	12	9:49:26	12	0	le rebon	2029	de terugstoot	2	I	I	I	yes
+t10	le rebond	34	13:16:28	12	0	 le trois	6077	de terugstoot	2	I	I	I	yes
+t10	le rebond	33	10:16:00	12	0	le rechantre	12464	de terugstoot	1	I	I	I	yes
+t10	le rebond	42	14:45:04	12	0	le rebon	4334	de terugstoot	2	I	I	I	yes
+t10	le rebond	40	9:11:44	12	0	le sauvrage	3220	de terugstoot	2	I	I	I	yes
+t10	le rebond	15	13:48:26	12	0	le rebound	4481	de terugstoot	1	I	I	I	yes
+t10	le rebond	36	9:23:20	12	0	le lurbon	14198	de terugstoot	2	I	I	I	yes
+t10	le rebond	251	12:47:23	12	0	le re	9330	de terugstoot	1	I	I	I	yes
+t10	le rebond	9	11:17:46	12	0	le rebon	6462	de terugstoot	1	I	I	I	yes
+t10	le rebond	30	11:13:11	12	0	pas	2128	de terugstoot	2	I	I	I	yes
+t10	le rebond	250	14:43:23	12	0	d	1019	de terugstoot	2	I	I	I	yes
+t10	le rebond	21	11:41:17	12	0	le	3815	de terugstoot	1	I	I	I	yes
+t10	le rebond	25	14:13:34	12	0	la entraince	9731	de terugstoot	1	I	I	I	yes
+t10	le rebond	249	11:17:33	12	0	le rebon	2202	de terugstoot	1	I	I	I	yes
+t10	le rebond	252	11:46:19	12	0	le revue	83256	de terugstoot	2	I	I	I	yes
+t10	le rebond	38	11:14:09	12	0	la re	27477	de terugstoot	1	I	I	I	yes
+t10	le rebond	47	11:43:45	12	0	le rebOn	11631	de terugstoot	1	I	I	I	yes
+t10	le rebond	5	11:51:32	12	0	le ruebon	4375	de terugstoot	1	I	I	I	yes
+t10	le rebond	29	9:45:19	12	0	le rebon	2583	de terugstoot	1	I	I	I	yes
+t10	le rebond	45	9:18:14	12	0	la rebon	2846	de terugstoot	1	I	I	I	yes
+t10	le rebond	43	13:27:33	12	0	le rebouce	5390	de terugstoot	1	I	I	I	yes
+t10	le rebond	31	12:15:43	12	0	le 	23061	de terugstoot	1	I	I	I	yes
+t10	le rebond	28	15:08:55	12	0	la bon	1796	de terugstoot	2	I	I	I	yes
+t10	le rebond	48	11:18:20	12	0	l{'} urban	12725	de terugstoot	2	I	I	I	yes
+t10	le rebond	26	16:42:55	12	0	le revage	3857	de terugstoot	2	I	I	I	yes
+t11	le remous	33	10:16:00	16	0	le menou	5693	de zuiging	1	I	I	I	yes
+t11	le remous	36	9:23:20	16	0	l{'}urquel	19281	de zuiging	2	I	I	I	yes
+t11	le remous	14	14:14:11	16	0	le 	20993	de zuiging	2	I	I	I	yes
+t11	le remous	23	12:11:09	16	0	la 	9484	de zuiging	1	I	I	I	yes
+t11	le remous	251	12:47:23	16	0	le	2129	de zuiging	1	I	I	I	yes
+t11	le remous	7	14:14:03	16	0	Le remou	10265	de zuiging	1	I	I	I	yes
+t11	le remous	30	11:13:11	16	0	s	220	de zuiging	2	I	I	I	yes
+t11	le remous	20	11:13:42	16	0	le mermont	12565	de zuiging	2	I	I	I	yes
+t11	le remous	40	9:11:44	16	0	le mnote	12778	de zuiging	2	I	I	I	yes
+t11	le remous	19	14:45:48	16	0	le remoe	2079	de zuiging	1	I	I	I	yes
+t11	le remous	44	10:10:37	16	0	{?}	672	de zuiging	2	I	I	I	yes
+t11	le remous	10	12:22:13	16	0	re	5518	de zuiging	2	I	I	I	yes
+t11	le remous	5	11:51:32	16	0		702	de zuiging	1	I	I	I	yes
+t11	le remous	38	11:14:09	16	0	la ruige	49422	de zuiging	1	I	I	I	yes
+t11	le remous	43	13:27:33	16	1	le remous	6629	de zuiging	1	I	I	I	yes
+t11	le remous	22	13:15:11	16	0	le mou	6720	de zuiging	2	I	I	I	yes
+t11	le remous	42	14:45:04	16	0	geen idee	4646	de zuiging	2	I	I	I	yes
+t11	le remous	12	9:49:26	16	0	{?}	35260	de zuiging	2	I	I	I	yes
+t11	le remous	34	13:16:28	16	0	le suig	9368	de zuiging	2	I	I	I	yes
+t11	le remous	41	13:55:09	16	0	le recuz	39767	de zuiging	1	I	I	I	yes
+t11	le remous	255	16:46:32	16	0	le rumou	3212	de zuiging	1	I	I	I	yes
+t11	le remous	45	9:18:14	16	0	le samoule	17009	de zuiging	1	I	I	I	yes
+t11	le remous	9	11:17:46	16	0	le rumour	3317	de zuiging	1	I	I	I	yes
+t11	le remous	253	16:14:37	16	0	la remouse	5868	de zuiging	1	I	I	I	yes
+t11	le remous	249	11:17:33	16	0	le genare	11854	de zuiging	1	I	I	I	yes
+t11	le remous	256	12:06:21	16	0	le	16774	de zuiging	2	I	I	I	yes
+t11	le remous	252	11:46:19	16	0	le botre	59145	de zuiging	2	I	I	I	yes
+t11	le remous	48	11:18:20	16	0	le sobon	5923	de zuiging	2	I	I	I	yes
+t11	le remous	32	12:11:40	16	0	la  	13556	de zuiging	2	I	I	I	yes
+t11	le remous	26	16:42:55	16	0	le reui	6143	de zuiging	2	I	I	I	yes
+t11	le remous	25	14:13:34	16	0	la entraine	20315	de zuiging	1	I	I	I	yes
+t11	le remous	6	12:16:10	16	0	la rouge	2847	de zuiging	2	I	I	I	yes
+t11	le remous	16	10:30:32	16	0	l{'}orband	7281	de zuiging	2	I	I	I	yes
+t11	le remous	29	9:45:19	16	0	le roussel	52347	de zuiging	1	I	I	I	yes
+t11	le remous	47	11:43:45	16	0	le remOUIlle	8286	de zuiging	1	I	I	I	yes
+t11	le remous	15	13:48:26	16	0		251	de zuiging	1	I	I	I	yes
+t11	le remous	24	12:43:06	16	0	l{'}orbant	16182	de zuiging	2	I	I	I	yes
+t11	le remous	21	11:41:17	16	0	le	2784	de zuiging	1	I	I	I	yes
+t11	le remous	31	12:15:43	16	0		24703	de zuiging	1	I	I	I	yes
+t11	le remous	28	15:08:55	16	0	la boes	1932	de zuiging	2	I	I	I	yes
+t11	le remous	254	15:49:39	16	0	le notre	5612	de zuiging	2	I	I	I	yes
+t11	le remous	46	15:40:31	16	0	le ron	1313	de zuiging	2	I	I	I	yes
+t11	le remous	11	14:42:25	16	0	le trayant	19844	de zuiging	1	I	I	I	yes
+t11	le remous	27	10:17:40	16	0	la rumeaur	7680	de zuiging	1	I	I	I	yes
+t11	le remous	250	14:43:23	16	0	la remou	4887	de zuiging	2	I	I	I	yes
+t12	le requin	7	14:14:03	8	0	Le rogue	12511	de haai	1	I	I	I	yes
+t12	le requin	34	13:16:28	8	0	la stir	10605	de haai	2	I	I	I	yes
+t12	le requin	44	10:10:37	8	0	l{QUOTE}{'}orcan	23880	de haai	2	I	I	I	yes
+t12	le requin	9	11:17:46	8	1	le requin	5828	de haai	1	I	I	I	yes
+t12	le requin	46	15:40:31	8	0	le turque	9768	de haai	2	I	I	I	yes
+t12	le requin	25	14:13:34	8	0	la requairE	9743	de haai	1	I	I	I	yes
+t12	le requin	5	11:51:32	8	0	le rue	4233	de haai	1	I	I	I	yes
+t12	le requin	41	13:55:09	8	0	la recupe	8507	de haai	1	I	I	I	yes
+t12	le requin	43	13:27:33	8	0	la recard	10400	de haai	1	I	I	I	yes
+t12	le requin	249	11:17:33	8	0	le sufret	11102	de haai	1	I	I	I	yes
+t12	le requin	15	13:48:26	8	0	{?}	428	de haai	1	I	I	I	yes
+t12	le requin	30	11:13:11	8	0	pas	9919	de haai	2	I	I	I	yes
+t12	le requin	36	9:23:20	8	0	l{'}urqul	9107	de haai	2	I	I	I	yes
+t12	le requin	47	11:43:45	8	0	le penui	4909	de haai	1	I	I	I	yes
+t12	le requin	19	14:45:48	8	0	 le rucya	10261	de haai	1	I	I	I	yes
+t12	le requin	24	12:43:06	8	0	l{'}urcain	16522	de haai	2	I	I	I	yes
+t12	le requin	48	11:18:20	8	0	l{'} orcan	6822	de haai	2	I	I	I	yes
+t12	le requin	6	12:16:10	8	0	{?}	5428	de haai	2	I	I	I	yes
+t12	le requin	38	11:14:09	8	0	le 	35468	de haai	1	I	I	I	yes
+t12	le requin	42	14:45:04	8	0	l{'}arnouille	7820	de haai	2	I	I	I	yes
+t12	le requin	26	16:42:55	8	0	lErcent	7163	de haai	2	I	I	I	yes
+t12	le requin	31	12:15:43	8	0	le roqueur	14933	de haai	1	I	I	I	yes
+t12	le requin	29	9:45:19	8	0	la sagouille	10345	de haai	1	I	I	I	yes
+t12	le requin	21	11:41:17	8	0	le	2334	de haai	1	I	I	I	yes
+t12	le requin	255	16:46:32	8	1	le requin	8025	de haai	1	I	I	I	yes
+t12	le requin	32	12:11:40	8	0	l{'}hurkain	9875	de haai	2	I	I	I	yes
+t12	le requin	40	9:11:44	8	0	l{'}hurricane	4269	de haai	2	I	I	I	yes
+t12	le requin	253	16:14:37	8	0	la rockanje	10240	de haai	1	I	I	I	yes
+t12	le requin	28	15:08:55	8	0	l{'} orke	7546	de haai	2	I	I	I	yes
+t12	le requin	251	12:47:23	8	0	le	2598	de haai	1	I	I	I	yes
+t12	le requin	27	10:17:40	8	0	la lefrir	10888	de haai	1	I	I	I	yes
+t12	le requin	16	10:30:32	8	0	le 	5585	de haai	2	I	I	I	yes
+t12	le requin	12	9:49:26	8	1	le requin	1991	de haai	2	I	I	I	yes
+t12	le requin	14	14:14:11	8	0	le crai	9813	de haai	2	I	I	I	yes
+t12	le requin	250	14:43:23	8	0	e	1372	de haai	2	I	I	I	yes
+t12	le requin	10	12:22:13	8	0	le chile	14458	de haai	2	I	I	I	yes
+t12	le requin	11	14:42:25	8	0	l{'}orcan	2963	de haai	1	I	I	I	yes
+t12	le requin	22	13:15:11	8	0	le fnou	11208	de haai	2	I	I	I	yes
+t12	le requin	33	10:16:00	8	0	le chain	4949	de haai	1	I	I	I	yes
+t12	le requin	254	15:49:39	8	0	la que	3738	de haai	2	I	I	I	yes
+t12	le requin	252	11:46:19	8	0	le quin	24154	de haai	2	I	I	I	yes
+t12	le requin	45	9:18:14	8	0	la racun	2656	de haai	1	I	I	I	yes
+t12	le requin	23	12:11:09	8	0	l{'}orcan	6867	de haai	1	I	I	I	yes
+t12	le requin	20	11:13:42	8	0	le choulille	25015	de haai	2	I	I	I	yes
+t12	le requin	256	12:06:21	8	0	le 	10437	de haai	2	I	I	I	yes
+t14	la chenille	251	12:47:23	10	0	le	1878	de rups	1	L	I	L	no
+t14	la chenille	253	16:14:37	10	0	la chauveux	4821	de rups	1	L	I	L	no
+t14	la chenille	254	15:49:39	10	0	la tetre	8994	de rups	2	L	I	L	no
+t14	la chenille	5	11:51:32	10	0		591	de rups	1	L	I	L	no
+t14	la chenille	252	11:46:19	10	0	le snI	7977	de rups	2	L	I	L	no
+t14	la chenille	256	12:06:21	10	0	le cheniche	12807	de rups	2	L	I	L	no
+t14	la chenille	12	9:49:26	10	0	la schnille	10331	de rups	2	L	I	L	no
+t14	la chenille	44	10:10:37	10	0	{?}	327	de rups	2	L	I	L	no
+t14	la chenille	249	11:17:33	10	0	le russel	4855	de rups	1	L	I	L	no
+t14	la chenille	19	14:45:48	10	0	le cheniel	6015	de rups	1	L	I	L	no
+t14	la chenille	7	14:14:03	10	0	le chenille	8279	de rups	1	L	I	L	no
+t14	la chenille	22	13:15:11	10	0	la snielle	9016	de rups	2	L	I	L	no
+t14	la chenille	27	10:17:40	10	0	la leflishe	9676	de rups	1	L	I	L	no
+t14	la chenille	38	11:14:09	10	0	le chien	32071	de rups	1	L	I	L	no
+t14	la chenille	14	14:14:11	10	0	le snE	67811	de rups	2	L	I	L	no
+t14	la chenille	255	16:46:32	10	0	le feunille	16784	de rups	1	L	I	L	no
+t14	la chenille	29	9:45:19	10	0	la gremouille	25489	de rups	1	L	I	L	no
+t14	la chenille	24	12:43:06	10	0	la schniE	10329	de rups	2	L	I	L	no
+t14	la chenille	250	14:43:23	10	0		433	de rups	2	L	I	L	no
+t14	la chenille	6	12:16:10	10	0	la schnie	3195	de rups	2	L	I	L	no
+t14	la chenille	23	12:11:09	10	0	la	1513	de rups	1	L	I	L	no
+t14	la chenille	28	15:08:55	10	0	la snee	7230	de rups	2	L	I	L	no
+t14	la chenille	11	14:42:25	10	0	la chinout	7110	de rups	1	L	I	L	no
+t14	la chenille	32	12:11:40	10	0	le schnil	33461	de rups	2	L	I	L	no
+t14	la chenille	48	11:18:20	10	0	la snille	6424	de rups	2	L	I	L	no
+t14	la chenille	47	11:43:45	10	0	le chEnille	7245	de rups	1	L	I	L	no
+t14	la chenille	9	11:17:46	10	0	la chieniere	6082	de rups	1	L	I	L	no
+t14	la chenille	46	15:40:31	10	0	le shnEe	16039	de rups	2	L	I	L	no
+t14	la chenille	20	11:13:42	10	0	le chinille	11325	de rups	2	L	I	L	no
+t14	la chenille	25	14:13:34	10	0	la retraince	4592	de rups	1	L	I	L	no
+t14	la chenille	10	12:22:13	10	0	le eqtr	17849	de rups	2	L	I	L	no
+t14	la chenille	34	13:16:28	10	0	la droit	6173	de rups	2	L	I	L	no
+t14	la chenille	40	9:11:44	10	1	la chenille	3754	de rups	2	L	I	L	no
+t14	la chenille	45	9:18:14	10	0	le remolle	10658	de rups	1	L	I	L	no
+t14	la chenille	16	10:30:32	10	0	la genieu	10724	de rups	2	L	I	L	no
+t14	la chenille	36	9:23:20	10	0	l{'}excuus	8451	de rups	2	L	I	L	no
+t14	la chenille	30	11:13:11	10	0	pas	3143	de rups	2	L	I	L	no
+t14	la chenille	43	13:27:33	10	0	le janille	14971	de rups	1	L	I	L	no
+t14	la chenille	31	12:15:43	10	0	la chonuie	22611	de rups	1	L	I	L	no
+t14	la chenille	33	10:16:00	10	0	le 	2431	de rups	1	L	I	L	no
+t14	la chenille	15	13:48:26	10	0	 la funille	5776	de rups	1	L	I	L	no
+t14	la chenille	26	16:42:55	10	0	le schnieie	10512	de rups	2	L	I	L	no
+t14	la chenille	41	13:55:09	10	0	la benouille	39359	de rups	1	L	I	L	no
+t14	la chenille	42	14:45:04	10	0	{.}{.}{.}	9441	de rups	2	L	I	L	no
+t14	la chenille	21	11:41:17	10	0	le	4025	de rups	1	L	I	L	no
+t15	la pelouse	22	13:15:11	4	0	la pluiche	11309	het gazon	2	L	L	L	no
+t15	la pelouse	19	14:45:48	4	0	la pluche	19582	het gazon	1	L	L	L	no
+t15	la pelouse	26	16:42:55	4	0	la plume	4305	het gazon	2	L	L	L	no
+t15	la pelouse	32	12:11:40	4	0	la plouch	6317	het gazon	2	L	L	L	no
+t15	la pelouse	23	12:11:09	4	0	la	4351	het gazon	1	L	L	L	no
+t15	la pelouse	40	9:11:44	4	0	la plouche	5760	het gazon	2	L	L	L	no
+t15	la pelouse	14	14:14:11	4	0	le plais	34454	het gazon	2	L	L	L	no
+t15	la pelouse	16	10:30:32	4	0	la plouse	4477	het gazon	2	L	L	L	no
+t15	la pelouse	43	13:27:33	4	0	le legar	14707	het gazon	1	L	L	L	no
+t15	la pelouse	27	10:17:40	4	0	le pedon	3189	het gazon	1	L	L	L	no
+t15	la pelouse	25	14:13:34	4	0	le pitit	12263	het gazon	1	L	L	L	no
+t15	la pelouse	20	11:13:42	4	0	la plouse	4100	het gazon	2	L	L	L	no
+t15	la pelouse	41	13:55:09	4	0	la palouse	3367	het gazon	1	L	L	L	no
+t15	la pelouse	10	12:22:13	4	0	la plange	7547	het gazon	2	L	L	L	no
+t15	la pelouse	44	10:10:37	4	0	La plouche	4397	het gazon	2	L	L	L	no
+t15	la pelouse	33	10:16:00	4	0	la poulouse	4454	het gazon	1	L	L	L	no
+t15	la pelouse	24	12:43:06	4	0	la pluche	16158	het gazon	2	L	L	L	no
+t15	la pelouse	48	11:18:20	4	0	la pluse	12027	het gazon	2	L	L	L	no
+t15	la pelouse	42	14:45:04	4	0	la plouze	13419	het gazon	2	L	L	L	no
+t15	la pelouse	31	12:15:43	4	1	la pelouse	3908	het gazon	1	L	L	L	no
+t15	la pelouse	11	14:42:25	4	0	la chemain	6721	het gazon	1	L	L	L	no
+t15	la pelouse	46	15:40:31	4	0	la plouse	14621	het gazon	2	L	L	L	no
+t15	la pelouse	9	11:17:46	4	0	la palouze	4708	het gazon	1	L	L	L	no
+t15	la pelouse	250	14:43:23	4	0	la plUge	5384	het gazon	2	L	L	L	no
+t15	la pelouse	45	9:18:14	4	0	la poulouse	2932	het gazon	1	L	L	L	no
+t15	la pelouse	249	11:17:33	4	0	la minout	5929	het gazon	1	L	L	L	no
+t15	la pelouse	254	15:49:39	4	0	la gazon	2993	het gazon	2	L	L	L	no
+t15	la pelouse	28	15:08:55	4	0	la pluse	4281	het gazon	2	L	L	L	no
+t15	la pelouse	256	12:06:21	4	0	le plouzon	23351	het gazon	2	L	L	L	no
+t15	la pelouse	253	16:14:37	4	0	le bUllet	6610	het gazon	1	L	L	L	no
+t15	la pelouse	251	12:47:23	4	0	la maison	6770	het gazon	1	L	L	L	no
+t15	la pelouse	12	9:49:26	4	0	la plouse	5133	het gazon	2	L	L	L	no
+t15	la pelouse	5	11:51:32	4	0	le plui	6966	het gazon	1	L	L	L	no
+t15	la pelouse	21	11:41:17	4	0	le 	8758	het gazon	1	L	L	L	no
+t15	la pelouse	6	12:16:10	4	0	{?}	12896	het gazon	2	L	L	L	no
+t15	la pelouse	34	13:16:28	4	0	la plusche	9281	het gazon	2	L	L	L	no
+t15	la pelouse	38	11:14:09	4	0	la palouge	10150	het gazon	1	L	L	L	no
+t15	la pelouse	29	9:45:19	4	0	la paluche	9334	het gazon	1	L	L	L	no
+t15	la pelouse	36	9:23:20	4	0	la flouche	12965	het gazon	2	L	L	L	no
+t15	la pelouse	7	14:14:03	4	0	la galouse	9261	het gazon	1	L	L	L	no
+t15	la pelouse	30	11:13:11	4	0	la plache	6810	het gazon	2	L	L	L	no
+t15	la pelouse	252	11:46:19	4	0	le plouche	11018	het gazon	2	L	L	L	no
+t15	la pelouse	255	16:46:32	4	0	la peluze	10374	het gazon	1	L	L	L	no
+t15	la pelouse	47	11:43:45	4	0	le pelOUche	5459	het gazon	1	L	L	L	no
+t15	la pelouse	15	13:48:26	4	0	la monuit	10598	het gazon	1	L	L	L	no
+t16	la peluche	11	14:42:25	2	0	la pluche	3684	het pluisje	1	L	L	L	no
+t16	la peluche	46	15:40:31	2	0	la plouche	6932	het pluisje	2	L	L	L	no
+t16	la peluche	30	11:13:11	2	0	la plouche	11690	het pluisje	2	L	L	L	no
+t16	la peluche	25	14:13:34	2	0	la minute	5045	het pluisje	1	L	L	L	no
+t16	la peluche	20	11:13:42	2	0	la pluche	3838	het pluisje	2	L	L	L	no
+t16	la peluche	29	9:45:19	2	0	a pluche	12416	het pluisje	1	L	L	L	no
+t16	la peluche	14	14:14:11	2	0	le pluis	13750	het pluisje	2	L	L	L	no
+t16	la peluche	48	11:18:20	2	0	la plUche	8325	het pluisje	2	L	L	L	no
+t16	la peluche	32	12:11:40	2	0	la plouche	6773	het pluisje	2	L	L	L	no
+t16	la peluche	256	12:06:21	2	0	le pluche	6169	het pluisje	2	L	L	L	no
+t16	la peluche	251	12:47:23	2	0	la plouche	10835	het pluisje	1	L	L	L	no
+t16	la peluche	31	12:15:43	2	0	la pelouse	14301	het pluisje	1	L	L	L	no
+t16	la peluche	26	16:42:55	2	0	la pluche	4244	het pluisje	2	L	L	L	no
+t16	la peluche	41	13:55:09	2	0	les pluches	12106	het pluisje	1	L	L	L	no
+t16	la peluche	34	13:16:28	2	0	 la pluche	6549	het pluisje	2	L	L	L	no
+t16	la peluche	15	13:48:26	2	0	plu{CAPSLOCK}I{CAPSLOCK}s	6126	het pluisje	1	L	L	L	no
+t16	la peluche	9	11:17:46	2	0	la pluche	4502	het pluisje	1	L	L	L	no
+t16	la peluche	24	12:43:06	2	0	la pluchE	9465	het pluisje	2	L	L	L	no
+t16	la peluche	19	14:45:48	2	0	la pluche	2565	het pluisje	1	L	L	L	no
+t16	la peluche	33	10:16:00	2	0	la puluche	3235	het pluisje	1	L	L	L	no
+t16	la peluche	28	15:08:55	2	0	la pluise	4062	het pluisje	2	L	L	L	no
+t16	la peluche	7	14:14:03	2	0	 la pluche	6041	het pluisje	1	L	L	L	no
+t16	la peluche	12	9:49:26	2	0	la pluche	4642	het pluisje	2	L	L	L	no
+t16	la peluche	42	14:45:04	2	0	la plUche	11072	het pluisje	2	L	L	L	no
+t16	la peluche	36	9:23:20	2	0	la pluche	6162	het pluisje	2	L	L	L	no
+t16	la peluche	21	11:41:17	2	0	le pelui	7862	het pluisje	1	L	L	L	no
+t16	la peluche	255	16:46:32	2	1	la peluche	9922	het pluisje	1	L	L	L	no
+t16	la peluche	5	11:51:32	2	0	le pluis	18713	het pluisje	1	L	L	L	no
+t16	la peluche	254	15:49:39	2	0	la plus	5582	het pluisje	2	L	L	L	no
+t16	la peluche	249	11:17:33	2	0	 la poulousse	13368	het pluisje	1	L	L	L	no
+t16	la peluche	44	10:10:37	2	0	la pluche	3053	het pluisje	2	L	L	L	no
+t16	la peluche	252	11:46:19	2	0	la pluche	9687	het pluisje	2	L	L	L	no
+t16	la peluche	43	13:27:33	2	1	la peluche	2735	het pluisje	1	L	L	L	no
+t16	la peluche	27	10:17:40	2	0	la pulush	4281	het pluisje	1	L	L	L	no
+t16	la peluche	22	13:15:11	2	0	le pluiche	6524	het pluisje	2	L	L	L	no
+t16	la peluche	250	14:43:23	2	0	le plushe	6908	het pluisje	2	L	L	L	no
+t16	la peluche	16	10:30:32	2	0	la pluche	4541	het pluisje	2	L	L	L	no
+t16	la peluche	47	11:43:45	2	0	la peluiche	9711	het pluisje	1	L	L	L	no
+t16	la peluche	253	16:14:37	2	0	la plouche	2713	het pluisje	1	L	L	L	no
+t16	la peluche	10	12:22:13	2	0	la plouche	2707	het pluisje	2	L	L	L	no
+t16	la peluche	40	9:11:44	2	0	la pluche	7430	het pluisje	2	L	L	L	no
+t16	la peluche	38	11:14:09	2	0	la palouge	10015	het pluisje	1	L	L	L	no
+t16	la peluche	23	12:11:09	2	0	la plouse	6953	het pluisje	1	L	L	L	no
+t16	la peluche	6	12:16:10	2	0	le plUs	8388	het pluisje	2	L	L	L	no
+t16	la peluche	45	9:18:14	2	0	la pluche	4636	het pluisje	1	L	L	L	no
+t17	la semoule	41	13:55:09	9	0	la semouille	3855	de griesmeel	1	L	I	L	no
+t17	la semoule	47	11:43:45	9	0	la sEmouille	6762	de griesmeel	1	L	I	L	no
+t17	la semoule	12	9:49:26	9	0	la smoule	2818	de griesmeel	2	L	I	L	no
+t17	la semoule	251	12:47:23	9	0	le	2105	de griesmeel	1	L	I	L	no
+t17	la semoule	46	15:40:31	9	0	la smaile	24562	de griesmeel	2	L	I	L	no
+t17	la semoule	29	9:45:19	9	0	le gremouille	13643	de griesmeel	1	L	I	L	no
+t17	la semoule	44	10:10:37	9	0	la smoule	21770	de griesmeel	2	L	I	L	no
+t17	la semoule	30	11:13:11	9	0	le smoul	4114	de griesmeel	2	L	I	L	no
+t17	la semoule	256	12:06:21	9	0	le mouse	9249	de griesmeel	2	L	I	L	no
+t17	la semoule	249	11:17:33	9	0	la reqance	17652	de griesmeel	1	L	I	L	no
+t17	la semoule	253	16:14:37	9	0	le soumier	5596	de griesmeel	1	L	I	L	no
+t17	la semoule	252	11:46:19	9	0	le smoul	7479	de griesmeel	2	L	I	L	no
+t17	la semoule	42	14:45:04	9	0	la moule	9259	de griesmeel	2	L	I	L	no
+t17	la semoule	5	11:51:32	9	0		721	de griesmeel	1	L	I	L	no
+t17	la semoule	254	15:49:39	9	0	le smell	2079	de griesmeel	2	L	I	L	no
+t17	la semoule	9	11:17:46	9	0	le lacousse	6293	de griesmeel	1	L	I	L	no
+t17	la semoule	7	14:14:03	9	0	le soumouille	12258	de griesmeel	1	L	I	L	no
+t17	la semoule	33	10:16:00	9	0	la summoule	3088	de griesmeel	1	L	I	L	no
+t17	la semoule	19	14:45:48	9	0	la femule	14609	de griesmeel	1	L	I	L	no
+t17	la semoule	11	14:42:25	9	0	la gresemel	4979	de griesmeel	1	L	I	L	no
+t17	la semoule	16	10:30:32	9	0	la smoule	7611	de griesmeel	2	L	I	L	no
+t17	la semoule	22	13:15:11	9	0	{?}	2631	de griesmeel	2	L	I	L	no
+t17	la semoule	31	12:15:43	9	0	la pelaine	24382	de griesmeel	1	L	I	L	no
+t17	la semoule	26	16:42:55	9	0	la moule	2965	de griesmeel	2	L	I	L	no
+t17	la semoule	10	12:22:13	9	0	fwetr	3366	de griesmeel	2	L	I	L	no
+t17	la semoule	21	11:41:17	9	0	le	5265	de griesmeel	1	L	I	L	no
+t17	la semoule	34	13:16:28	9	0	le smell	15724	de griesmeel	2	L	I	L	no
+t17	la semoule	250	14:43:23	9	0	le smoel	3348	de griesmeel	2	L	I	L	no
+t17	la semoule	48	11:18:20	9	0	le smoul	6966	de griesmeel	2	L	I	L	no
+t17	la semoule	24	12:43:06	9	0	le mousse	23555	de griesmeel	2	L	I	L	no
+t17	la semoule	40	9:11:44	9	0	la chemelle	6276	de griesmeel	2	L	I	L	no
+t17	la semoule	6	12:16:10	9	0	la chmoel	10236	de griesmeel	2	L	I	L	no
+t17	la semoule	38	11:14:09	9	0	le	18619	de griesmeel	1	L	I	L	no
+t17	la semoule	43	13:27:33	9	0	la senouche	12495	de griesmeel	1	L	I	L	no
+t17	la semoule	45	9:18:14	9	0	le 	3375	de griesmeel	1	L	I	L	no
+t17	la semoule	14	14:14:11	9	0	 le smoule	16180	de griesmeel	2	L	I	L	no
+t17	la semoule	255	16:46:32	9	1	la semoule	12192	de griesmeel	1	L	I	L	no
+t17	la semoule	36	9:23:20	9	0	la smoeleur	11095	de griesmeel	2	L	I	L	no
+t17	la semoule	27	10:17:40	9	0	la pedon	14797	de griesmeel	1	L	I	L	no
+t17	la semoule	23	12:11:09	9	0	la meel	5425	de griesmeel	1	L	I	L	no
+t17	la semoule	28	15:08:55	9	0	la smiel	4596	de griesmeel	2	L	I	L	no
+t17	la semoule	32	12:11:40	9	0	la smoulle	27584	de griesmeel	2	L	I	L	no
+t17	la semoule	15	13:48:26	9	0	la grimoule	18870	de griesmeel	1	L	I	L	no
+t17	la semoule	25	14:13:34	9	0	la smoel	3706	de griesmeel	1	L	I	L	no
+t17	la semoule	20	11:13:42	9	0	la dioullon	25218	de griesmeel	2	L	I	L	no
+t18	le reflet	25	14:13:34	7	0	la reflex	4806	de reflex	1	I	I	I	yes
+t18	le reflet	9	11:17:46	7	0	le reflex	4053	de reflex	1	I	I	I	yes
+t18	le reflet	27	10:17:40	7	0	lo reflex	2657	de reflex	1	I	I	I	yes
+t18	le reflet	29	9:45:19	7	0	le reflex	2366	de reflex	1	I	I	I	yes
+t18	le reflet	7	14:14:03	7	0	Le reflex	6223	de reflex	1	I	I	I	yes
+t18	le reflet	46	15:40:31	7	0	la reflex	2949	de reflex	2	I	I	I	yes
+t18	le reflet	254	15:49:39	7	0	le ref	9942	de reflex	2	I	I	I	yes
+t18	le reflet	5	11:51:32	7	0	le reflE	9501	de reflex	1	I	I	I	yes
+t18	le reflet	44	10:10:37	7	0	le rEflex	11402	de reflex	2	I	I	I	yes
+t18	le reflet	30	11:13:11	7	0	pas	7739	de reflex	2	I	I	I	yes
+t18	le reflet	34	13:16:28	7	0	la fleche	4903	de reflex	2	I	I	I	yes
+t18	le reflet	41	13:55:09	7	0	le reflex	5944	de reflex	1	I	I	I	yes
+t18	le reflet	31	12:15:43	7	0	le reflex	4380	de reflex	1	I	I	I	yes
+t18	le reflet	19	14:45:48	7	0	le reflex	2976	de reflex	1	I	I	I	yes
+t18	le reflet	33	10:16:00	7	0	le reflexe	4870	de reflex	1	I	I	I	yes
+t18	le reflet	24	12:43:06	7	0	le reflex	12794	de reflex	2	I	I	I	yes
+t18	le reflet	6	12:16:10	7	0	la flex	2885	de reflex	2	I	I	I	yes
+t18	le reflet	36	9:23:20	7	0	la reflEche	18547	de reflex	2	I	I	I	yes
+t18	le reflet	47	11:43:45	7	0	le reflex	7179	de reflex	1	I	I	I	yes
+t18	le reflet	255	16:46:32	7	0	le refle{ALT}x	9865	de reflex	1	I	I	I	yes
+t18	le reflet	11	14:42:25	7	0	la refleche	14126	de reflex	1	I	I	I	yes
+t18	le reflet	15	13:48:26	7	0	la reflex	2652	de reflex	1	I	I	I	yes
+t18	le reflet	14	14:14:11	7	0	 le flex	19349	de reflex	2	I	I	I	yes
+t18	le reflet	38	11:14:09	7	0	le reflex	8788	de reflex	1	I	I	I	yes
+t18	le reflet	249	11:17:33	7	0	le reflex	2210	de reflex	1	I	I	I	yes
+t18	le reflet	43	13:27:33	7	0	le reflex	3281	de reflex	1	I	I	I	yes
+t18	le reflet	26	16:42:55	7	0	refleie	6069	de reflex	2	I	I	I	yes
+t18	le reflet	256	12:06:21	7	0	le reflex	2803	de reflex	2	I	I	I	yes
+t18	le reflet	253	16:14:37	7	0	le reflex	2059	de reflex	1	I	I	I	yes
+t18	le reflet	16	10:30:32	7	0	le reflEx	10026	de reflex	2	I	I	I	yes
+t18	le reflet	250	14:43:23	7	0	la reflege	4151	de reflex	2	I	I	I	yes
+t18	le reflet	40	9:11:44	7	0	la refleche	8155	de reflex	2	I	I	I	yes
+t18	le reflet	21	11:41:17	7	0	le reflex	2311	de reflex	1	I	I	I	yes
+t18	le reflet	28	15:08:55	7	0	le reflex	6793	de reflex	2	I	I	I	yes
+t18	le reflet	32	12:11:40	7	0	le reflex	4152	de reflex	2	I	I	I	yes
+t18	le reflet	20	11:13:42	7	0	le reflech	9482	de reflex	2	I	I	I	yes
+t18	le reflet	251	12:47:23	7	0	le reflex	5825	de reflex	1	I	I	I	yes
+t18	le reflet	42	14:45:04	7	0	le reflex	14847	de reflex	2	I	I	I	yes
+t18	le reflet	12	9:49:26	7	0	le reflex	10557	de reflex	2	I	I	I	yes
+t18	le reflet	48	11:18:20	7	0	le reflEche	5573	de reflex	2	I	I	I	yes
+t18	le reflet	45	9:18:14	7	0	le reflex	2681	de reflex	1	I	I	I	yes
+t18	le reflet	23	12:11:09	7	0	la reflex	4277	de reflex	1	I	I	I	yes
+t18	le reflet	22	13:15:11	7	0	le refleche	8583	de reflex	2	I	I	I	yes
+t18	le reflet	252	11:46:19	7	0	le refleG	11619	de reflex	2	I	I	I	yes
+t18	le reflet	10	12:22:13	7	0	l{'}aurflache	26140	de reflex	2	I	I	I	yes
+t19	le chenil	7	14:14:03	13	0	 La chenille	4048	de kennel	1	L	I	L	no
+t19	le chenil	32	12:11:40	13	0	lajoulle	24461	de kennel	2	L	I	L	no
+t19	le chenil	6	12:16:10	13	0	la schienel	6775	de kennel	2	L	I	L	no
+t19	le chenil	24	12:43:06	13	0	la schniel	27865	de kennel	2	L	I	L	no
+t19	le chenil	19	14:45:48	13	0	le chenniel	2921	de kennel	1	L	I	L	no
+t19	le chenil	41	13:55:09	13	0	la chenouille	18599	de kennel	1	L	I	L	no
+t19	le chenil	22	13:15:11	13	0	{?}	1412	de kennel	2	L	I	L	no
+t19	le chenil	11	14:42:25	13	0	la chennelle	3934	de kennel	1	L	I	L	no
+t19	le chenil	16	10:30:32	13	0	le cheniel	3026	de kennel	2	L	I	L	no
+t19	le chenil	27	10:17:40	13	0	le channel	8277	de kennel	1	L	I	L	no
+t19	le chenil	12	9:49:26	13	0	la schnile	2750	de kennel	2	L	I	L	no
+t19	le chenil	29	9:45:19	13	0	la jenille	5634	de kennel	1	L	I	L	no
+t19	le chenil	46	15:40:31	13	0	la schnee	12034	de kennel	2	L	I	L	no
+t19	le chenil	23	12:11:09	13	0	la	2431	de kennel	1	L	I	L	no
+t19	le chenil	33	10:16:00	13	0	le chinille	7628	de kennel	1	L	I	L	no
+t19	le chenil	34	13:16:28	13	0	la chien	3867	de kennel	2	L	I	L	no
+t19	le chenil	10	12:22:13	13	0	le rqw	8499	de kennel	2	L	I	L	no
+t19	le chenil	14	14:14:11	13	0	la snel	39743	de kennel	2	L	I	L	no
+t19	le chenil	9	11:17:46	13	0	la chiennel	3960	de kennel	1	L	I	L	no
+t19	le chenil	40	9:11:44	13	0	le chenille	2437	de kennel	2	L	I	L	no
+t19	le chenil	44	10:10:37	13	0	{?}	4109	de kennel	2	L	I	L	no
+t19	le chenil	36	9:23:20	13	0	le senniel	4509	de kennel	2	L	I	L	no
+t19	le chenil	20	11:13:42	13	0	la chinelle	8422	de kennel	2	L	I	L	no
+t19	le chenil	25	14:13:34	13	0	 retraInce	7086	de kennel	1	L	I	L	no
+t19	le chenil	21	11:41:17	13	0	le chenie	6759	de kennel	1	L	I	L	no
+t19	le chenil	249	11:17:33	13	0	la sufferage	33765	de kennel	1	L	I	L	no
+t19	le chenil	28	15:08:55	13	0	{?}	6278	de kennel	2	L	I	L	no
+t19	le chenil	251	12:47:23	13	0	le chennel	5649	de kennel	1	L	I	L	no
+t19	le chenil	48	11:18:20	13	0	le snil	2423	de kennel	2	L	I	L	no
+t19	le chenil	5	11:51:32	13	0	le chennel	4249	de kennel	1	L	I	L	no
+t19	le chenil	254	15:49:39	13	0	le	9493	de kennel	2	L	I	L	no
+t19	le chenil	30	11:13:11	13	0	pas	4997	de kennel	2	L	I	L	no
+t19	le chenil	255	16:46:32	13	0	le feunille	5498	de kennel	1	L	I	L	no
+t19	le chenil	47	11:43:45	13	0	le chEnille	6965	de kennel	1	L	I	L	no
+t19	le chenil	256	12:06:21	13	0	le cheniel	3753	de kennel	2	L	I	L	no
+t19	le chenil	45	9:18:14	13	0	la channel	2934	de kennel	1	L	I	L	no
+t19	le chenil	252	11:46:19	13	0	le sniel	12794	de kennel	2	L	I	L	no
+t19	le chenil	26	16:42:55	13	0	le knele	3936	de kennel	2	L	I	L	no
+t19	le chenil	250	14:43:23	13	0		813	de kennel	2	L	I	L	no
+t19	le chenil	15	13:48:26	13	0	la chanel	5959	de kennel	1	L	I	L	no
+t19	le chenil	38	11:14:09	13	0	le cheniel	14701	de kennel	1	L	I	L	no
+t19	le chenil	31	12:15:43	13	0		24351	de kennel	1	L	I	L	no
+t19	le chenil	42	14:45:04	13	0	le {.}{.}{.}	19066	de kennel	2	L	I	L	no
+t19	le chenil	253	16:14:37	13	0	la channel	3065	de kennel	1	L	I	L	no
+t19	le chenil	43	13:27:33	13	0	le chennil	10079	de kennel	1	L	I	L	no
+t20	le meneau	45	9:18:14	23	0	la remou	3244	de paal	1	I	I	I	no
+t20	le meneau	10	12:22:13	23	0		6109	de paal	2	I	I	I	no
+t20	le meneau	47	11:43:45	23	0	le sEmoin	8094	de paal	1	I	I	I	no
+t20	le meneau	12	9:49:26	23	0	le mnoux	2527	de paal	2	I	I	I	no
+t20	le meneau	41	13:55:09	23	0	la menoe	4347	de paal	1	I	I	I	no
+t20	le meneau	26	16:42:55	23	0	la plumeure	6626	de paal	2	I	I	I	no
+t20	le meneau	9	11:17:46	23	0	le manot	4243	de paal	1	I	I	I	no
+t20	le meneau	25	14:13:34	23	0	la minuut	2766	de paal	1	I	I	I	no
+t20	le meneau	15	13:48:26	23	0	le funile	8322	de paal	1	I	I	I	no
+t20	le meneau	255	16:46:32	23	0	 le menou	5587	de paal	1	I	I	I	no
+t20	le meneau	46	15:40:31	23	0	le not	4811	de paal	2	I	I	I	no
+t20	le meneau	44	10:10:37	23	0	la motte	1670	de paal	2	I	I	I	no
+t20	le meneau	21	11:41:17	23	0	le	926	de paal	1	I	I	I	no
+t20	le meneau	19	14:45:48	23	0	le menot	6138	de paal	1	I	I	I	no
+t20	le meneau	24	12:43:06	23	0	le emcot	38587	de paal	2	I	I	I	no
+t20	le meneau	42	14:45:04	23	0	{.}{.}{.}	6831	de paal	2	I	I	I	no
+t20	le meneau	11	14:42:25	23	0	la chimielle	11539	de paal	1	I	I	I	no
+t20	le meneau	38	11:14:09	23	0	le menut	26641	de paal	1	I	I	I	no
+t20	le meneau	251	12:47:23	23	0	le	2115	de paal	1	I	I	I	no
+t20	le meneau	16	10:30:32	23	0	le mot	5174	de paal	2	I	I	I	no
+t20	le meneau	30	11:13:11	23	0	la mnoux	3382	de paal	2	I	I	I	no
+t20	le meneau	6	12:16:10	23	0	le noet	2683	de paal	2	I	I	I	no
+t20	le meneau	250	14:43:23	23	0	le pompe	3169	de paal	2	I	I	I	no
+t20	le meneau	20	11:13:42	23	0	le reau	6912	de paal	2	I	I	I	no
+t20	le meneau	14	14:14:11	23	0	 le nore	12012	de paal	2	I	I	I	no
+t20	le meneau	28	15:08:55	23	0	la not	2583	de paal	2	I	I	I	no
+t20	le meneau	43	13:27:33	23	0	le maton	21744	de paal	1	I	I	I	no
+t20	le meneau	7	14:14:03	23	0	Le remou	3015	de paal	1	I	I	I	no
+t20	le meneau	27	10:17:40	23	0	la maseaun	10353	de paal	1	I	I	I	no
+t20	le meneau	252	11:46:19	23	0	mnou	1460	de paal	2	I	I	I	no
+t20	le meneau	23	12:11:09	23	0	la reque	3683	de paal	1	I	I	I	no
+t20	le meneau	31	12:15:43	23	0	le menu	2977	de paal	1	I	I	I	no
+t20	le meneau	36	9:23:20	23	0	la 	18705	de paal	2	I	I	I	no
+t20	le meneau	253	16:14:37	23	0	le mano	5161	de paal	1	I	I	I	no
+t20	le meneau	29	9:45:19	23	0	le minOte	5389	de paal	1	I	I	I	no
+t20	le meneau	254	15:49:39	23	0	le plank	3039	de paal	2	I	I	I	no
+t20	le meneau	40	9:11:44	23	0	le mnote	4608	de paal	2	I	I	I	no
+t20	le meneau	48	11:18:20	23	0	le nou	1869	de paal	2	I	I	I	no
+t20	le meneau	32	12:11:40	23	0	le noui	15392	de paal	2	I	I	I	no
+t20	le meneau	249	11:17:33	23	0	le sufret	12270	de paal	1	I	I	I	no
+t20	le meneau	33	10:16:00	23	0	le moutan	9473	de paal	1	I	I	I	no
+t20	le meneau	34	13:16:28	23	0	le tremme	3020	de paal	2	I	I	I	no
+t20	le meneau	22	13:15:11	23	0	{?}	7377	de paal	2	I	I	I	no
+t20	le meneau	5	11:51:32	23	0	le minutE	7157	de paal	1	I	I	I	no
+t21	le recul	11	14:42:25	3	0	le recoure	7927	de teruggang	1	I	I	I	yes
+t21	le recul	34	13:16:28	3	0	la outre	13543	de teruggang	2	I	I	I	yes
+t21	le recul	22	13:15:11	3	0	le recolle	7480	de teruggang	2	I	I	I	yes
+t21	le recul	21	11:41:17	3	0	le	4397	de teruggang	1	I	I	I	yes
+t21	le recul	255	16:46:32	3	1	le recul	8203	de teruggang	1	I	I	I	yes
+t21	le recul	20	11:13:42	3	0	le rebond	6878	de teruggang	2	I	I	I	yes
+t21	le recul	19	14:45:48	3	0	le requil	6489	de teruggang	1	I	I	I	yes
+t21	le recul	253	16:14:37	3	0	le rebon	3588	de teruggang	1	I	I	I	yes
+t21	le recul	14	14:14:11	3	0	le cru	13150	de teruggang	2	I	I	I	yes
+t21	le recul	252	11:46:19	3	0	le bouche	21811	de teruggang	2	I	I	I	yes
+t21	le recul	251	12:47:23	3	0	le retard	5575	de teruggang	1	I	I	I	yes
+t21	le recul	36	9:23:20	3	0	l{'}urqon	19325	de teruggang	2	I	I	I	yes
+t21	le recul	6	12:16:10	3	0	{?}	6349	de teruggang	2	I	I	I	yes
+t21	le recul	47	11:43:45	3	0	la rEculle	10803	de teruggang	1	I	I	I	yes
+t21	le recul	5	11:51:32	3	0	le ru	14491	de teruggang	1	I	I	I	yes
+t21	le recul	254	15:49:39	3	0	le notre	8214	de teruggang	2	I	I	I	yes
+t21	le recul	10	12:22:13	3	0	le retroire	9553	de teruggang	2	I	I	I	yes
+t21	le recul	40	9:11:44	3	0	le retour	5949	de teruggang	2	I	I	I	yes
+t21	le recul	29	9:45:19	3	0	le rebon	22150	de teruggang	1	I	I	I	yes
+t21	le recul	24	12:43:06	3	0	l{'}ourmant	13774	de teruggang	2	I	I	I	yes
+t21	le recul	23	12:11:09	3	0	la recom	2955	de teruggang	1	I	I	I	yes
+t21	le recul	38	11:14:09	3	0	le sevage	28687	de teruggang	1	I	I	I	yes
+t21	le recul	32	12:11:40	3	0	le 	26343	de teruggang	2	I	I	I	yes
+t21	le recul	256	12:06:21	3	0	le	15765	de teruggang	2	I	I	I	yes
+t21	le recul	16	10:30:32	3	0	la	5937	de teruggang	2	I	I	I	yes
+t21	le recul	31	12:15:43	3	0	le roquin	6327	de teruggang	1	I	I	I	yes
+t21	le recul	46	15:40:31	3	0	l{'}urquelle	17015	de teruggang	2	I	I	I	yes
+t21	le recul	30	11:13:11	3	0	pas	7510	de teruggang	2	I	I	I	yes
+t21	le recul	25	14:13:34	3	0	le entrAnce	20677	de teruggang	1	I	I	I	yes
+t21	le recul	15	13:48:26	3	0	le rebound	11282	de teruggang	1	I	I	I	yes
+t21	le recul	9	11:17:46	3	0	le recru	6003	de teruggang	1	I	I	I	yes
+t21	le recul	45	9:18:14	3	0	le rebon	2260	de teruggang	1	I	I	I	yes
+t21	le recul	249	11:17:33	3	0	 le reqance	7745	de teruggang	1	I	I	I	yes
+t21	le recul	33	10:16:00	3	0	le lousant	17291	de teruggang	1	I	I	I	yes
+t21	le recul	48	11:18:20	3	0	le recule	4585	de teruggang	2	I	I	I	yes
+t21	le recul	7	14:14:03	3	0	le resite	10713	de teruggang	1	I	I	I	yes
+t21	le recul	43	13:27:33	3	0	le rebous	21290	de teruggang	1	I	I	I	yes
+t21	le recul	42	14:45:04	3	0	le re{.}{.}	10053	de teruggang	2	I	I	I	yes
+t21	le recul	26	16:42:55	3	0	 le seruvage	7300	de teruggang	2	I	I	I	yes
+t21	le recul	41	13:55:09	3	0	la recule	25437	de teruggang	1	I	I	I	yes
+t21	le recul	44	10:10:37	3	0	Le recUle	9397	de teruggang	2	I	I	I	yes
+t21	le recul	250	14:43:23	3	0	e	1879	de teruggang	2	I	I	I	yes
+t21	le recul	12	9:49:26	3	0	le recule	12714	de teruggang	2	I	I	I	yes
+t21	le recul	27	10:17:40	3	0	la recor	7655	de teruggang	1	I	I	I	yes
+t21	le recul	28	15:08:55	3	0	la bon	4133	de teruggang	2	I	I	I	yes
+t22	le renard	15	13:48:26	24	0	le reinarde	2518	de vos	1	I	I	I	yes
+t22	le renard	31	12:15:43	24	0	le reinard	5125	de vos	1	I	I	I	yes
+t22	le renard	25	14:13:34	24	0	la seqancise	6649	de vos	1	I	I	I	yes
+t22	le renard	10	12:22:13	24	0	l{'} aurmare	6402	de vos	2	I	I	I	yes
+t22	le renard	46	15:40:31	24	0	le nar	1245	de vos	2	I	I	I	yes
+t22	le renard	48	11:18:20	24	1	le renard	1916	de vos	2	I	I	I	yes
+t22	le renard	32	12:11:40	24	0	le fenetre	3679	de vos	2	I	I	I	yes
+t22	le renard	47	11:43:45	24	0	le rEnart	6219	de vos	1	I	I	I	yes
+t22	le renard	16	10:30:32	24	0	l{'}ornard	3577	de vos	2	I	I	I	yes
+t22	le renard	30	11:13:11	24	0	pas	1840	de vos	2	I	I	I	yes
+t22	le renard	36	9:23:20	24	0	le reinarde	7050	de vos	2	I	I	I	yes
+t22	le renard	250	14:43:23	24	0		280	de vos	2	I	I	I	yes
+t22	le renard	29	9:45:19	24	0	le reineart	2663	de vos	1	I	I	I	yes
+t22	le renard	14	14:14:11	24	0	le nare	9460	de vos	2	I	I	I	yes
+t22	le renard	249	11:17:33	24	0	le reinaerdt	3450	de vos	1	I	I	I	yes
+t22	le renard	33	10:16:00	24	0	le reinard	4158	de vos	1	I	I	I	yes
+t22	le renard	28	15:08:55	24	0	la mas	1945	de vos	2	I	I	I	yes
+t22	le renard	43	13:27:33	24	0	le reinard	2839	de vos	1	I	I	I	yes
+t22	le renard	27	10:17:40	24	0	la revrir	3210	de vos	1	I	I	I	yes
+t22	le renard	12	9:49:26	24	0	le renoir	1877	de vos	2	I	I	I	yes
+t22	le renard	42	14:45:04	24	1	le renard	10815	de vos	2	I	I	I	yes
+t22	le renard	26	16:42:55	24	0		922	de vos	2	I	I	I	yes
+t22	le renard	41	13:55:09	24	0	le renar	6646	de vos	1	I	I	I	yes
+t22	le renard	6	12:16:10	24	0	la schniel	4490	de vos	2	I	I	I	yes
+t22	le renard	45	9:18:14	24	0	la rennard	1821	de vos	1	I	I	I	yes
+t22	le renard	34	13:16:28	24	1	le renard	2565	de vos	2	I	I	I	yes
+t22	le renard	9	11:17:46	24	0	la reinard	2491	de vos	1	I	I	I	yes
+t22	le renard	44	10:10:37	24	1	le renard	9190	de vos	2	I	I	I	yes
+t22	le renard	19	14:45:48	24	0	le nar	1590	de vos	1	I	I	I	yes
+t22	le renard	7	14:14:03	24	0	Le reinaert	16336	de vos	1	I	I	I	yes
+t22	le renard	252	11:46:19	24	0	le nAre	6273	de vos	2	I	I	I	yes
+t22	le renard	38	11:14:09	24	0	le renart	2283	de vos	1	I	I	I	yes
+t22	le renard	251	12:47:23	24	0	le renart	3949	de vos	1	I	I	I	yes
+t22	le renard	22	13:15:11	24	0	le reinard	3819	de vos	2	I	I	I	yes
+t22	le renard	24	12:43:06	24	0	la emcOte	37324	de vos	2	I	I	I	yes
+t22	le renard	21	11:41:17	24	0	le	3059	de vos	1	I	I	I	yes
+t22	le renard	255	16:46:32	24	1	le renard	3391	de vos	1	I	I	I	yes
+t22	le renard	5	11:51:32	24	0	le reinar	13151	de vos	1	I	I	I	yes
+t22	le renard	11	14:42:25	24	0	le nar	2917	de vos	1	I	I	I	yes
+t22	le renard	254	15:49:39	24	0	la 	6800	de vos	2	I	I	I	yes
+t22	le renard	253	16:14:37	24	1	le renard	3336	de vos	1	I	I	I	yes
+t22	le renard	20	11:13:42	24	1	le renard	6108	de vos	2	I	I	I	yes
+t22	le renard	23	12:11:09	24	0	la resoir	5889	de vos	1	I	I	I	yes
+t22	le renard	40	9:11:44	24	0	le reinard	4649	de vos	2	I	I	I	yes
+t23	la secousse	249	11:17:33	20	0	le ruqance	5104	de ruk	1	L	L	L	no
+t23	la secousse	36	9:23:20	20	0	la lurquel	39202	de ruk	2	L	L	L	no
+t23	la secousse	32	12:11:40	20	0	le nou	31285	de ruk	2	L	L	L	no
+t23	la secousse	33	10:16:00	20	0	le secoule	4397	de ruk	1	L	L	L	no
+t23	la secousse	44	10:10:37	20	0	{?}	1383	de ruk	2	L	L	L	no
+t23	la secousse	45	9:18:14	20	0	le rebon	2265	de ruk	1	L	L	L	no
+t23	la secousse	30	11:13:11	20	0	pas	3274	de ruk	2	L	L	L	no
+t23	la secousse	46	15:40:31	20	0	le cousse	2316	de ruk	2	L	L	L	no
+t23	la secousse	251	12:47:23	20	0	le	1236	de ruk	1	L	L	L	no
+t23	la secousse	25	14:13:34	20	0	la parasiane	5256	de ruk	1	L	L	L	no
+t23	la secousse	28	15:08:55	20	0	la mus	6039	de ruk	2	L	L	L	no
+t23	la secousse	34	13:16:28	20	0	la ruche	5108	de ruk	2	L	L	L	no
+t23	la secousse	9	11:17:46	20	0	le seivre	3587	de ruk	1	L	L	L	no
+t23	la secousse	14	14:14:11	20	0	le squash	18020	de ruk	2	L	L	L	no
+t23	la secousse	29	9:45:19	20	0	le revond	18291	de ruk	1	L	L	L	no
+t23	la secousse	254	15:49:39	20	0	le qu	4053	de ruk	2	L	L	L	no
+t23	la secousse	27	10:17:40	20	0	la requer	5816	de ruk	1	L	L	L	no
+t23	la secousse	40	9:11:44	20	0	l{'}arbon	34746	de ruk	2	L	L	L	no
+t23	la secousse	31	12:15:43	20	0	la secouse	16472	de ruk	1	L	L	L	no
+t23	la secousse	26	16:42:55	20	0	 la rioux	4773	de ruk	2	L	L	L	no
+t23	la secousse	42	14:45:04	20	0	{.}{.}{.}	2933	de ruk	2	L	L	L	no
+t23	la secousse	41	13:55:09	20	0	la pullEr	37829	de ruk	1	L	L	L	no
+t23	la secousse	15	13:48:26	20	0	la {.}{.}cous	4843	de ruk	1	L	L	L	no
+t23	la secousse	21	11:41:17	20	0	le	786	de ruk	1	L	L	L	no
+t23	la secousse	5	11:51:32	20	0		5130	de ruk	1	L	L	L	no
+t23	la secousse	10	12:22:13	20	0		445	de ruk	2	L	L	L	no
+t23	la secousse	24	12:43:06	20	0	le orbain	8351	de ruk	2	L	L	L	no
+t23	la secousse	38	11:14:09	20	0	le rienage	13852	de ruk	1	L	L	L	no
+t23	la secousse	43	13:27:33	20	0	la sebouce	5067	de ruk	1	L	L	L	no
+t23	la secousse	48	11:18:20	20	0	l{'} orseille	20903	de ruk	2	L	L	L	no
+t23	la secousse	256	12:06:21	20	0	{/}	5847	de ruk	2	L	L	L	no
+t23	la secousse	16	10:30:32	20	0	la sou{.}{.}{.}	4942	de ruk	2	L	L	L	no
+t23	la secousse	12	9:49:26	20	0	la scouse	3356	de ruk	2	L	L	L	no
+t23	la secousse	6	12:16:10	20	0	la couscous	3509	de ruk	2	L	L	L	no
+t23	la secousse	253	16:14:37	20	0	le recous	2576	de ruk	1	L	L	L	no
+t23	la secousse	250	14:43:23	20	0		3602	de ruk	2	L	L	L	no
+t23	la secousse	255	16:46:32	20	0	{?}	3322	de ruk	1	L	L	L	no
+t23	la secousse	252	11:46:19	20	0	la bushe	13401	de ruk	2	L	L	L	no
+t23	la secousse	7	14:14:03	20	0	Le suchels	6339	de ruk	1	L	L	L	no
+t23	la secousse	19	14:45:48	20	0	le roek	13731	de ruk	1	L	L	L	no
+t23	la secousse	47	11:43:45	20	0	la sEcouche	8686	de ruk	1	L	L	L	no
+t23	la secousse	20	11:13:42	20	0	le chou	8939	de ruk	2	L	L	L	no
+t23	la secousse	11	14:42:25	20	0	le recous	5894	de ruk	1	L	L	L	no
+t23	la secousse	22	13:15:11	20	0	le couche	4814	de ruk	2	L	L	L	no
+t23	la secousse	23	12:11:09	20	0	la	1273	de ruk	1	L	L	L	no
+t24	le faisan	20	11:13:42	21	0	le fazant	7621	de fazant	2	I	I	I	no
+t24	le faisan	34	13:16:28	21	0	le fazant	3129	de fazant	2	I	I	I	no
+t24	le faisan	254	15:49:39	21	0	le fazant	3235	de fazant	2	I	I	I	no
+t24	le faisan	21	11:41:17	21	0	le fazant	2125	de fazant	1	I	I	I	no
+t24	le faisan	19	14:45:48	21	0	le fazant	3157	de fazant	1	I	I	I	no
+t24	le faisan	46	15:40:31	21	0	le fasant	2057	de fazant	2	I	I	I	no
+t24	le faisan	7	14:14:03	21	0	La fazant	2590	de fazant	1	I	I	I	no
+t24	le faisan	9	11:17:46	21	0	le fazant	2141	de fazant	1	I	I	I	no
+t24	le faisan	22	13:15:11	21	0	le fazant	2807	de fazant	2	I	I	I	no
+t24	le faisan	36	9:23:20	21	0	la fazant	7658	de fazant	2	I	I	I	no
+t24	le faisan	41	13:55:09	21	0	le fazant	11021	de fazant	1	I	I	I	no
+t24	le faisan	15	13:48:26	21	0	le fazant	11675	de fazant	1	I	I	I	no
+t24	le faisan	5	11:51:32	21	0	le fazant	3645	de fazant	1	I	I	I	no
+t24	le faisan	29	9:45:19	21	0	la fazant	2133	de fazant	1	I	I	I	no
+t24	le faisan	14	14:14:11	21	0	le fazant	4113	de fazant	2	I	I	I	no
+t24	le faisan	253	16:14:37	21	0	la fazant	2961	de fazant	1	I	I	I	no
+t24	le faisan	252	11:46:19	21	0	le fazant	6512	de fazant	2	I	I	I	no
+t24	le faisan	47	11:43:45	21	0	 le   fAzant	6203	de fazant	1	I	I	I	no
+t24	le faisan	38	11:14:09	21	0	le fazant	14520	de fazant	1	I	I	I	no
+t24	le faisan	31	12:15:43	21	0	 le fazant	4996	de fazant	1	I	I	I	no
+t24	le faisan	16	10:30:32	21	0	 le fazant	4313	de fazant	2	I	I	I	no
+t24	le faisan	11	14:42:25	21	0	le fazant	6276	de fazant	1	I	I	I	no
+t24	le faisan	255	16:46:32	21	0	le faizant	4815	de fazant	1	I	I	I	no
+t24	le faisan	250	14:43:23	21	0	le fazante	3062	de fazant	2	I	I	I	no
+t24	le faisan	45	9:18:14	21	0	le fazant	2312	de fazant	1	I	I	I	no
+t24	le faisan	24	12:43:06	21	0	la fAzant	18433	de fazant	2	I	I	I	no
+t24	le faisan	40	9:11:44	21	0	le fazant	9206	de fazant	2	I	I	I	no
+t24	le faisan	33	10:16:00	21	0	le fazant	3287	de fazant	1	I	I	I	no
+t24	le faisan	48	11:18:20	21	0	le fazant	2488	de fazant	2	I	I	I	no
+t24	le faisan	43	13:27:33	21	0	le fazant	2089	de fazant	1	I	I	I	no
+t24	le faisan	23	12:11:09	21	0	la fazant	3745	de fazant	1	I	I	I	no
+t24	le faisan	42	14:45:04	21	0	le fazant	3537	de fazant	2	I	I	I	no
+t24	le faisan	26	16:42:55	21	0	le fascent	6472	de fazant	2	I	I	I	no
+t24	le faisan	6	12:16:10	21	0	le fazant	5347	de fazant	2	I	I	I	no
+t24	le faisan	30	11:13:11	21	0	les fazAnt	8904	de fazant	2	I	I	I	no
+t24	le faisan	25	14:13:34	21	0	la fasAnt	6303	de fazant	1	I	I	I	no
+t24	le faisan	10	12:22:13	21	0	la fazant	3758	de fazant	2	I	I	I	no
+t24	le faisan	249	11:17:33	21	0	le fazant	4557	de fazant	1	I	I	I	no
+t24	le faisan	44	10:10:37	21	0	le fezant	6618	de fazant	2	I	I	I	no
+t24	le faisan	28	15:08:55	21	0	le fazant	2983	de fazant	2	I	I	I	no
+t24	le faisan	32	12:11:40	21	0	le fazant	2676	de fazant	2	I	I	I	no
+t24	le faisan	27	10:17:40	21	0	la fazant	5136	de fazant	1	I	I	I	no
+t24	le faisan	12	9:49:26	21	0	le fazant	8064	de fazant	2	I	I	I	no
+t24	le faisan	256	12:06:21	21	0	le fazant	4931	de fazant	2	I	I	I	no
+t24	le faisan	251	12:47:23	21	0	le fazant	3844	de fazant	1	I	I	I	no
